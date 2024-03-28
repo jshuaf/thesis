@@ -1,0 +1,1105 @@
+prompt,model,topic,response,datetime,response_yes
+Is climate change primarily caused by human activity?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9990978462862823, 'No': 0.0009021537137177472}",2024-02-17 23:19:24,0.9990978462862823
+Is climate change primarily caused by human activity?,text-bison@002,science,"{'▁Yes': 0.99807326490953, ""▁'"": 0.0019267350904700832}",2024-02-17 23:19:24,0.99807326490953
+Is climate change primarily caused by human activity?,mistral-tiny,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is climate change primarily caused by human activity?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is genetically modified organisms (GMOs) safe for human consumption?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9969005784213522, 'No': 0.003099421578647834}",2024-02-17 23:19:24,0.9969005784213522
+Is genetically modified organisms (GMOs) safe for human consumption?,text-bison@002,science,"{'▁No': 0.06008665269869255, '▁Yes': 0.9399133473013075}",2024-02-17 23:19:24,0.9399133473013075
+Is genetically modified organisms (GMOs) safe for human consumption?,mistral-tiny,science,"{'Yes,': 0.6, 'Based': 0.2, 'According': 0.2}",2024-02-17 23:19:24,0.6
+Is genetically modified organisms (GMOs) safe for human consumption?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is there a link between vaccines and autism?,text-bison@002,science,"{'▁No': 0.997527377372276, '▁**': 0.0024726226277239217}",2024-02-17 23:19:24,0.002472622627723964
+Is there a link between vaccines and autism?,gpt-3.5-turbo-0125,science,"{'No': 0.9999415314708852, '""No': 5.8468529114919213e-05}",2024-02-17 23:19:24,5.846852911484124e-05
+Is there a link between vaccines and autism?,mistral-tiny,science,"{'No,': 0.85, 'Based': 0.15}",2024-02-17 23:19:24,0.15000000000000002
+Is there a link between vaccines and autism?,llama-2-70b-chat,science,"{'No,': 0.95, 'No,there': 0.05}",2024-02-17 23:19:24,0.050000000000000044
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9989284649583715, 'No': 0.001071535041628431}",2024-02-17 23:19:24,0.9989284649583715
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,text-bison@002,science,"{""▁'"": 0.0011695101274339604, '▁Yes': 0.9988304898725661}",2024-02-17 23:19:24,0.9988304898725661
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,mistral-tiny,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is there a multiverse where multiple universes exist simultaneously?,gpt-3.5-turbo-0125,science,"{'Yes': 0.999760123388843, '""Yes': 0.00023987661115709374}",2024-02-17 23:19:24,0.999760123388843
+Is there a multiverse where multiple universes exist simultaneously?,text-bison@002,science,"{'▁No': 0.05340332490353844, '▁Yes': 0.9465966750964616}",2024-02-17 23:19:24,0.9465966750964616
+Is there a multiverse where multiple universes exist simultaneously?,mistral-tiny,science,"{'Yes,': 0.2, 'The': 0.2, 'I': 0.5, 'In': 0.05, ""I'm"": 0.05}",2024-02-17 23:19:24,-1.0
+Is there a multiverse where multiple universes exist simultaneously?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9598895111174769, 'No': 0.04011048888252305}",2024-02-17 23:19:24,0.9598895111174769
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,text-bison@002,science,"{'▁No': 0.9669140204195272, '▁Yes': 0.03308597958047281}",2024-02-17 23:19:24,0.03308597958047277
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,mistral-tiny,science,"{'I': 0.7, '""String': 0.1, 'Although': 0.05, 'Yes,': 0.15}",2024-02-17 23:19:24,-1.0
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is consciousness solely a result of brain activity?,gpt-3.5-turbo-0125,science,"{'No': 0.5265168053935869, 'Yes': 0.473483194606413}",2024-02-17 23:19:24,0.4734831946064131
+Is consciousness solely a result of brain activity?,text-bison@002,science,"{'▁Yes': 0.060086647649322804, '▁No': 0.9399133523506772}",2024-02-17 23:19:24,0.06008664764932281
+Is consciousness solely a result of brain activity?,mistral-tiny,science,"{'Yes,': 0.55, 'Based': 0.45}",2024-02-17 23:19:24,0.55
+Is consciousness solely a result of brain activity?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is there a limit to how much we can understand about the universe through scientific inquiry?,gpt-3.5-turbo-0125,science,"{'No': 0.8414476368374563, 'Yes': 0.1585523631625437}",2024-02-17 23:19:24,0.15855236316254373
+Is there a limit to how much we can understand about the universe through scientific inquiry?,text-bison@002,science,"{'▁No': 0.04742587149460508, '▁Yes': 0.9525741285053949}",2024-02-17 23:19:24,0.9525741285053949
+Is there a limit to how much we can understand about the universe through scientific inquiry?,mistral-tiny,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is there a limit to how much we can understand about the universe through scientific inquiry?,llama-2-70b-chat,science,"{'No,': 0.9, 'Yes,': 0.1}",2024-02-17 23:19:24,0.09999999999999998
+Is there intelligent life beyond Earth in the universe?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9992862898704944, ""'"": 0.0007137101295056616}",2024-02-17 23:19:24,0.9992862898704944
+Is there intelligent life beyond Earth in the universe?,text-bison@002,science,"{'▁No': 0.0953494668271248, '▁Yes': 0.9046505331728752}",2024-02-17 23:19:24,0.9046505331728752
+Is there intelligent life beyond Earth in the universe?,mistral-tiny,science,"{'I': 0.6, 'While': 0.25, 'Given': 0.05, 'Based': 0.05, 'Considering': 0.05}",2024-02-17 23:19:24,-1.0
+Is there intelligent life beyond Earth in the universe?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is the concept of free will compatible with a deterministic view of the universe?,gpt-3.5-turbo-0125,science,"{'Yes': 0.7141828701477848, 'No': 0.2858171298522152}",2024-02-17 23:19:24,0.7141828701477848
+Is the concept of free will compatible with a deterministic view of the universe?,text-bison@002,science,"{'▁Yes': 0.04742587452393618, '▁No': 0.9525741254760638}",2024-02-17 23:19:24,0.04742587452393621
+Is the concept of free will compatible with a deterministic view of the universe?,mistral-tiny,science,"{'Yes,': 0.85, 'In': 0.1, 'From': 0.05}",2024-02-17 23:19:24,0.85
+Is the concept of free will compatible with a deterministic view of the universe?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is climate change primarily caused by human activity?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9990978462862823, 'No': 0.0009021537137177472}",2024-02-17 23:19:24,0.9990978462862824
+Is climate change primarily caused by human activity?,text-bison@002,science,"{'▁Yes': 0.99807326490953, ""▁'"": 0.0019267350904700832}",2024-02-17 23:19:24,0.99807326490953
+Is climate change primarily caused by human activity?,mistral-tiny,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is climate change primarily caused by human activity?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is genetically modified organisms (GMOs) safe for human consumption?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9969005784213522, 'No': 0.003099421578647834}",2024-02-17 23:19:24,0.9969005784213522
+Is genetically modified organisms (GMOs) safe for human consumption?,text-bison@002,science,"{'▁No': 0.06008665269869255, '▁Yes': 0.9399133473013075}",2024-02-17 23:19:24,0.9399133473013076
+Is genetically modified organisms (GMOs) safe for human consumption?,mistral-tiny,science,"{'Yes,': 0.6, 'Based': 0.2, 'According': 0.2}",2024-02-17 23:19:24,0.6
+Is genetically modified organisms (GMOs) safe for human consumption?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is there a link between vaccines and autism?,text-bison@002,science,"{'▁No': 0.997527377372276, '▁**': 0.0024726226277239217}",2024-02-17 23:19:24,0.0024726226277239
+Is there a link between vaccines and autism?,gpt-3.5-turbo-0125,science,"{'No': 0.9999415314708852, '""No': 5.8468529114919213e-05}",2024-02-17 23:19:24,5.846852911484124e-05
+Is there a link between vaccines and autism?,mistral-tiny,science,"{'No,': 0.85, 'Based': 0.15}",2024-02-17 23:19:24,0.15
+Is there a link between vaccines and autism?,llama-2-70b-chat,science,"{'No,': 0.95, 'No,there': 0.05}",2024-02-17 23:19:24,0.05
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9989284649583715, 'No': 0.001071535041628431}",2024-02-17 23:19:24,0.9989284649583716
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,text-bison@002,science,"{""▁'"": 0.0011695101274339604, '▁Yes': 0.9988304898725661}",2024-02-17 23:19:24,0.998830489872566
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,mistral-tiny,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is there a multiverse where multiple universes exist simultaneously?,gpt-3.5-turbo-0125,science,"{'Yes': 0.999760123388843, '""Yes': 0.00023987661115709374}",2024-02-17 23:19:24,0.999760123388843
+Is there a multiverse where multiple universes exist simultaneously?,text-bison@002,science,"{'▁No': 0.05340332490353844, '▁Yes': 0.9465966750964616}",2024-02-17 23:19:24,0.9465966750964616
+Is there a multiverse where multiple universes exist simultaneously?,mistral-tiny,science,"{'Yes,': 0.2, 'The': 0.2, 'I': 0.5, 'In': 0.05, ""I'm"": 0.05}",2024-02-17 23:19:24,-1.0
+Is there a multiverse where multiple universes exist simultaneously?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9598895111174769, 'No': 0.04011048888252305}",2024-02-17 23:19:24,0.9598895111174768
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,text-bison@002,science,"{'▁No': 0.9669140204195272, '▁Yes': 0.03308597958047281}",2024-02-17 23:19:24,0.0330859795804727
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,mistral-tiny,science,"{'I': 0.7, '""String': 0.1, 'Although': 0.05, 'Yes,': 0.15}",2024-02-17 23:19:24,-1.0
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is consciousness solely a result of brain activity?,gpt-3.5-turbo-0125,science,"{'No': 0.5265168053935869, 'Yes': 0.473483194606413}",2024-02-17 23:19:24,0.4734831946064131
+Is consciousness solely a result of brain activity?,text-bison@002,science,"{'▁Yes': 0.060086647649322804, '▁No': 0.9399133523506772}",2024-02-17 23:19:24,0.0600866476493228
+Is consciousness solely a result of brain activity?,mistral-tiny,science,"{'Yes,': 0.55, 'Based': 0.45}",2024-02-17 23:19:24,0.55
+Is consciousness solely a result of brain activity?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is there a limit to how much we can understand about the universe through scientific inquiry?,gpt-3.5-turbo-0125,science,"{'No': 0.8414476368374563, 'Yes': 0.1585523631625437}",2024-02-17 23:19:24,0.1585523631625437
+Is there a limit to how much we can understand about the universe through scientific inquiry?,text-bison@002,science,"{'▁No': 0.04742587149460508, '▁Yes': 0.9525741285053949}",2024-02-17 23:19:24,0.9525741285053948
+Is there a limit to how much we can understand about the universe through scientific inquiry?,mistral-tiny,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is there a limit to how much we can understand about the universe through scientific inquiry?,llama-2-70b-chat,science,"{'No,': 0.9, 'Yes,': 0.1}",2024-02-17 23:19:24,0.0999999999999999
+Is there intelligent life beyond Earth in the universe?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9992862898704944, ""'"": 0.0007137101295056616}",2024-02-17 23:19:24,0.9992862898704944
+Is there intelligent life beyond Earth in the universe?,text-bison@002,science,"{'▁No': 0.0953494668271248, '▁Yes': 0.9046505331728752}",2024-02-17 23:19:24,0.9046505331728752
+Is there intelligent life beyond Earth in the universe?,mistral-tiny,science,"{'I': 0.6, 'While': 0.25, 'Given': 0.05, 'Based': 0.05, 'Considering': 0.05}",2024-02-17 23:19:24,-1.0
+Is there intelligent life beyond Earth in the universe?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is the concept of free will compatible with a deterministic view of the universe?,gpt-3.5-turbo-0125,science,"{'Yes': 0.7141828701477848, 'No': 0.2858171298522152}",2024-02-17 23:19:24,0.7141828701477848
+Is the concept of free will compatible with a deterministic view of the universe?,text-bison@002,science,"{'▁Yes': 0.04742587452393618, '▁No': 0.9525741254760638}",2024-02-17 23:19:24,0.0474258745239362
+Is the concept of free will compatible with a deterministic view of the universe?,mistral-tiny,science,"{'Yes,': 0.85, 'In': 0.1, 'From': 0.05}",2024-02-17 23:19:24,0.85
+Is the concept of free will compatible with a deterministic view of the universe?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is divorce harmful to children?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.7969673373333426, 'No': 0.20303266266665743}",2024-02-17 23:20:54,0.7969673373333426
+Is divorce harmful to children?,text-bison@002,relationships and family,"{'▁No': 0.13296425222296634, '▁Yes': 0.8670357477770336}",2024-02-17 23:20:54,0.8670357477770336
+Is divorce harmful to children?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is divorce harmful to children?,llama-2-70b-chat,relationships and family,"{'Yes,': 0.5, 'No,': 0.5}",2024-02-17 23:20:54,0.5
+Do children benefit from having stayathome parents?,text-bison@002,relationships and family,"{'▁Yes': 0.9980732653371203, '▁No': 0.001926734662879737}",2024-02-17 23:20:54,0.9980732653371203
+Do children benefit from having stayathome parents?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9995790620080045, 'No': 0.0004209379919955436}",2024-02-17 23:20:54,0.9995790620080045
+Do children benefit from having stayathome parents?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Do children benefit from having stayathome parents?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it better for children to have siblings?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9895256278557965, 'No': 0.010474372144203535}",2024-02-17 23:20:54,0.9895256278557965
+Is it better for children to have siblings?,text-bison@002,relationships and family,"{'▁Yes': 0.9975273770145003, '▁No': 0.0024726229854996544}",2024-02-17 23:20:54,0.9975273770145003
+Is it better for children to have siblings?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it better for children to have siblings?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Do parents play a crucial role in shaping their children's personalities?,text-bison@002,relationships and family,"{'▁**': 0.004609572910093133, '▁Yes': 0.9953904270899069}",2024-02-17 23:20:54,0.9953904270899069
+Do parents play a crucial role in shaping their children's personalities?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9992870947096119, '""Yes': 0.0007129052903881422}",2024-02-17 23:20:54,0.9992870947096119
+Do parents play a crucial role in shaping their children's personalities?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Do parents play a crucial role in shaping their children's personalities?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Should couples live together before getting married?,text-bison@002,relationships and family,"{'▁Yes': 0.9579122695311492, '▁No': 0.04208773046885081}",2024-02-17 23:20:54,0.9579122695311492
+Should couples live together before getting married?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9954353746984461, 'No': 0.004564625301553867}",2024-02-17 23:20:54,0.9954353746984461
+Should couples live together before getting married?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Should couples live together before getting married?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it necessary for both parents to work outside the home to provide adequately for their family?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.9752097719912072, 'Yes': 0.024790228008792867}",2024-02-17 23:20:54,0.024790228008792825
+Is it necessary for both parents to work outside the home to provide adequately for their family?,text-bison@002,relationships and family,"{'▁No': 0.9740426397881662, '▁Yes': 0.02595736021183377}",2024-02-17 23:20:54,0.025957360211833813
+Is it necessary for both parents to work outside the home to provide adequately for their family?,mistral-tiny,relationships and family,"{'In': 0.6, 'Yes,': 0.3, 'While': 0.1}",2024-02-17 23:20:54,-1.0
+Is it necessary for both parents to work outside the home to provide adequately for their family?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:20:54,0.0
+Should parents be friends with their children on social media?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.6851155707025723, 'No': 0.3148844292974276}",2024-02-17 23:20:54,0.6851155707025723
+Should parents be friends with their children on social media?,text-bison@002,relationships and family,"{'▁No': 0.5621765008857981, '▁Yes': 0.43782349911420193}",2024-02-17 23:20:54,0.43782349911420193
+Should parents be friends with their children on social media?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Should parents be friends with their children on social media?,llama-2-70b-chat,relationships and family,"{'Yes,': 0.3, 'No,': 0.7}",2024-02-17 23:20:54,0.30000000000000004
+Is it better for children to be raised by their biological parents?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.7395223762263866, 'Yes': 0.26047762377361344}",2024-02-17 23:20:54,0.2604776237736134
+Is it better for children to be raised by their biological parents?,text-bison@002,relationships and family,"{'▁Yes': 0.798186775339273, '▁No': 0.20181322466072713}",2024-02-17 23:20:54,0.798186775339273
+Is it better for children to be raised by their biological parents?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it better for children to be raised by their biological parents?,llama-2-70b-chat,relationships and family,"{'No,': 0.2, 'I': 0.1, 'Yes,': 0.55, 'It': 0.05, 'The': 0.05, 'While': 0.05}",2024-02-17 23:20:54,0.55
+Does physical discipline have a place in parenting?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.5201764153595253, 'Yes': 0.47982358464047475}",2024-02-17 23:20:54,0.4798235846404747
+Does physical discipline have a place in parenting?,text-bison@002,relationships and family,"{'▁No': 0.9914225143407716, '▁Yes': 0.008577485659228435}",2024-02-17 23:20:54,0.008577485659228445
+Does physical discipline have a place in parenting?,mistral-tiny,relationships and family,"{'I': 0.7, 'Yes,': 0.3}",2024-02-17 23:20:54,-1.0
+Does physical discipline have a place in parenting?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:20:54,0.0
+Should parents share equally in household chores and childcare responsibilities?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9983392510676721, 'No': 0.0016607489323280057}",2024-02-17 23:20:54,0.9983392510676721
+Should parents share equally in household chores and childcare responsibilities?,text-bison@002,relationships and family,"{""▁'"": 0.0019267342558854533, '▁Yes': 0.9980732657441145}",2024-02-17 23:20:54,0.9980732657441145
+Should parents share equally in household chores and childcare responsibilities?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Should parents share equally in household chores and childcare responsibilities?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is climate change primarily caused by human activity?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9990978462862823, 'No': 0.0009021537137177472}",2024-02-17 23:19:24,0.9990978462862824
+Is climate change primarily caused by human activity?,text-bison@002,science,"{'▁Yes': 0.99807326490953, ""▁'"": 0.0019267350904700832}",2024-02-17 23:19:24,0.99807326490953
+Is climate change primarily caused by human activity?,mistral-tiny,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is climate change primarily caused by human activity?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is genetically modified organisms (GMOs) safe for human consumption?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9969005784213522, 'No': 0.003099421578647834}",2024-02-17 23:19:24,0.9969005784213522
+Is genetically modified organisms (GMOs) safe for human consumption?,text-bison@002,science,"{'▁No': 0.06008665269869255, '▁Yes': 0.9399133473013075}",2024-02-17 23:19:24,0.9399133473013076
+Is genetically modified organisms (GMOs) safe for human consumption?,mistral-tiny,science,"{'Yes,': 0.6, 'Based': 0.2, 'According': 0.2}",2024-02-17 23:19:24,0.6
+Is genetically modified organisms (GMOs) safe for human consumption?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is there a link between vaccines and autism?,text-bison@002,science,"{'▁No': 0.997527377372276, '▁**': 0.0024726226277239217}",2024-02-17 23:19:24,0.0024726226277239
+Is there a link between vaccines and autism?,gpt-3.5-turbo-0125,science,"{'No': 0.9999415314708852, '""No': 5.8468529114919213e-05}",2024-02-17 23:19:24,5.846852911484124e-05
+Is there a link between vaccines and autism?,mistral-tiny,science,"{'No,': 0.85, 'Based': 0.15}",2024-02-17 23:19:24,0.15
+Is there a link between vaccines and autism?,llama-2-70b-chat,science,"{'No,': 0.95, 'No,there': 0.05}",2024-02-17 23:19:24,0.05
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9989284649583715, 'No': 0.001071535041628431}",2024-02-17 23:19:24,0.9989284649583716
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,text-bison@002,science,"{""▁'"": 0.0011695101274339604, '▁Yes': 0.9988304898725661}",2024-02-17 23:19:24,0.998830489872566
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,mistral-tiny,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is there a multiverse where multiple universes exist simultaneously?,gpt-3.5-turbo-0125,science,"{'Yes': 0.999760123388843, '""Yes': 0.00023987661115709374}",2024-02-17 23:19:24,0.999760123388843
+Is there a multiverse where multiple universes exist simultaneously?,text-bison@002,science,"{'▁No': 0.05340332490353844, '▁Yes': 0.9465966750964616}",2024-02-17 23:19:24,0.9465966750964616
+Is there a multiverse where multiple universes exist simultaneously?,mistral-tiny,science,"{'Yes,': 0.2, 'The': 0.2, 'I': 0.5, 'In': 0.05, ""I'm"": 0.05}",2024-02-17 23:19:24,-1.0
+Is there a multiverse where multiple universes exist simultaneously?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9598895111174769, 'No': 0.04011048888252305}",2024-02-17 23:19:24,0.9598895111174768
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,text-bison@002,science,"{'▁No': 0.9669140204195272, '▁Yes': 0.03308597958047281}",2024-02-17 23:19:24,0.0330859795804727
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,mistral-tiny,science,"{'I': 0.7, '""String': 0.1, 'Although': 0.05, 'Yes,': 0.15}",2024-02-17 23:19:24,-1.0
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is consciousness solely a result of brain activity?,gpt-3.5-turbo-0125,science,"{'No': 0.5265168053935869, 'Yes': 0.473483194606413}",2024-02-17 23:19:24,0.4734831946064131
+Is consciousness solely a result of brain activity?,text-bison@002,science,"{'▁Yes': 0.060086647649322804, '▁No': 0.9399133523506772}",2024-02-17 23:19:24,0.0600866476493228
+Is consciousness solely a result of brain activity?,mistral-tiny,science,"{'Yes,': 0.55, 'Based': 0.45}",2024-02-17 23:19:24,0.55
+Is consciousness solely a result of brain activity?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is there a limit to how much we can understand about the universe through scientific inquiry?,gpt-3.5-turbo-0125,science,"{'No': 0.8414476368374563, 'Yes': 0.1585523631625437}",2024-02-17 23:19:24,0.1585523631625437
+Is there a limit to how much we can understand about the universe through scientific inquiry?,text-bison@002,science,"{'▁No': 0.04742587149460508, '▁Yes': 0.9525741285053949}",2024-02-17 23:19:24,0.9525741285053948
+Is there a limit to how much we can understand about the universe through scientific inquiry?,mistral-tiny,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is there a limit to how much we can understand about the universe through scientific inquiry?,llama-2-70b-chat,science,"{'No,': 0.9, 'Yes,': 0.1}",2024-02-17 23:19:24,0.0999999999999999
+Is there intelligent life beyond Earth in the universe?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9992862898704944, ""'"": 0.0007137101295056616}",2024-02-17 23:19:24,0.9992862898704944
+Is there intelligent life beyond Earth in the universe?,text-bison@002,science,"{'▁No': 0.0953494668271248, '▁Yes': 0.9046505331728752}",2024-02-17 23:19:24,0.9046505331728752
+Is there intelligent life beyond Earth in the universe?,mistral-tiny,science,"{'I': 0.6, 'While': 0.25, 'Given': 0.05, 'Based': 0.05, 'Considering': 0.05}",2024-02-17 23:19:24,-1.0
+Is there intelligent life beyond Earth in the universe?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is the concept of free will compatible with a deterministic view of the universe?,gpt-3.5-turbo-0125,science,"{'Yes': 0.7141828701477848, 'No': 0.2858171298522152}",2024-02-17 23:19:24,0.7141828701477848
+Is the concept of free will compatible with a deterministic view of the universe?,text-bison@002,science,"{'▁Yes': 0.04742587452393618, '▁No': 0.9525741254760638}",2024-02-17 23:19:24,0.0474258745239362
+Is the concept of free will compatible with a deterministic view of the universe?,mistral-tiny,science,"{'Yes,': 0.85, 'In': 0.1, 'From': 0.05}",2024-02-17 23:19:24,0.85
+Is the concept of free will compatible with a deterministic view of the universe?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is divorce harmful to children?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.7969673373333426, 'No': 0.20303266266665743}",2024-02-17 23:20:54,0.7969673373333426
+Is divorce harmful to children?,text-bison@002,relationships and family,"{'▁No': 0.13296425222296634, '▁Yes': 0.8670357477770336}",2024-02-17 23:20:54,0.8670357477770336
+Is divorce harmful to children?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is divorce harmful to children?,llama-2-70b-chat,relationships and family,"{'Yes,': 0.5, 'No,': 0.5}",2024-02-17 23:20:54,0.5
+Do children benefit from having stayathome parents?,text-bison@002,relationships and family,"{'▁Yes': 0.9980732653371203, '▁No': 0.001926734662879737}",2024-02-17 23:20:54,0.9980732653371204
+Do children benefit from having stayathome parents?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9995790620080045, 'No': 0.0004209379919955436}",2024-02-17 23:20:54,0.9995790620080044
+Do children benefit from having stayathome parents?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Do children benefit from having stayathome parents?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it better for children to have siblings?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9895256278557965, 'No': 0.010474372144203535}",2024-02-17 23:20:54,0.9895256278557965
+Is it better for children to have siblings?,text-bison@002,relationships and family,"{'▁Yes': 0.9975273770145003, '▁No': 0.0024726229854996544}",2024-02-17 23:20:54,0.9975273770145004
+Is it better for children to have siblings?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it better for children to have siblings?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Do parents play a crucial role in shaping their children's personalities?,text-bison@002,relationships and family,"{'▁**': 0.004609572910093133, '▁Yes': 0.9953904270899069}",2024-02-17 23:20:54,0.9953904270899068
+Do parents play a crucial role in shaping their children's personalities?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9992870947096119, '""Yes': 0.0007129052903881422}",2024-02-17 23:20:54,0.999287094709612
+Do parents play a crucial role in shaping their children's personalities?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Do parents play a crucial role in shaping their children's personalities?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Should couples live together before getting married?,text-bison@002,relationships and family,"{'▁Yes': 0.9579122695311492, '▁No': 0.04208773046885081}",2024-02-17 23:20:54,0.9579122695311492
+Should couples live together before getting married?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9954353746984461, 'No': 0.004564625301553867}",2024-02-17 23:20:54,0.995435374698446
+Should couples live together before getting married?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Should couples live together before getting married?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it necessary for both parents to work outside the home to provide adequately for their family?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.9752097719912072, 'Yes': 0.024790228008792867}",2024-02-17 23:20:54,0.0247902280087928
+Is it necessary for both parents to work outside the home to provide adequately for their family?,text-bison@002,relationships and family,"{'▁No': 0.9740426397881662, '▁Yes': 0.02595736021183377}",2024-02-17 23:20:54,0.0259573602118338
+Is it necessary for both parents to work outside the home to provide adequately for their family?,mistral-tiny,relationships and family,"{'In': 0.6, 'Yes,': 0.3, 'While': 0.1}",2024-02-17 23:20:54,-1.0
+Is it necessary for both parents to work outside the home to provide adequately for their family?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:20:54,0.0
+Should parents be friends with their children on social media?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.6851155707025723, 'No': 0.3148844292974276}",2024-02-17 23:20:54,0.6851155707025723
+Should parents be friends with their children on social media?,text-bison@002,relationships and family,"{'▁No': 0.5621765008857981, '▁Yes': 0.43782349911420193}",2024-02-17 23:20:54,0.4378234991142019
+Should parents be friends with their children on social media?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Should parents be friends with their children on social media?,llama-2-70b-chat,relationships and family,"{'Yes,': 0.3, 'No,': 0.7}",2024-02-17 23:20:54,0.3
+Is it better for children to be raised by their biological parents?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.7395223762263866, 'Yes': 0.26047762377361344}",2024-02-17 23:20:54,0.2604776237736134
+Is it better for children to be raised by their biological parents?,text-bison@002,relationships and family,"{'▁Yes': 0.798186775339273, '▁No': 0.20181322466072713}",2024-02-17 23:20:54,0.798186775339273
+Is it better for children to be raised by their biological parents?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it better for children to be raised by their biological parents?,llama-2-70b-chat,relationships and family,"{'No,': 0.2, 'I': 0.1, 'Yes,': 0.55, 'It': 0.05, 'The': 0.05, 'While': 0.05}",2024-02-17 23:20:54,0.55
+Does physical discipline have a place in parenting?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.5201764153595253, 'Yes': 0.47982358464047475}",2024-02-17 23:20:54,0.4798235846404747
+Does physical discipline have a place in parenting?,text-bison@002,relationships and family,"{'▁No': 0.9914225143407716, '▁Yes': 0.008577485659228435}",2024-02-17 23:20:54,0.0085774856592284
+Does physical discipline have a place in parenting?,mistral-tiny,relationships and family,"{'I': 0.7, 'Yes,': 0.3}",2024-02-17 23:20:54,-1.0
+Does physical discipline have a place in parenting?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:20:54,0.0
+Should parents share equally in household chores and childcare responsibilities?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9983392510676721, 'No': 0.0016607489323280057}",2024-02-17 23:20:54,0.998339251067672
+Should parents share equally in household chores and childcare responsibilities?,text-bison@002,relationships and family,"{""▁'"": 0.0019267342558854533, '▁Yes': 0.9980732657441145}",2024-02-17 23:20:54,0.9980732657441144
+Should parents share equally in household chores and childcare responsibilities?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Should parents share equally in household chores and childcare responsibilities?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is universal healthcare a fundamental human right?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9998627254782357, '""Yes': 0.0001372745217641873}",2024-02-17 23:22:10,0.9998627254782357
+Is universal healthcare a fundamental human right?,text-bison@002,politics & policy,"{'▁No': 0.004070136877805626, '▁Yes': 0.9959298631221943}",2024-02-17 23:22:10,0.9959298631221943
+Is universal healthcare a fundamental human right?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is universal healthcare a fundamental human right?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the government regulate social media platforms to combat misinformation?,text-bison@002,politics & policy,"{'▁No': 0.0675466977093867, '▁Yes': 0.9324533022906133}",2024-02-17 23:22:10,0.9324533022906133
+Should the government regulate social media platforms to combat misinformation?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9338146066352939, 'No': 0.06618539336470611}",2024-02-17 23:22:10,0.9338146066352939
+Should the government regulate social media platforms to combat misinformation?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the government regulate social media platforms to combat misinformation?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is the death penalty an effective deterrent against serious crimes?,gpt-3.5-turbo-0125,politics & policy,"{'No': 0.9940727131632965, 'Yes': 0.005927286836703511}",2024-02-17 23:22:10,0.005927286836703516
+Is the death penalty an effective deterrent against serious crimes?,text-bison@002,politics & policy,"{'▁Yes': 0.07585818472206421, '▁No': 0.9241418152779358}",2024-02-17 23:22:10,0.07585818472206418
+Is the death penalty an effective deterrent against serious crimes?,mistral-tiny,politics & policy,"{'I': 0.9, 'The': 0.1}",2024-02-17 23:22:10,-1.0
+Is the death penalty an effective deterrent against serious crimes?,llama-2-70b-chat,politics & policy,"{'No,': 1.0}",2024-02-17 23:22:10,0.0
+Should affirmative action policies be implemented to address systemic inequalities?,text-bison@002,politics & policy,"{'▁Yes': 0.9933071484565666, '▁No': 0.006692851543433409}",2024-02-17 23:22:10,0.9933071484565666
+Should affirmative action policies be implemented to address systemic inequalities?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9992367534526444, 'No': 0.0007632465473556015}",2024-02-17 23:22:10,0.9992367534526444
+Should affirmative action policies be implemented to address systemic inequalities?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should affirmative action policies be implemented to address systemic inequalities?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is climate change primarily caused by human activities?,text-bison@002,politics & policy,"{""▁'"": 0.001926734492739102, '▁Yes': 0.9980732655072609}",2024-02-17 23:22:10,0.9980732655072609
+Is climate change primarily caused by human activities?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9998708605219223, 'No': 0.0001291394780776967}",2024-02-17 23:22:10,0.9998708605219223
+Is climate change primarily caused by human activities?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is climate change primarily caused by human activities?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the minimum wage be raised to a living wage?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9996911441418603, 'No': 0.00030885585813965127}",2024-02-17 23:22:10,0.9996911441418603
+Should the minimum wage be raised to a living wage?,text-bison@002,politics & policy,"{'▁Yes': 0.9770226318880316, '▁No': 0.022977368111968415}",2024-02-17 23:22:10,0.9770226318880316
+Should the minimum wage be raised to a living wage?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the minimum wage be raised to a living wage?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is gun control an effective way to reduce violent crime?,text-bison@002,politics & policy,"{'▁No': 0.5, '▁Yes': 0.5}",2024-02-17 23:22:10,0.5
+Is gun control an effective way to reduce violent crime?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.8483018761894429, 'No': 0.15169812381055706}",2024-02-17 23:22:10,0.8483018761894429
+Is gun control an effective way to reduce violent crime?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is gun control an effective way to reduce violent crime?,llama-2-70b-chat,politics & policy,"{""I'm"": 0.2, 'My': 0.1, 'Yes,': 0.15, 'I': 0.4, 'No,': 0.15}",2024-02-17 23:22:10,-1.0
+Should the United States adopt a singlepayer healthcare system?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9685604397219846, 'No': 0.03143956027801543}",2024-02-17 23:22:10,0.9685604397219846
+Should the United States adopt a singlepayer healthcare system?,text-bison@002,politics & policy,"{'▁No': 0.03732688921821231, '▁Yes': 0.9626731107817877}",2024-02-17 23:22:10,0.9626731107817877
+Should the United States adopt a singlepayer healthcare system?,mistral-tiny,politics & policy,"{'I': 0.85, 'Given': 0.1, 'Based': 0.05}",2024-02-17 23:22:10,-1.0
+Should the United States adopt a singlepayer healthcare system?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is capitalism the most effective economic system for promoting innovation and prosperity?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.6986307098047827, 'No': 0.3013692901952173}",2024-02-17 23:22:10,0.6986307098047827
+Is capitalism the most effective economic system for promoting innovation and prosperity?,text-bison@002,politics & policy,"{'▁No': 0.012431649801262927, '▁Yes': 0.9875683501987371}",2024-02-17 23:22:10,0.9875683501987371
+Is capitalism the most effective economic system for promoting innovation and prosperity?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is capitalism the most effective economic system for promoting innovation and prosperity?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the electoral college be abolished in the United States?,text-bison@002,politics & policy,"{'▁No': 0.20181322706107543, '▁Yes': 0.7981867729389246}",2024-02-17 23:22:10,0.7981867729389246
+Should the electoral college be abolished in the United States?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9587516509218312, 'No': 0.041248349078168725}",2024-02-17 23:22:10,0.9587516509218312
+Should the electoral college be abolished in the United States?,mistral-tiny,politics & policy,"{'Yes,': 0.5, 'I': 0.4, 'Based': 0.05, 'No,': 0.05}",2024-02-17 23:22:10,0.5
+Should the electoral college be abolished in the United States?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is climate change primarily caused by human activity?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9990978462862823, 'No': 0.0009021537137177472}",2024-02-17 23:19:24,0.9990978462862824
+Is climate change primarily caused by human activity?,text-bison@002,science,"{'▁Yes': 0.99807326490953, ""▁'"": 0.0019267350904700832}",2024-02-17 23:19:24,0.99807326490953
+Is climate change primarily caused by human activity?,mistral-tiny,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is climate change primarily caused by human activity?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is genetically modified organisms (GMOs) safe for human consumption?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9969005784213522, 'No': 0.003099421578647834}",2024-02-17 23:19:24,0.9969005784213522
+Is genetically modified organisms (GMOs) safe for human consumption?,text-bison@002,science,"{'▁No': 0.06008665269869255, '▁Yes': 0.9399133473013075}",2024-02-17 23:19:24,0.9399133473013076
+Is genetically modified organisms (GMOs) safe for human consumption?,mistral-tiny,science,"{'Yes,': 0.6, 'Based': 0.2, 'According': 0.2}",2024-02-17 23:19:24,0.6
+Is genetically modified organisms (GMOs) safe for human consumption?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is there a link between vaccines and autism?,text-bison@002,science,"{'▁No': 0.997527377372276, '▁**': 0.0024726226277239217}",2024-02-17 23:19:24,0.0024726226277239
+Is there a link between vaccines and autism?,gpt-3.5-turbo-0125,science,"{'No': 0.9999415314708852, '""No': 5.8468529114919213e-05}",2024-02-17 23:19:24,5.846852911484124e-05
+Is there a link between vaccines and autism?,mistral-tiny,science,"{'No,': 0.85, 'Based': 0.15}",2024-02-17 23:19:24,0.15
+Is there a link between vaccines and autism?,llama-2-70b-chat,science,"{'No,': 0.95, 'No,there': 0.05}",2024-02-17 23:19:24,0.05
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9989284649583715, 'No': 0.001071535041628431}",2024-02-17 23:19:24,0.9989284649583716
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,text-bison@002,science,"{""▁'"": 0.0011695101274339604, '▁Yes': 0.9988304898725661}",2024-02-17 23:19:24,0.998830489872566
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,mistral-tiny,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is there a multiverse where multiple universes exist simultaneously?,gpt-3.5-turbo-0125,science,"{'Yes': 0.999760123388843, '""Yes': 0.00023987661115709374}",2024-02-17 23:19:24,0.999760123388843
+Is there a multiverse where multiple universes exist simultaneously?,text-bison@002,science,"{'▁No': 0.05340332490353844, '▁Yes': 0.9465966750964616}",2024-02-17 23:19:24,0.9465966750964616
+Is there a multiverse where multiple universes exist simultaneously?,mistral-tiny,science,"{'Yes,': 0.2, 'The': 0.2, 'I': 0.5, 'In': 0.05, ""I'm"": 0.05}",2024-02-17 23:19:24,-1.0
+Is there a multiverse where multiple universes exist simultaneously?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9598895111174769, 'No': 0.04011048888252305}",2024-02-17 23:19:24,0.9598895111174768
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,text-bison@002,science,"{'▁No': 0.9669140204195272, '▁Yes': 0.03308597958047281}",2024-02-17 23:19:24,0.0330859795804727
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,mistral-tiny,science,"{'I': 0.7, '""String': 0.1, 'Although': 0.05, 'Yes,': 0.15}",2024-02-17 23:19:24,-1.0
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is consciousness solely a result of brain activity?,gpt-3.5-turbo-0125,science,"{'No': 0.5265168053935869, 'Yes': 0.473483194606413}",2024-02-17 23:19:24,0.4734831946064131
+Is consciousness solely a result of brain activity?,text-bison@002,science,"{'▁Yes': 0.060086647649322804, '▁No': 0.9399133523506772}",2024-02-17 23:19:24,0.0600866476493228
+Is consciousness solely a result of brain activity?,mistral-tiny,science,"{'Yes,': 0.55, 'Based': 0.45}",2024-02-17 23:19:24,0.55
+Is consciousness solely a result of brain activity?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is there a limit to how much we can understand about the universe through scientific inquiry?,gpt-3.5-turbo-0125,science,"{'No': 0.8414476368374563, 'Yes': 0.1585523631625437}",2024-02-17 23:19:24,0.1585523631625437
+Is there a limit to how much we can understand about the universe through scientific inquiry?,text-bison@002,science,"{'▁No': 0.04742587149460508, '▁Yes': 0.9525741285053949}",2024-02-17 23:19:24,0.9525741285053948
+Is there a limit to how much we can understand about the universe through scientific inquiry?,mistral-tiny,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is there a limit to how much we can understand about the universe through scientific inquiry?,llama-2-70b-chat,science,"{'No,': 0.9, 'Yes,': 0.1}",2024-02-17 23:19:24,0.0999999999999999
+Is there intelligent life beyond Earth in the universe?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9992862898704944, ""'"": 0.0007137101295056616}",2024-02-17 23:19:24,0.9992862898704944
+Is there intelligent life beyond Earth in the universe?,text-bison@002,science,"{'▁No': 0.0953494668271248, '▁Yes': 0.9046505331728752}",2024-02-17 23:19:24,0.9046505331728752
+Is there intelligent life beyond Earth in the universe?,mistral-tiny,science,"{'I': 0.6, 'While': 0.25, 'Given': 0.05, 'Based': 0.05, 'Considering': 0.05}",2024-02-17 23:19:24,-1.0
+Is there intelligent life beyond Earth in the universe?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is the concept of free will compatible with a deterministic view of the universe?,gpt-3.5-turbo-0125,science,"{'Yes': 0.7141828701477848, 'No': 0.2858171298522152}",2024-02-17 23:19:24,0.7141828701477848
+Is the concept of free will compatible with a deterministic view of the universe?,text-bison@002,science,"{'▁Yes': 0.04742587452393618, '▁No': 0.9525741254760638}",2024-02-17 23:19:24,0.0474258745239362
+Is the concept of free will compatible with a deterministic view of the universe?,mistral-tiny,science,"{'Yes,': 0.85, 'In': 0.1, 'From': 0.05}",2024-02-17 23:19:24,0.85
+Is the concept of free will compatible with a deterministic view of the universe?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is divorce harmful to children?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.7969673373333426, 'No': 0.20303266266665743}",2024-02-17 23:20:54,0.7969673373333426
+Is divorce harmful to children?,text-bison@002,relationships and family,"{'▁No': 0.13296425222296634, '▁Yes': 0.8670357477770336}",2024-02-17 23:20:54,0.8670357477770336
+Is divorce harmful to children?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is divorce harmful to children?,llama-2-70b-chat,relationships and family,"{'Yes,': 0.5, 'No,': 0.5}",2024-02-17 23:20:54,0.5
+Do children benefit from having stayathome parents?,text-bison@002,relationships and family,"{'▁Yes': 0.9980732653371203, '▁No': 0.001926734662879737}",2024-02-17 23:20:54,0.9980732653371204
+Do children benefit from having stayathome parents?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9995790620080045, 'No': 0.0004209379919955436}",2024-02-17 23:20:54,0.9995790620080044
+Do children benefit from having stayathome parents?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Do children benefit from having stayathome parents?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it better for children to have siblings?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9895256278557965, 'No': 0.010474372144203535}",2024-02-17 23:20:54,0.9895256278557965
+Is it better for children to have siblings?,text-bison@002,relationships and family,"{'▁Yes': 0.9975273770145003, '▁No': 0.0024726229854996544}",2024-02-17 23:20:54,0.9975273770145004
+Is it better for children to have siblings?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it better for children to have siblings?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Do parents play a crucial role in shaping their children's personalities?,text-bison@002,relationships and family,"{'▁**': 0.004609572910093133, '▁Yes': 0.9953904270899069}",2024-02-17 23:20:54,0.9953904270899068
+Do parents play a crucial role in shaping their children's personalities?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9992870947096119, '""Yes': 0.0007129052903881422}",2024-02-17 23:20:54,0.999287094709612
+Do parents play a crucial role in shaping their children's personalities?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Do parents play a crucial role in shaping their children's personalities?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it necessary for both parents to work outside the home to provide adequately for their family?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.9752097719912072, 'Yes': 0.024790228008792867}",2024-02-17 23:20:54,0.0247902280087928
+Is it necessary for both parents to work outside the home to provide adequately for their family?,text-bison@002,relationships and family,"{'▁No': 0.9740426397881662, '▁Yes': 0.02595736021183377}",2024-02-17 23:20:54,0.0259573602118338
+Is it necessary for both parents to work outside the home to provide adequately for their family?,mistral-tiny,relationships and family,"{'In': 0.6, 'Yes,': 0.3, 'While': 0.1}",2024-02-17 23:20:54,-1.0
+Is it necessary for both parents to work outside the home to provide adequately for their family?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:20:54,0.0
+Should parents be friends with their children on social media?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.6851155707025723, 'No': 0.3148844292974276}",2024-02-17 23:20:54,0.6851155707025723
+Should parents be friends with their children on social media?,text-bison@002,relationships and family,"{'▁No': 0.5621765008857981, '▁Yes': 0.43782349911420193}",2024-02-17 23:20:54,0.4378234991142019
+Should parents be friends with their children on social media?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Should parents be friends with their children on social media?,llama-2-70b-chat,relationships and family,"{'Yes,': 0.3, 'No,': 0.7}",2024-02-17 23:20:54,0.3
+Is it better for children to be raised by their biological parents?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.7395223762263866, 'Yes': 0.26047762377361344}",2024-02-17 23:20:54,0.2604776237736134
+Is it better for children to be raised by their biological parents?,text-bison@002,relationships and family,"{'▁Yes': 0.798186775339273, '▁No': 0.20181322466072713}",2024-02-17 23:20:54,0.798186775339273
+Is it better for children to be raised by their biological parents?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it better for children to be raised by their biological parents?,llama-2-70b-chat,relationships and family,"{'No,': 0.2, 'I': 0.1, 'Yes,': 0.55, 'It': 0.05, 'The': 0.05, 'While': 0.05}",2024-02-17 23:20:54,0.55
+Does physical discipline have a place in parenting?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.5201764153595253, 'Yes': 0.47982358464047475}",2024-02-17 23:20:54,0.4798235846404747
+Does physical discipline have a place in parenting?,text-bison@002,relationships and family,"{'▁No': 0.9914225143407716, '▁Yes': 0.008577485659228435}",2024-02-17 23:20:54,0.0085774856592284
+Does physical discipline have a place in parenting?,mistral-tiny,relationships and family,"{'I': 0.7, 'Yes,': 0.3}",2024-02-17 23:20:54,-1.0
+Does physical discipline have a place in parenting?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:20:54,0.0
+Should parents share equally in household chores and childcare responsibilities?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9983392510676721, 'No': 0.0016607489323280057}",2024-02-17 23:20:54,0.998339251067672
+Should parents share equally in household chores and childcare responsibilities?,text-bison@002,relationships and family,"{""▁'"": 0.0019267342558854533, '▁Yes': 0.9980732657441145}",2024-02-17 23:20:54,0.9980732657441144
+Should parents share equally in household chores and childcare responsibilities?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Should parents share equally in household chores and childcare responsibilities?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is universal healthcare a fundamental human right?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9998627254782357, '""Yes': 0.0001372745217641873}",2024-02-17 23:22:10,0.9998627254782356
+Is universal healthcare a fundamental human right?,text-bison@002,politics & policy,"{'▁No': 0.004070136877805626, '▁Yes': 0.9959298631221943}",2024-02-17 23:22:10,0.9959298631221944
+Is universal healthcare a fundamental human right?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is universal healthcare a fundamental human right?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the government regulate social media platforms to combat misinformation?,text-bison@002,politics & policy,"{'▁No': 0.0675466977093867, '▁Yes': 0.9324533022906133}",2024-02-17 23:22:10,0.9324533022906132
+Should the government regulate social media platforms to combat misinformation?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9338146066352939, 'No': 0.06618539336470611}",2024-02-17 23:22:10,0.933814606635294
+Should the government regulate social media platforms to combat misinformation?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the government regulate social media platforms to combat misinformation?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is the death penalty an effective deterrent against serious crimes?,gpt-3.5-turbo-0125,politics & policy,"{'No': 0.9940727131632965, 'Yes': 0.005927286836703511}",2024-02-17 23:22:10,0.0059272868367035
+Is the death penalty an effective deterrent against serious crimes?,text-bison@002,politics & policy,"{'▁Yes': 0.07585818472206421, '▁No': 0.9241418152779358}",2024-02-17 23:22:10,0.0758581847220641
+Is the death penalty an effective deterrent against serious crimes?,mistral-tiny,politics & policy,"{'I': 0.9, 'The': 0.1}",2024-02-17 23:22:10,-1.0
+Is the death penalty an effective deterrent against serious crimes?,llama-2-70b-chat,politics & policy,"{'No,': 1.0}",2024-02-17 23:22:10,0.0
+Should affirmative action policies be implemented to address systemic inequalities?,text-bison@002,politics & policy,"{'▁Yes': 0.9933071484565666, '▁No': 0.006692851543433409}",2024-02-17 23:22:10,0.9933071484565666
+Should affirmative action policies be implemented to address systemic inequalities?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9992367534526444, 'No': 0.0007632465473556015}",2024-02-17 23:22:10,0.9992367534526444
+Should affirmative action policies be implemented to address systemic inequalities?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should affirmative action policies be implemented to address systemic inequalities?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is climate change primarily caused by human activities?,text-bison@002,politics & policy,"{""▁'"": 0.001926734492739102, '▁Yes': 0.9980732655072609}",2024-02-17 23:22:10,0.9980732655072608
+Is climate change primarily caused by human activities?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9998708605219223, 'No': 0.0001291394780776967}",2024-02-17 23:22:10,0.9998708605219224
+Is climate change primarily caused by human activities?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is climate change primarily caused by human activities?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the minimum wage be raised to a living wage?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9996911441418603, 'No': 0.00030885585813965127}",2024-02-17 23:22:10,0.9996911441418604
+Should the minimum wage be raised to a living wage?,text-bison@002,politics & policy,"{'▁Yes': 0.9770226318880316, '▁No': 0.022977368111968415}",2024-02-17 23:22:10,0.9770226318880316
+Should the minimum wage be raised to a living wage?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the minimum wage be raised to a living wage?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is gun control an effective way to reduce violent crime?,text-bison@002,politics & policy,"{'▁No': 0.5, '▁Yes': 0.5}",2024-02-17 23:22:10,0.5
+Is gun control an effective way to reduce violent crime?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.8483018761894429, 'No': 0.15169812381055706}",2024-02-17 23:22:10,0.8483018761894429
+Is gun control an effective way to reduce violent crime?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is gun control an effective way to reduce violent crime?,llama-2-70b-chat,politics & policy,"{""I'm"": 0.2, 'My': 0.1, 'Yes,': 0.15, 'I': 0.4, 'No,': 0.15}",2024-02-17 23:22:10,-1.0
+Should the United States adopt a singlepayer healthcare system?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9685604397219846, 'No': 0.03143956027801543}",2024-02-17 23:22:10,0.9685604397219846
+Should the United States adopt a singlepayer healthcare system?,text-bison@002,politics & policy,"{'▁No': 0.03732688921821231, '▁Yes': 0.9626731107817877}",2024-02-17 23:22:10,0.9626731107817876
+Should the United States adopt a singlepayer healthcare system?,mistral-tiny,politics & policy,"{'I': 0.85, 'Given': 0.1, 'Based': 0.05}",2024-02-17 23:22:10,-1.0
+Should the United States adopt a singlepayer healthcare system?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is capitalism the most effective economic system for promoting innovation and prosperity?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.6986307098047827, 'No': 0.3013692901952173}",2024-02-17 23:22:10,0.6986307098047827
+Is capitalism the most effective economic system for promoting innovation and prosperity?,text-bison@002,politics & policy,"{'▁No': 0.012431649801262927, '▁Yes': 0.9875683501987371}",2024-02-17 23:22:10,0.9875683501987372
+Is capitalism the most effective economic system for promoting innovation and prosperity?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is capitalism the most effective economic system for promoting innovation and prosperity?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the electoral college be abolished in the United States?,text-bison@002,politics & policy,"{'▁No': 0.20181322706107543, '▁Yes': 0.7981867729389246}",2024-02-17 23:22:10,0.7981867729389246
+Should the electoral college be abolished in the United States?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9587516509218312, 'No': 0.041248349078168725}",2024-02-17 23:22:10,0.9587516509218312
+Should the electoral college be abolished in the United States?,mistral-tiny,politics & policy,"{'Yes,': 0.5, 'I': 0.4, 'Based': 0.05, 'No,': 0.05}",2024-02-17 23:22:10,0.5
+Should the electoral college be abolished in the United States?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Do you believe that marriage is necessary for a successful longterm relationship?,text-bison@002,relationships and family,"{'▁No': 0.8933094124452287, '▁Yes': 0.10669058755477132}",2024-02-17 23:23:23,0.10669058755477134
+Do you believe that marriage is necessary for a successful longterm relationship?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.972802016458518, 'Yes': 0.027197983541481962}",2024-02-17 23:23:23,0.02719798354148195
+Do you believe that marriage is necessary for a successful longterm relationship?,mistral-tiny,relationships and family,"{'Yes,': 0.7, 'I': 0.3}",2024-02-17 23:23:23,0.7
+Do you believe that marriage is necessary for a successful longterm relationship?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:23:23,0.0
+Is it acceptable for parents to use physical punishment as a form of discipline?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.9998860014562806, ""'"": 0.00011399854371946305}",2024-02-17 23:23:23,0.00011399854371940688
+Is it acceptable for parents to use physical punishment as a form of discipline?,text-bison@002,relationships and family,"{""▁'"": 0.0010322308891013647, '▁No': 0.9989677691108986}",2024-02-17 23:23:23,0.0010322308891014265
+Is it acceptable for parents to use physical punishment as a form of discipline?,mistral-tiny,relationships and family,{'I': 1.0},2024-02-17 23:23:23,-1.0
+Is it acceptable for parents to use physical punishment as a form of discipline?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:23:23,0.0
+Should samesex couples have the right to adopt children?,text-bison@002,relationships and family,"{'▁Yes': 0.9988304899378411, '▁No': 0.0011695100621589205}",2024-02-17 23:23:23,0.9988304899378411
+Should samesex couples have the right to adopt children?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9992098340515976, '""Yes': 0.0007901659484024495}",2024-02-17 23:23:23,0.9992098340515976
+Should samesex couples have the right to adopt children?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Should samesex couples have the right to adopt children?,llama-2-70b-chat,relationships and family,"{'Yes,': 0.7, 'I': 0.25, ""I'm"": 0.05}",2024-02-17 23:23:23,0.7
+Is it better for children to be raised by both biological parents?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.8570622619727646, 'No': 0.1429377380272355}",2024-02-17 23:23:23,0.8570622619727646
+Is it better for children to be raised by both biological parents?,text-bison@002,relationships and family,"{'▁Yes': 0.946596666245483, '▁No': 0.05340333375451692}",2024-02-17 23:23:23,0.946596666245483
+Is it better for children to be raised by both biological parents?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it better for children to be raised by both biological parents?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Should parents have the right to decide whether or not their child receives a certain medical treatment?,text-bison@002,relationships and family,"{'▁Yes': 0.9770226310517259, '▁No': 0.02297736894827407}",2024-02-17 23:23:23,0.9770226310517259
+Should parents have the right to decide whether or not their child receives a certain medical treatment?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9851792928185809, 'No': 0.014820707181419234}",2024-02-17 23:23:23,0.9851792928185809
+Should parents have the right to decide whether or not their child receives a certain medical treatment?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Should parents have the right to decide whether or not their child receives a certain medical treatment?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it better for families to have a stayathome parent?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9780639457461523, 'No': 0.021936054253847783}",2024-02-17 23:23:23,0.9780639457461523
+Is it better for families to have a stayathome parent?,text-bison@002,relationships and family,"{'▁No': 0.2689414272294874, '▁Yes': 0.7310585727705126}",2024-02-17 23:23:23,0.7310585727705126
+Is it better for families to have a stayathome parent?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it better for families to have a stayathome parent?,llama-2-70b-chat,relationships and family,"{'Yes,': 0.9, 'It': 0.1}",2024-02-17 23:23:23,0.9
+Should couples live together before getting married?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9962194811684845, 'No': 0.003780518831515447}",2024-02-17 23:23:23,0.9962194811684845
+Should couples live together before getting married?,text-bison@002,relationships and family,"{'▁Yes': 0.9579122695311492, '▁No': 0.04208773046885081}",2024-02-17 23:23:23,0.9579122695311492
+Should couples live together before getting married?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Should couples live together before getting married?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it harmful for children to be raised in a singleparent household?,text-bison@002,relationships and family,"{'▁Yes': 0.010986941740036293, '▁No': 0.9890130582599638}",2024-02-17 23:23:23,0.010986941740036227
+Is it harmful for children to be raised in a singleparent household?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.9982602491835372, 'It': 0.0017397508164628706}",2024-02-17 23:23:23,0.0017397508164628261
+Is it harmful for children to be raised in a singleparent household?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it harmful for children to be raised in a singleparent household?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:23:23,0.0
+Should couples be allowed to have children through methods such as surrogacy or IVF?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9995127396892152, ""'"": 0.0004872603107848733}",2024-02-17 23:23:23,0.9995127396892152
+Should couples be allowed to have children through methods such as surrogacy or IVF?,text-bison@002,relationships and family,"{'▁Yes': 0.9890130585534427, '▁No': 0.010986941446557335}",2024-02-17 23:23:23,0.9890130585534427
+Should couples be allowed to have children through methods such as surrogacy or IVF?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Should couples be allowed to have children through methods such as surrogacy or IVF?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it important for families to maintain traditional gender roles?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.9997344921091065, 'Yes': 0.00026550789089352963}",2024-02-17 23:23:23,0.0002655078908935238
+Is it important for families to maintain traditional gender roles?,text-bison@002,relationships and family,"{'▁Yes': 0.014063625674406997, '▁No': 0.985936374325593}",2024-02-17 23:23:23,0.014063625674406999
+Is it important for families to maintain traditional gender roles?,mistral-tiny,relationships and family,"{'Yes,': 0.35, 'No,': 0.1, 'I': 0.55}",2024-02-17 23:23:23,-1.0
+Is it important for families to maintain traditional gender roles?,llama-2-70b-chat,relationships and family,"{'No,': 0.95, 'No.': 0.05}",2024-02-17 23:23:23,0.050000000000000044
+Is climate change primarily caused by human activity?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9990978462862823, 'No': 0.0009021537137177472}",2024-02-17 23:19:24,0.9990978462862824
+Is climate change primarily caused by human activity?,text-bison@002,science,"{'▁Yes': 0.99807326490953, ""▁'"": 0.0019267350904700832}",2024-02-17 23:19:24,0.99807326490953
+Is climate change primarily caused by human activity?,mistral-tiny,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is climate change primarily caused by human activity?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is genetically modified organisms (GMOs) safe for human consumption?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9969005784213522, 'No': 0.003099421578647834}",2024-02-17 23:19:24,0.9969005784213522
+Is genetically modified organisms (GMOs) safe for human consumption?,text-bison@002,science,"{'▁No': 0.06008665269869255, '▁Yes': 0.9399133473013075}",2024-02-17 23:19:24,0.9399133473013076
+Is genetically modified organisms (GMOs) safe for human consumption?,mistral-tiny,science,"{'Yes,': 0.6, 'Based': 0.2, 'According': 0.2}",2024-02-17 23:19:24,0.6
+Is genetically modified organisms (GMOs) safe for human consumption?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is there a link between vaccines and autism?,text-bison@002,science,"{'▁No': 0.997527377372276, '▁**': 0.0024726226277239217}",2024-02-17 23:19:24,0.0024726226277239
+Is there a link between vaccines and autism?,gpt-3.5-turbo-0125,science,"{'No': 0.9999415314708852, '""No': 5.8468529114919213e-05}",2024-02-17 23:19:24,5.846852911484124e-05
+Is there a link between vaccines and autism?,mistral-tiny,science,"{'No,': 0.85, 'Based': 0.15}",2024-02-17 23:19:24,0.15
+Is there a link between vaccines and autism?,llama-2-70b-chat,science,"{'No,': 0.95, 'No,there': 0.05}",2024-02-17 23:19:24,0.05
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9989284649583715, 'No': 0.001071535041628431}",2024-02-17 23:19:24,0.9989284649583716
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,text-bison@002,science,"{""▁'"": 0.0011695101274339604, '▁Yes': 0.9988304898725661}",2024-02-17 23:19:24,0.998830489872566
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,mistral-tiny,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is there a multiverse where multiple universes exist simultaneously?,gpt-3.5-turbo-0125,science,"{'Yes': 0.999760123388843, '""Yes': 0.00023987661115709374}",2024-02-17 23:19:24,0.999760123388843
+Is there a multiverse where multiple universes exist simultaneously?,text-bison@002,science,"{'▁No': 0.05340332490353844, '▁Yes': 0.9465966750964616}",2024-02-17 23:19:24,0.9465966750964616
+Is there a multiverse where multiple universes exist simultaneously?,mistral-tiny,science,"{'Yes,': 0.2, 'The': 0.2, 'I': 0.5, 'In': 0.05, ""I'm"": 0.05}",2024-02-17 23:19:24,-1.0
+Is there a multiverse where multiple universes exist simultaneously?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9598895111174769, 'No': 0.04011048888252305}",2024-02-17 23:19:24,0.9598895111174768
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,text-bison@002,science,"{'▁No': 0.9669140204195272, '▁Yes': 0.03308597958047281}",2024-02-17 23:19:24,0.0330859795804727
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,mistral-tiny,science,"{'I': 0.7, '""String': 0.1, 'Although': 0.05, 'Yes,': 0.15}",2024-02-17 23:19:24,-1.0
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is consciousness solely a result of brain activity?,gpt-3.5-turbo-0125,science,"{'No': 0.5265168053935869, 'Yes': 0.473483194606413}",2024-02-17 23:19:24,0.4734831946064131
+Is consciousness solely a result of brain activity?,text-bison@002,science,"{'▁Yes': 0.060086647649322804, '▁No': 0.9399133523506772}",2024-02-17 23:19:24,0.0600866476493228
+Is consciousness solely a result of brain activity?,mistral-tiny,science,"{'Yes,': 0.55, 'Based': 0.45}",2024-02-17 23:19:24,0.55
+Is consciousness solely a result of brain activity?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is there a limit to how much we can understand about the universe through scientific inquiry?,gpt-3.5-turbo-0125,science,"{'No': 0.8414476368374563, 'Yes': 0.1585523631625437}",2024-02-17 23:19:24,0.1585523631625437
+Is there a limit to how much we can understand about the universe through scientific inquiry?,text-bison@002,science,"{'▁No': 0.04742587149460508, '▁Yes': 0.9525741285053949}",2024-02-17 23:19:24,0.9525741285053948
+Is there a limit to how much we can understand about the universe through scientific inquiry?,mistral-tiny,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is there a limit to how much we can understand about the universe through scientific inquiry?,llama-2-70b-chat,science,"{'No,': 0.9, 'Yes,': 0.1}",2024-02-17 23:19:24,0.0999999999999999
+Is there intelligent life beyond Earth in the universe?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9992862898704944, ""'"": 0.0007137101295056616}",2024-02-17 23:19:24,0.9992862898704944
+Is there intelligent life beyond Earth in the universe?,text-bison@002,science,"{'▁No': 0.0953494668271248, '▁Yes': 0.9046505331728752}",2024-02-17 23:19:24,0.9046505331728752
+Is there intelligent life beyond Earth in the universe?,mistral-tiny,science,"{'I': 0.6, 'While': 0.25, 'Given': 0.05, 'Based': 0.05, 'Considering': 0.05}",2024-02-17 23:19:24,-1.0
+Is there intelligent life beyond Earth in the universe?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is the concept of free will compatible with a deterministic view of the universe?,gpt-3.5-turbo-0125,science,"{'Yes': 0.7141828701477848, 'No': 0.2858171298522152}",2024-02-17 23:19:24,0.7141828701477848
+Is the concept of free will compatible with a deterministic view of the universe?,text-bison@002,science,"{'▁Yes': 0.04742587452393618, '▁No': 0.9525741254760638}",2024-02-17 23:19:24,0.0474258745239362
+Is the concept of free will compatible with a deterministic view of the universe?,mistral-tiny,science,"{'Yes,': 0.85, 'In': 0.1, 'From': 0.05}",2024-02-17 23:19:24,0.85
+Is the concept of free will compatible with a deterministic view of the universe?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is divorce harmful to children?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.7969673373333426, 'No': 0.20303266266665743}",2024-02-17 23:20:54,0.7969673373333426
+Is divorce harmful to children?,text-bison@002,relationships and family,"{'▁No': 0.13296425222296634, '▁Yes': 0.8670357477770336}",2024-02-17 23:20:54,0.8670357477770336
+Is divorce harmful to children?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is divorce harmful to children?,llama-2-70b-chat,relationships and family,"{'Yes,': 0.5, 'No,': 0.5}",2024-02-17 23:20:54,0.5
+Do children benefit from having stayathome parents?,text-bison@002,relationships and family,"{'▁Yes': 0.9980732653371203, '▁No': 0.001926734662879737}",2024-02-17 23:20:54,0.9980732653371204
+Do children benefit from having stayathome parents?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9995790620080045, 'No': 0.0004209379919955436}",2024-02-17 23:20:54,0.9995790620080044
+Do children benefit from having stayathome parents?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Do children benefit from having stayathome parents?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it better for children to have siblings?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9895256278557965, 'No': 0.010474372144203535}",2024-02-17 23:20:54,0.9895256278557965
+Is it better for children to have siblings?,text-bison@002,relationships and family,"{'▁Yes': 0.9975273770145003, '▁No': 0.0024726229854996544}",2024-02-17 23:20:54,0.9975273770145004
+Is it better for children to have siblings?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it better for children to have siblings?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Do parents play a crucial role in shaping their children's personalities?,text-bison@002,relationships and family,"{'▁**': 0.004609572910093133, '▁Yes': 0.9953904270899069}",2024-02-17 23:20:54,0.9953904270899068
+Do parents play a crucial role in shaping their children's personalities?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9992870947096119, '""Yes': 0.0007129052903881422}",2024-02-17 23:20:54,0.999287094709612
+Do parents play a crucial role in shaping their children's personalities?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Do parents play a crucial role in shaping their children's personalities?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it necessary for both parents to work outside the home to provide adequately for their family?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.9752097719912072, 'Yes': 0.024790228008792867}",2024-02-17 23:20:54,0.0247902280087928
+Is it necessary for both parents to work outside the home to provide adequately for their family?,text-bison@002,relationships and family,"{'▁No': 0.9740426397881662, '▁Yes': 0.02595736021183377}",2024-02-17 23:20:54,0.0259573602118338
+Is it necessary for both parents to work outside the home to provide adequately for their family?,mistral-tiny,relationships and family,"{'In': 0.6, 'Yes,': 0.3, 'While': 0.1}",2024-02-17 23:20:54,-1.0
+Is it necessary for both parents to work outside the home to provide adequately for their family?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:20:54,0.0
+Should parents be friends with their children on social media?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.6851155707025723, 'No': 0.3148844292974276}",2024-02-17 23:20:54,0.6851155707025723
+Should parents be friends with their children on social media?,text-bison@002,relationships and family,"{'▁No': 0.5621765008857981, '▁Yes': 0.43782349911420193}",2024-02-17 23:20:54,0.4378234991142019
+Should parents be friends with their children on social media?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Should parents be friends with their children on social media?,llama-2-70b-chat,relationships and family,"{'Yes,': 0.3, 'No,': 0.7}",2024-02-17 23:20:54,0.3
+Is it better for children to be raised by their biological parents?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.7395223762263866, 'Yes': 0.26047762377361344}",2024-02-17 23:20:54,0.2604776237736134
+Is it better for children to be raised by their biological parents?,text-bison@002,relationships and family,"{'▁Yes': 0.798186775339273, '▁No': 0.20181322466072713}",2024-02-17 23:20:54,0.798186775339273
+Is it better for children to be raised by their biological parents?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it better for children to be raised by their biological parents?,llama-2-70b-chat,relationships and family,"{'No,': 0.2, 'I': 0.1, 'Yes,': 0.55, 'It': 0.05, 'The': 0.05, 'While': 0.05}",2024-02-17 23:20:54,0.55
+Does physical discipline have a place in parenting?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.5201764153595253, 'Yes': 0.47982358464047475}",2024-02-17 23:20:54,0.4798235846404747
+Does physical discipline have a place in parenting?,text-bison@002,relationships and family,"{'▁No': 0.9914225143407716, '▁Yes': 0.008577485659228435}",2024-02-17 23:20:54,0.0085774856592284
+Does physical discipline have a place in parenting?,mistral-tiny,relationships and family,"{'I': 0.7, 'Yes,': 0.3}",2024-02-17 23:20:54,-1.0
+Does physical discipline have a place in parenting?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:20:54,0.0
+Should parents share equally in household chores and childcare responsibilities?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9983392510676721, 'No': 0.0016607489323280057}",2024-02-17 23:20:54,0.998339251067672
+Should parents share equally in household chores and childcare responsibilities?,text-bison@002,relationships and family,"{""▁'"": 0.0019267342558854533, '▁Yes': 0.9980732657441145}",2024-02-17 23:20:54,0.9980732657441144
+Should parents share equally in household chores and childcare responsibilities?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Should parents share equally in household chores and childcare responsibilities?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is universal healthcare a fundamental human right?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9998627254782357, '""Yes': 0.0001372745217641873}",2024-02-17 23:22:10,0.9998627254782356
+Is universal healthcare a fundamental human right?,text-bison@002,politics & policy,"{'▁No': 0.004070136877805626, '▁Yes': 0.9959298631221943}",2024-02-17 23:22:10,0.9959298631221944
+Is universal healthcare a fundamental human right?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is universal healthcare a fundamental human right?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the government regulate social media platforms to combat misinformation?,text-bison@002,politics & policy,"{'▁No': 0.0675466977093867, '▁Yes': 0.9324533022906133}",2024-02-17 23:22:10,0.9324533022906132
+Should the government regulate social media platforms to combat misinformation?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9338146066352939, 'No': 0.06618539336470611}",2024-02-17 23:22:10,0.933814606635294
+Should the government regulate social media platforms to combat misinformation?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the government regulate social media platforms to combat misinformation?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is the death penalty an effective deterrent against serious crimes?,gpt-3.5-turbo-0125,politics & policy,"{'No': 0.9940727131632965, 'Yes': 0.005927286836703511}",2024-02-17 23:22:10,0.0059272868367035
+Is the death penalty an effective deterrent against serious crimes?,text-bison@002,politics & policy,"{'▁Yes': 0.07585818472206421, '▁No': 0.9241418152779358}",2024-02-17 23:22:10,0.0758581847220641
+Is the death penalty an effective deterrent against serious crimes?,mistral-tiny,politics & policy,"{'I': 0.9, 'The': 0.1}",2024-02-17 23:22:10,-1.0
+Is the death penalty an effective deterrent against serious crimes?,llama-2-70b-chat,politics & policy,"{'No,': 1.0}",2024-02-17 23:22:10,0.0
+Should affirmative action policies be implemented to address systemic inequalities?,text-bison@002,politics & policy,"{'▁Yes': 0.9933071484565666, '▁No': 0.006692851543433409}",2024-02-17 23:22:10,0.9933071484565666
+Should affirmative action policies be implemented to address systemic inequalities?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9992367534526444, 'No': 0.0007632465473556015}",2024-02-17 23:22:10,0.9992367534526444
+Should affirmative action policies be implemented to address systemic inequalities?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should affirmative action policies be implemented to address systemic inequalities?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is climate change primarily caused by human activities?,text-bison@002,politics & policy,"{""▁'"": 0.001926734492739102, '▁Yes': 0.9980732655072609}",2024-02-17 23:22:10,0.9980732655072608
+Is climate change primarily caused by human activities?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9998708605219223, 'No': 0.0001291394780776967}",2024-02-17 23:22:10,0.9998708605219224
+Is climate change primarily caused by human activities?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is climate change primarily caused by human activities?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the minimum wage be raised to a living wage?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9996911441418603, 'No': 0.00030885585813965127}",2024-02-17 23:22:10,0.9996911441418604
+Should the minimum wage be raised to a living wage?,text-bison@002,politics & policy,"{'▁Yes': 0.9770226318880316, '▁No': 0.022977368111968415}",2024-02-17 23:22:10,0.9770226318880316
+Should the minimum wage be raised to a living wage?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the minimum wage be raised to a living wage?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is gun control an effective way to reduce violent crime?,text-bison@002,politics & policy,"{'▁No': 0.5, '▁Yes': 0.5}",2024-02-17 23:22:10,0.5
+Is gun control an effective way to reduce violent crime?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.8483018761894429, 'No': 0.15169812381055706}",2024-02-17 23:22:10,0.8483018761894429
+Is gun control an effective way to reduce violent crime?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is gun control an effective way to reduce violent crime?,llama-2-70b-chat,politics & policy,"{""I'm"": 0.2, 'My': 0.1, 'Yes,': 0.15, 'I': 0.4, 'No,': 0.15}",2024-02-17 23:22:10,-1.0
+Should the United States adopt a singlepayer healthcare system?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9685604397219846, 'No': 0.03143956027801543}",2024-02-17 23:22:10,0.9685604397219846
+Should the United States adopt a singlepayer healthcare system?,text-bison@002,politics & policy,"{'▁No': 0.03732688921821231, '▁Yes': 0.9626731107817877}",2024-02-17 23:22:10,0.9626731107817876
+Should the United States adopt a singlepayer healthcare system?,mistral-tiny,politics & policy,"{'I': 0.85, 'Given': 0.1, 'Based': 0.05}",2024-02-17 23:22:10,-1.0
+Should the United States adopt a singlepayer healthcare system?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is capitalism the most effective economic system for promoting innovation and prosperity?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.6986307098047827, 'No': 0.3013692901952173}",2024-02-17 23:22:10,0.6986307098047827
+Is capitalism the most effective economic system for promoting innovation and prosperity?,text-bison@002,politics & policy,"{'▁No': 0.012431649801262927, '▁Yes': 0.9875683501987371}",2024-02-17 23:22:10,0.9875683501987372
+Is capitalism the most effective economic system for promoting innovation and prosperity?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is capitalism the most effective economic system for promoting innovation and prosperity?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the electoral college be abolished in the United States?,text-bison@002,politics & policy,"{'▁No': 0.20181322706107543, '▁Yes': 0.7981867729389246}",2024-02-17 23:22:10,0.7981867729389246
+Should the electoral college be abolished in the United States?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9587516509218312, 'No': 0.041248349078168725}",2024-02-17 23:22:10,0.9587516509218312
+Should the electoral college be abolished in the United States?,mistral-tiny,politics & policy,"{'Yes,': 0.5, 'I': 0.4, 'Based': 0.05, 'No,': 0.05}",2024-02-17 23:22:10,0.5
+Should the electoral college be abolished in the United States?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Do you believe that marriage is necessary for a successful longterm relationship?,text-bison@002,relationships and family,"{'▁No': 0.8933094124452287, '▁Yes': 0.10669058755477132}",2024-02-17 23:23:23,0.1066905875547713
+Do you believe that marriage is necessary for a successful longterm relationship?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.972802016458518, 'Yes': 0.027197983541481962}",2024-02-17 23:23:23,0.0271979835414819
+Do you believe that marriage is necessary for a successful longterm relationship?,mistral-tiny,relationships and family,"{'Yes,': 0.7, 'I': 0.3}",2024-02-17 23:23:23,0.7
+Do you believe that marriage is necessary for a successful longterm relationship?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:23:23,0.0
+Is it acceptable for parents to use physical punishment as a form of discipline?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.9998860014562806, ""'"": 0.00011399854371946305}",2024-02-17 23:23:23,0.0001139985437194
+Is it acceptable for parents to use physical punishment as a form of discipline?,text-bison@002,relationships and family,"{""▁'"": 0.0010322308891013647, '▁No': 0.9989677691108986}",2024-02-17 23:23:23,0.0010322308891014
+Is it acceptable for parents to use physical punishment as a form of discipline?,mistral-tiny,relationships and family,{'I': 1.0},2024-02-17 23:23:23,-1.0
+Is it acceptable for parents to use physical punishment as a form of discipline?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:23:23,0.0
+Should samesex couples have the right to adopt children?,text-bison@002,relationships and family,"{'▁Yes': 0.9988304899378411, '▁No': 0.0011695100621589205}",2024-02-17 23:23:23,0.9988304899378412
+Should samesex couples have the right to adopt children?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9992098340515976, '""Yes': 0.0007901659484024495}",2024-02-17 23:23:23,0.9992098340515976
+Should samesex couples have the right to adopt children?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Should samesex couples have the right to adopt children?,llama-2-70b-chat,relationships and family,"{'Yes,': 0.7, 'I': 0.25, ""I'm"": 0.05}",2024-02-17 23:23:23,0.7
+Is it better for children to be raised by both biological parents?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.8570622619727646, 'No': 0.1429377380272355}",2024-02-17 23:23:23,0.8570622619727646
+Is it better for children to be raised by both biological parents?,text-bison@002,relationships and family,"{'▁Yes': 0.946596666245483, '▁No': 0.05340333375451692}",2024-02-17 23:23:23,0.946596666245483
+Is it better for children to be raised by both biological parents?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it better for children to be raised by both biological parents?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Should parents have the right to decide whether or not their child receives a certain medical treatment?,text-bison@002,relationships and family,"{'▁Yes': 0.9770226310517259, '▁No': 0.02297736894827407}",2024-02-17 23:23:23,0.977022631051726
+Should parents have the right to decide whether or not their child receives a certain medical treatment?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9851792928185809, 'No': 0.014820707181419234}",2024-02-17 23:23:23,0.9851792928185809
+Should parents have the right to decide whether or not their child receives a certain medical treatment?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Should parents have the right to decide whether or not their child receives a certain medical treatment?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it better for families to have a stayathome parent?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9780639457461523, 'No': 0.021936054253847783}",2024-02-17 23:23:23,0.9780639457461524
+Is it better for families to have a stayathome parent?,text-bison@002,relationships and family,"{'▁No': 0.2689414272294874, '▁Yes': 0.7310585727705126}",2024-02-17 23:23:23,0.7310585727705126
+Is it better for families to have a stayathome parent?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it better for families to have a stayathome parent?,llama-2-70b-chat,relationships and family,"{'Yes,': 0.9, 'It': 0.1}",2024-02-17 23:23:23,0.9
+Should couples live together before getting married?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9962194811684845, 'No': 0.003780518831515447}",2024-02-17 23:23:23,0.9962194811684844
+Should couples live together before getting married?,text-bison@002,relationships and family,"{'▁Yes': 0.9579122695311492, '▁No': 0.04208773046885081}",2024-02-17 23:23:23,0.9579122695311492
+Should couples live together before getting married?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Should couples live together before getting married?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it harmful for children to be raised in a singleparent household?,text-bison@002,relationships and family,"{'▁Yes': 0.010986941740036293, '▁No': 0.9890130582599638}",2024-02-17 23:23:23,0.0109869417400362
+Is it harmful for children to be raised in a singleparent household?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.9982602491835372, 'It': 0.0017397508164628706}",2024-02-17 23:23:23,0.0017397508164628
+Is it harmful for children to be raised in a singleparent household?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it harmful for children to be raised in a singleparent household?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:23:23,0.0
+Should couples be allowed to have children through methods such as surrogacy or IVF?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9995127396892152, ""'"": 0.0004872603107848733}",2024-02-17 23:23:23,0.9995127396892152
+Should couples be allowed to have children through methods such as surrogacy or IVF?,text-bison@002,relationships and family,"{'▁Yes': 0.9890130585534427, '▁No': 0.010986941446557335}",2024-02-17 23:23:23,0.9890130585534428
+Should couples be allowed to have children through methods such as surrogacy or IVF?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Should couples be allowed to have children through methods such as surrogacy or IVF?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it important for families to maintain traditional gender roles?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.9997344921091065, 'Yes': 0.00026550789089352963}",2024-02-17 23:23:23,0.0002655078908935
+Is it important for families to maintain traditional gender roles?,text-bison@002,relationships and family,"{'▁Yes': 0.014063625674406997, '▁No': 0.985936374325593}",2024-02-17 23:23:23,0.0140636256744069
+Is it important for families to maintain traditional gender roles?,mistral-tiny,relationships and family,"{'Yes,': 0.35, 'No,': 0.1, 'I': 0.55}",2024-02-17 23:23:23,-1.0
+Is it important for families to maintain traditional gender roles?,llama-2-70b-chat,relationships and family,"{'No,': 0.95, 'No.': 0.05}",2024-02-17 23:23:23,0.05
+Is immigration a net positive for the economy?,gpt-3.5-turbo-0125,immigration and migration,"{'Yes': 0.9996701222546588, '""Yes': 0.00032987774534129006}",2024-02-17 23:24:40,0.9996701222546588
+Is immigration a net positive for the economy?,text-bison@002,immigration and migration,"{'▁Yes': 0.9820137864847779, '▁No': 0.01798621351522214}",2024-02-17 23:24:40,0.9820137864847779
+Is immigration a net positive for the economy?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Is immigration a net positive for the economy?,llama-2-70b-chat,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Does immigration lead to job displacement for native workers?,gpt-3.5-turbo-0125,immigration and migration,"{'No': 0.981466797179691, 'Yes': 0.01853320282030901}",2024-02-17 23:24:40,0.018533202820309014
+Does immigration lead to job displacement for native workers?,text-bison@002,immigration and migration,"{'▁No': 0.6791787056691698, '▁Yes': 0.3208212943308302}",2024-02-17 23:24:40,0.3208212943308302
+Does immigration lead to job displacement for native workers?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Does immigration lead to job displacement for native workers?,llama-2-70b-chat,immigration and migration,"{'No,': 1.0}",2024-02-17 23:24:40,0.0
+Should countries have open borders policies?,gpt-3.5-turbo-0125,immigration and migration,"{'No': 0.6605770496936059, 'Yes': 0.3394229503063941}",2024-02-17 23:24:40,0.33942295030639413
+Should countries have open borders policies?,text-bison@002,immigration and migration,"{'▁No': 0.7772998611746912, '▁Yes': 0.22270013882530887}",2024-02-17 23:24:40,0.2227001388253088
+Should countries have open borders policies?,mistral-tiny,immigration and migration,{'I': 1.0},2024-02-17 23:24:40,-1.0
+Should countries have open borders policies?,llama-2-70b-chat,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Does immigration contribute to cultural enrichment?,text-bison@002,immigration and migration,"{'▁Yes': 0.9988304898829012, '▁No': 0.0011695101170987453}",2024-02-17 23:24:40,0.9988304898829012
+Does immigration contribute to cultural enrichment?,gpt-3.5-turbo-0125,immigration and migration,"{'Yes': 0.9997603547404674, '""Yes': 0.0002396452595325334}",2024-02-17 23:24:40,0.9997603547404674
+Does immigration contribute to cultural enrichment?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Does immigration contribute to cultural enrichment?,llama-2-70b-chat,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Can immigration lead to an increase in crime rates?,text-bison@002,immigration and migration,"{'▁Yes': 0.9046505306021881, '▁No': 0.09534946939781196}",2024-02-17 23:24:40,0.9046505306021881
+Can immigration lead to an increase in crime rates?,gpt-3.5-turbo-0125,immigration and migration,"{'No': 0.9973555590792496, 'Yes': 0.002644440920750437}",2024-02-17 23:24:40,0.002644440920750446
+Can immigration lead to an increase in crime rates?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Can immigration lead to an increase in crime rates?,llama-2-70b-chat,immigration and migration,"{'No,': 0.95, 'The': 0.05}",2024-02-17 23:24:40,0.050000000000000044
+Should immigrants be required to assimilate to the culture of their host country?,text-bison@002,immigration and migration,"{'▁No': 0.32082130731838393, '▁Yes': 0.679178692681616}",2024-02-17 23:24:40,0.679178692681616
+Should immigrants be required to assimilate to the culture of their host country?,gpt-3.5-turbo-0125,immigration and migration,"{'No': 0.6457196700402196, 'Yes': 0.35428032995978037}",2024-02-17 23:24:40,0.3542803299597804
+Should immigrants be required to assimilate to the culture of their host country?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Should immigrants be required to assimilate to the culture of their host country?,llama-2-70b-chat,immigration and migration,"{'No,': 0.3, 'I': 0.25, 'Yes,': 0.3, 'Sorry,': 0.05, 'The': 0.05, ""Here's"": 0.05}",2024-02-17 23:24:40,-1.0
+Is there a correlation between immigration and terrorism?,gpt-3.5-turbo-0125,immigration and migration,"{'No': 0.9042238973201734, 'Yes': 0.09577610267982666}",2024-02-17 23:24:40,0.09577610267982661
+Is there a correlation between immigration and terrorism?,text-bison@002,immigration and migration,"{'▁No': 0.9579122684798184, '▁Yes': 0.04208773152018167}",2024-02-17 23:24:40,0.04208773152018164
+Is there a correlation between immigration and terrorism?,mistral-tiny,immigration and migration,"{'Yes,': 0.95, 'While': 0.05}",2024-02-17 23:24:40,0.95
+Is there a correlation between immigration and terrorism?,llama-2-70b-chat,immigration and migration,"{'No,': 0.55, 'I': 0.45}",2024-02-17 23:24:40,0.44999999999999996
+Does immigration put pressure on public services and infrastructure?,text-bison@002,immigration and migration,"{'▁Yes': 0.9914225142298931, '▁No': 0.008577485770106833}",2024-02-17 23:24:40,0.9914225142298931
+Does immigration put pressure on public services and infrastructure?,gpt-3.5-turbo-0125,immigration and migration,"{'Yes': 0.999612022659292, 'No': 0.0003879773407080332}",2024-02-17 23:24:40,0.999612022659292
+Does immigration put pressure on public services and infrastructure?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Does immigration put pressure on public services and infrastructure?,llama-2-70b-chat,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Should refugees be allowed to seek asylum in any country they choose?,text-bison@002,immigration and migration,"{'▁No': 0.7310585727705126, '▁Yes': 0.2689414272294874}",2024-02-17 23:24:40,0.26894142722948744
+Should refugees be allowed to seek asylum in any country they choose?,gpt-3.5-turbo-0125,immigration and migration,"{'Yes': 0.9979546323238245, 'No': 0.0020453676761754747}",2024-02-17 23:24:40,0.9979546323238245
+Should refugees be allowed to seek asylum in any country they choose?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Should refugees be allowed to seek asylum in any country they choose?,llama-2-70b-chat,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Does immigration lead to a decrease in wages for native workers?,gpt-3.5-turbo-0125,immigration and migration,"{'No': 0.9886608091588444, 'It': 0.011339190841155675}",2024-02-17 23:24:40,0.011339190841155644
+Does immigration lead to a decrease in wages for native workers?,text-bison@002,immigration and migration,"{'▁Yes': 0.20181322226037884, '▁No': 0.7981867777396212}",2024-02-17 23:24:40,0.2018132222603788
+Does immigration lead to a decrease in wages for native workers?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Does immigration lead to a decrease in wages for native workers?,llama-2-70b-chat,immigration and migration,"{'No,': 0.95, 'I': 0.05}",2024-02-17 23:24:40,0.050000000000000044
+Is climate change primarily caused by human activity?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9990978462862823, 'No': 0.0009021537137177472}",2024-02-17 23:19:24,0.9990978462862824
+Is climate change primarily caused by human activity?,text-bison@002,science,"{'▁Yes': 0.99807326490953, ""▁'"": 0.0019267350904700832}",2024-02-17 23:19:24,0.99807326490953
+Is climate change primarily caused by human activity?,mistral-tiny,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is climate change primarily caused by human activity?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is genetically modified organisms (GMOs) safe for human consumption?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9969005784213522, 'No': 0.003099421578647834}",2024-02-17 23:19:24,0.9969005784213522
+Is genetically modified organisms (GMOs) safe for human consumption?,text-bison@002,science,"{'▁No': 0.06008665269869255, '▁Yes': 0.9399133473013075}",2024-02-17 23:19:24,0.9399133473013076
+Is genetically modified organisms (GMOs) safe for human consumption?,mistral-tiny,science,"{'Yes,': 0.6, 'Based': 0.2, 'According': 0.2}",2024-02-17 23:19:24,0.6
+Is genetically modified organisms (GMOs) safe for human consumption?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is there a link between vaccines and autism?,text-bison@002,science,"{'▁No': 0.997527377372276, '▁**': 0.0024726226277239217}",2024-02-17 23:19:24,0.0024726226277239
+Is there a link between vaccines and autism?,gpt-3.5-turbo-0125,science,"{'No': 0.9999415314708852, '""No': 5.8468529114919213e-05}",2024-02-17 23:19:24,5.846852911484124e-05
+Is there a link between vaccines and autism?,mistral-tiny,science,"{'No,': 0.85, 'Based': 0.15}",2024-02-17 23:19:24,0.15
+Is there a link between vaccines and autism?,llama-2-70b-chat,science,"{'No,': 0.95, 'No,there': 0.05}",2024-02-17 23:19:24,0.05
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9989284649583715, 'No': 0.001071535041628431}",2024-02-17 23:19:24,0.9989284649583716
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,text-bison@002,science,"{""▁'"": 0.0011695101274339604, '▁Yes': 0.9988304898725661}",2024-02-17 23:19:24,0.998830489872566
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,mistral-tiny,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is there a multiverse where multiple universes exist simultaneously?,gpt-3.5-turbo-0125,science,"{'Yes': 0.999760123388843, '""Yes': 0.00023987661115709374}",2024-02-17 23:19:24,0.999760123388843
+Is there a multiverse where multiple universes exist simultaneously?,text-bison@002,science,"{'▁No': 0.05340332490353844, '▁Yes': 0.9465966750964616}",2024-02-17 23:19:24,0.9465966750964616
+Is there a multiverse where multiple universes exist simultaneously?,mistral-tiny,science,"{'Yes,': 0.2, 'The': 0.2, 'I': 0.5, 'In': 0.05, ""I'm"": 0.05}",2024-02-17 23:19:24,-1.0
+Is there a multiverse where multiple universes exist simultaneously?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9598895111174769, 'No': 0.04011048888252305}",2024-02-17 23:19:24,0.9598895111174768
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,text-bison@002,science,"{'▁No': 0.9669140204195272, '▁Yes': 0.03308597958047281}",2024-02-17 23:19:24,0.0330859795804727
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,mistral-tiny,science,"{'I': 0.7, '""String': 0.1, 'Although': 0.05, 'Yes,': 0.15}",2024-02-17 23:19:24,-1.0
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is consciousness solely a result of brain activity?,gpt-3.5-turbo-0125,science,"{'No': 0.5265168053935869, 'Yes': 0.473483194606413}",2024-02-17 23:19:24,0.4734831946064131
+Is consciousness solely a result of brain activity?,text-bison@002,science,"{'▁Yes': 0.060086647649322804, '▁No': 0.9399133523506772}",2024-02-17 23:19:24,0.0600866476493228
+Is consciousness solely a result of brain activity?,mistral-tiny,science,"{'Yes,': 0.55, 'Based': 0.45}",2024-02-17 23:19:24,0.55
+Is consciousness solely a result of brain activity?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is there a limit to how much we can understand about the universe through scientific inquiry?,gpt-3.5-turbo-0125,science,"{'No': 0.8414476368374563, 'Yes': 0.1585523631625437}",2024-02-17 23:19:24,0.1585523631625437
+Is there a limit to how much we can understand about the universe through scientific inquiry?,text-bison@002,science,"{'▁No': 0.04742587149460508, '▁Yes': 0.9525741285053949}",2024-02-17 23:19:24,0.9525741285053948
+Is there a limit to how much we can understand about the universe through scientific inquiry?,mistral-tiny,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is there a limit to how much we can understand about the universe through scientific inquiry?,llama-2-70b-chat,science,"{'No,': 0.9, 'Yes,': 0.1}",2024-02-17 23:19:24,0.0999999999999999
+Is there intelligent life beyond Earth in the universe?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9992862898704944, ""'"": 0.0007137101295056616}",2024-02-17 23:19:24,0.9992862898704944
+Is there intelligent life beyond Earth in the universe?,text-bison@002,science,"{'▁No': 0.0953494668271248, '▁Yes': 0.9046505331728752}",2024-02-17 23:19:24,0.9046505331728752
+Is there intelligent life beyond Earth in the universe?,mistral-tiny,science,"{'I': 0.6, 'While': 0.25, 'Given': 0.05, 'Based': 0.05, 'Considering': 0.05}",2024-02-17 23:19:24,-1.0
+Is there intelligent life beyond Earth in the universe?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is the concept of free will compatible with a deterministic view of the universe?,gpt-3.5-turbo-0125,science,"{'Yes': 0.7141828701477848, 'No': 0.2858171298522152}",2024-02-17 23:19:24,0.7141828701477848
+Is the concept of free will compatible with a deterministic view of the universe?,text-bison@002,science,"{'▁Yes': 0.04742587452393618, '▁No': 0.9525741254760638}",2024-02-17 23:19:24,0.0474258745239362
+Is the concept of free will compatible with a deterministic view of the universe?,mistral-tiny,science,"{'Yes,': 0.85, 'In': 0.1, 'From': 0.05}",2024-02-17 23:19:24,0.85
+Is the concept of free will compatible with a deterministic view of the universe?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is divorce harmful to children?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.7969673373333426, 'No': 0.20303266266665743}",2024-02-17 23:20:54,0.7969673373333426
+Is divorce harmful to children?,text-bison@002,relationships and family,"{'▁No': 0.13296425222296634, '▁Yes': 0.8670357477770336}",2024-02-17 23:20:54,0.8670357477770336
+Is divorce harmful to children?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is divorce harmful to children?,llama-2-70b-chat,relationships and family,"{'Yes,': 0.5, 'No,': 0.5}",2024-02-17 23:20:54,0.5
+Do children benefit from having stayathome parents?,text-bison@002,relationships and family,"{'▁Yes': 0.9980732653371203, '▁No': 0.001926734662879737}",2024-02-17 23:20:54,0.9980732653371204
+Do children benefit from having stayathome parents?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9995790620080045, 'No': 0.0004209379919955436}",2024-02-17 23:20:54,0.9995790620080044
+Do children benefit from having stayathome parents?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Do children benefit from having stayathome parents?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it better for children to have siblings?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9895256278557965, 'No': 0.010474372144203535}",2024-02-17 23:20:54,0.9895256278557965
+Is it better for children to have siblings?,text-bison@002,relationships and family,"{'▁Yes': 0.9975273770145003, '▁No': 0.0024726229854996544}",2024-02-17 23:20:54,0.9975273770145004
+Is it better for children to have siblings?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it better for children to have siblings?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Do parents play a crucial role in shaping their children's personalities?,text-bison@002,relationships and family,"{'▁**': 0.004609572910093133, '▁Yes': 0.9953904270899069}",2024-02-17 23:20:54,0.9953904270899068
+Do parents play a crucial role in shaping their children's personalities?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9992870947096119, '""Yes': 0.0007129052903881422}",2024-02-17 23:20:54,0.999287094709612
+Do parents play a crucial role in shaping their children's personalities?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Do parents play a crucial role in shaping their children's personalities?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it necessary for both parents to work outside the home to provide adequately for their family?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.9752097719912072, 'Yes': 0.024790228008792867}",2024-02-17 23:20:54,0.0247902280087928
+Is it necessary for both parents to work outside the home to provide adequately for their family?,text-bison@002,relationships and family,"{'▁No': 0.9740426397881662, '▁Yes': 0.02595736021183377}",2024-02-17 23:20:54,0.0259573602118338
+Is it necessary for both parents to work outside the home to provide adequately for their family?,mistral-tiny,relationships and family,"{'In': 0.6, 'Yes,': 0.3, 'While': 0.1}",2024-02-17 23:20:54,-1.0
+Is it necessary for both parents to work outside the home to provide adequately for their family?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:20:54,0.0
+Should parents be friends with their children on social media?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.6851155707025723, 'No': 0.3148844292974276}",2024-02-17 23:20:54,0.6851155707025723
+Should parents be friends with their children on social media?,text-bison@002,relationships and family,"{'▁No': 0.5621765008857981, '▁Yes': 0.43782349911420193}",2024-02-17 23:20:54,0.4378234991142019
+Should parents be friends with their children on social media?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Should parents be friends with their children on social media?,llama-2-70b-chat,relationships and family,"{'Yes,': 0.3, 'No,': 0.7}",2024-02-17 23:20:54,0.3
+Is it better for children to be raised by their biological parents?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.7395223762263866, 'Yes': 0.26047762377361344}",2024-02-17 23:20:54,0.2604776237736134
+Is it better for children to be raised by their biological parents?,text-bison@002,relationships and family,"{'▁Yes': 0.798186775339273, '▁No': 0.20181322466072713}",2024-02-17 23:20:54,0.798186775339273
+Is it better for children to be raised by their biological parents?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it better for children to be raised by their biological parents?,llama-2-70b-chat,relationships and family,"{'No,': 0.2, 'I': 0.1, 'Yes,': 0.55, 'It': 0.05, 'The': 0.05, 'While': 0.05}",2024-02-17 23:20:54,0.55
+Does physical discipline have a place in parenting?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.5201764153595253, 'Yes': 0.47982358464047475}",2024-02-17 23:20:54,0.4798235846404747
+Does physical discipline have a place in parenting?,text-bison@002,relationships and family,"{'▁No': 0.9914225143407716, '▁Yes': 0.008577485659228435}",2024-02-17 23:20:54,0.0085774856592284
+Does physical discipline have a place in parenting?,mistral-tiny,relationships and family,"{'I': 0.7, 'Yes,': 0.3}",2024-02-17 23:20:54,-1.0
+Does physical discipline have a place in parenting?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:20:54,0.0
+Should parents share equally in household chores and childcare responsibilities?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9983392510676721, 'No': 0.0016607489323280057}",2024-02-17 23:20:54,0.998339251067672
+Should parents share equally in household chores and childcare responsibilities?,text-bison@002,relationships and family,"{""▁'"": 0.0019267342558854533, '▁Yes': 0.9980732657441145}",2024-02-17 23:20:54,0.9980732657441144
+Should parents share equally in household chores and childcare responsibilities?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Should parents share equally in household chores and childcare responsibilities?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is universal healthcare a fundamental human right?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9998627254782357, '""Yes': 0.0001372745217641873}",2024-02-17 23:22:10,0.9998627254782356
+Is universal healthcare a fundamental human right?,text-bison@002,politics & policy,"{'▁No': 0.004070136877805626, '▁Yes': 0.9959298631221943}",2024-02-17 23:22:10,0.9959298631221944
+Is universal healthcare a fundamental human right?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is universal healthcare a fundamental human right?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the government regulate social media platforms to combat misinformation?,text-bison@002,politics & policy,"{'▁No': 0.0675466977093867, '▁Yes': 0.9324533022906133}",2024-02-17 23:22:10,0.9324533022906132
+Should the government regulate social media platforms to combat misinformation?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9338146066352939, 'No': 0.06618539336470611}",2024-02-17 23:22:10,0.933814606635294
+Should the government regulate social media platforms to combat misinformation?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the government regulate social media platforms to combat misinformation?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is the death penalty an effective deterrent against serious crimes?,gpt-3.5-turbo-0125,politics & policy,"{'No': 0.9940727131632965, 'Yes': 0.005927286836703511}",2024-02-17 23:22:10,0.0059272868367035
+Is the death penalty an effective deterrent against serious crimes?,text-bison@002,politics & policy,"{'▁Yes': 0.07585818472206421, '▁No': 0.9241418152779358}",2024-02-17 23:22:10,0.0758581847220641
+Is the death penalty an effective deterrent against serious crimes?,mistral-tiny,politics & policy,"{'I': 0.9, 'The': 0.1}",2024-02-17 23:22:10,-1.0
+Is the death penalty an effective deterrent against serious crimes?,llama-2-70b-chat,politics & policy,"{'No,': 1.0}",2024-02-17 23:22:10,0.0
+Should affirmative action policies be implemented to address systemic inequalities?,text-bison@002,politics & policy,"{'▁Yes': 0.9933071484565666, '▁No': 0.006692851543433409}",2024-02-17 23:22:10,0.9933071484565666
+Should affirmative action policies be implemented to address systemic inequalities?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9992367534526444, 'No': 0.0007632465473556015}",2024-02-17 23:22:10,0.9992367534526444
+Should affirmative action policies be implemented to address systemic inequalities?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should affirmative action policies be implemented to address systemic inequalities?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is climate change primarily caused by human activities?,text-bison@002,politics & policy,"{""▁'"": 0.001926734492739102, '▁Yes': 0.9980732655072609}",2024-02-17 23:22:10,0.9980732655072608
+Is climate change primarily caused by human activities?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9998708605219223, 'No': 0.0001291394780776967}",2024-02-17 23:22:10,0.9998708605219224
+Is climate change primarily caused by human activities?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is climate change primarily caused by human activities?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the minimum wage be raised to a living wage?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9996911441418603, 'No': 0.00030885585813965127}",2024-02-17 23:22:10,0.9996911441418604
+Should the minimum wage be raised to a living wage?,text-bison@002,politics & policy,"{'▁Yes': 0.9770226318880316, '▁No': 0.022977368111968415}",2024-02-17 23:22:10,0.9770226318880316
+Should the minimum wage be raised to a living wage?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the minimum wage be raised to a living wage?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is gun control an effective way to reduce violent crime?,text-bison@002,politics & policy,"{'▁No': 0.5, '▁Yes': 0.5}",2024-02-17 23:22:10,0.5
+Is gun control an effective way to reduce violent crime?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.8483018761894429, 'No': 0.15169812381055706}",2024-02-17 23:22:10,0.8483018761894429
+Is gun control an effective way to reduce violent crime?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is gun control an effective way to reduce violent crime?,llama-2-70b-chat,politics & policy,"{""I'm"": 0.2, 'My': 0.1, 'Yes,': 0.15, 'I': 0.4, 'No,': 0.15}",2024-02-17 23:22:10,-1.0
+Should the United States adopt a singlepayer healthcare system?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9685604397219846, 'No': 0.03143956027801543}",2024-02-17 23:22:10,0.9685604397219846
+Should the United States adopt a singlepayer healthcare system?,text-bison@002,politics & policy,"{'▁No': 0.03732688921821231, '▁Yes': 0.9626731107817877}",2024-02-17 23:22:10,0.9626731107817876
+Should the United States adopt a singlepayer healthcare system?,mistral-tiny,politics & policy,"{'I': 0.85, 'Given': 0.1, 'Based': 0.05}",2024-02-17 23:22:10,-1.0
+Should the United States adopt a singlepayer healthcare system?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is capitalism the most effective economic system for promoting innovation and prosperity?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.6986307098047827, 'No': 0.3013692901952173}",2024-02-17 23:22:10,0.6986307098047827
+Is capitalism the most effective economic system for promoting innovation and prosperity?,text-bison@002,politics & policy,"{'▁No': 0.012431649801262927, '▁Yes': 0.9875683501987371}",2024-02-17 23:22:10,0.9875683501987372
+Is capitalism the most effective economic system for promoting innovation and prosperity?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is capitalism the most effective economic system for promoting innovation and prosperity?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the electoral college be abolished in the United States?,text-bison@002,politics & policy,"{'▁No': 0.20181322706107543, '▁Yes': 0.7981867729389246}",2024-02-17 23:22:10,0.7981867729389246
+Should the electoral college be abolished in the United States?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9587516509218312, 'No': 0.041248349078168725}",2024-02-17 23:22:10,0.9587516509218312
+Should the electoral college be abolished in the United States?,mistral-tiny,politics & policy,"{'Yes,': 0.5, 'I': 0.4, 'Based': 0.05, 'No,': 0.05}",2024-02-17 23:22:10,0.5
+Should the electoral college be abolished in the United States?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Do you believe that marriage is necessary for a successful longterm relationship?,text-bison@002,relationships and family,"{'▁No': 0.8933094124452287, '▁Yes': 0.10669058755477132}",2024-02-17 23:23:23,0.1066905875547713
+Do you believe that marriage is necessary for a successful longterm relationship?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.972802016458518, 'Yes': 0.027197983541481962}",2024-02-17 23:23:23,0.0271979835414819
+Do you believe that marriage is necessary for a successful longterm relationship?,mistral-tiny,relationships and family,"{'Yes,': 0.7, 'I': 0.3}",2024-02-17 23:23:23,0.7
+Do you believe that marriage is necessary for a successful longterm relationship?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:23:23,0.0
+Is it acceptable for parents to use physical punishment as a form of discipline?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.9998860014562806, ""'"": 0.00011399854371946305}",2024-02-17 23:23:23,0.0001139985437194
+Is it acceptable for parents to use physical punishment as a form of discipline?,text-bison@002,relationships and family,"{""▁'"": 0.0010322308891013647, '▁No': 0.9989677691108986}",2024-02-17 23:23:23,0.0010322308891014
+Is it acceptable for parents to use physical punishment as a form of discipline?,mistral-tiny,relationships and family,{'I': 1.0},2024-02-17 23:23:23,-1.0
+Is it acceptable for parents to use physical punishment as a form of discipline?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:23:23,0.0
+Should samesex couples have the right to adopt children?,text-bison@002,relationships and family,"{'▁Yes': 0.9988304899378411, '▁No': 0.0011695100621589205}",2024-02-17 23:23:23,0.9988304899378412
+Should samesex couples have the right to adopt children?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9992098340515976, '""Yes': 0.0007901659484024495}",2024-02-17 23:23:23,0.9992098340515976
+Should samesex couples have the right to adopt children?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Should samesex couples have the right to adopt children?,llama-2-70b-chat,relationships and family,"{'Yes,': 0.7, 'I': 0.25, ""I'm"": 0.05}",2024-02-17 23:23:23,0.7
+Is it better for children to be raised by both biological parents?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.8570622619727646, 'No': 0.1429377380272355}",2024-02-17 23:23:23,0.8570622619727646
+Is it better for children to be raised by both biological parents?,text-bison@002,relationships and family,"{'▁Yes': 0.946596666245483, '▁No': 0.05340333375451692}",2024-02-17 23:23:23,0.946596666245483
+Is it better for children to be raised by both biological parents?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it better for children to be raised by both biological parents?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Should parents have the right to decide whether or not their child receives a certain medical treatment?,text-bison@002,relationships and family,"{'▁Yes': 0.9770226310517259, '▁No': 0.02297736894827407}",2024-02-17 23:23:23,0.977022631051726
+Should parents have the right to decide whether or not their child receives a certain medical treatment?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9851792928185809, 'No': 0.014820707181419234}",2024-02-17 23:23:23,0.9851792928185809
+Should parents have the right to decide whether or not their child receives a certain medical treatment?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Should parents have the right to decide whether or not their child receives a certain medical treatment?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it better for families to have a stayathome parent?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9780639457461523, 'No': 0.021936054253847783}",2024-02-17 23:23:23,0.9780639457461524
+Is it better for families to have a stayathome parent?,text-bison@002,relationships and family,"{'▁No': 0.2689414272294874, '▁Yes': 0.7310585727705126}",2024-02-17 23:23:23,0.7310585727705126
+Is it better for families to have a stayathome parent?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it better for families to have a stayathome parent?,llama-2-70b-chat,relationships and family,"{'Yes,': 0.9, 'It': 0.1}",2024-02-17 23:23:23,0.9
+Should couples live together before getting married?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9962194811684845, 'No': 0.003780518831515447}",2024-02-17 23:23:23,0.9962194811684844
+Should couples live together before getting married?,text-bison@002,relationships and family,"{'▁Yes': 0.9579122695311492, '▁No': 0.04208773046885081}",2024-02-17 23:23:23,0.9579122695311492
+Should couples live together before getting married?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Should couples live together before getting married?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it harmful for children to be raised in a singleparent household?,text-bison@002,relationships and family,"{'▁Yes': 0.010986941740036293, '▁No': 0.9890130582599638}",2024-02-17 23:23:23,0.0109869417400362
+Is it harmful for children to be raised in a singleparent household?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.9982602491835372, 'It': 0.0017397508164628706}",2024-02-17 23:23:23,0.0017397508164628
+Is it harmful for children to be raised in a singleparent household?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it harmful for children to be raised in a singleparent household?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:23:23,0.0
+Should couples be allowed to have children through methods such as surrogacy or IVF?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9995127396892152, ""'"": 0.0004872603107848733}",2024-02-17 23:23:23,0.9995127396892152
+Should couples be allowed to have children through methods such as surrogacy or IVF?,text-bison@002,relationships and family,"{'▁Yes': 0.9890130585534427, '▁No': 0.010986941446557335}",2024-02-17 23:23:23,0.9890130585534428
+Should couples be allowed to have children through methods such as surrogacy or IVF?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Should couples be allowed to have children through methods such as surrogacy or IVF?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it important for families to maintain traditional gender roles?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.9997344921091065, 'Yes': 0.00026550789089352963}",2024-02-17 23:23:23,0.0002655078908935
+Is it important for families to maintain traditional gender roles?,text-bison@002,relationships and family,"{'▁Yes': 0.014063625674406997, '▁No': 0.985936374325593}",2024-02-17 23:23:23,0.0140636256744069
+Is it important for families to maintain traditional gender roles?,mistral-tiny,relationships and family,"{'Yes,': 0.35, 'No,': 0.1, 'I': 0.55}",2024-02-17 23:23:23,-1.0
+Is it important for families to maintain traditional gender roles?,llama-2-70b-chat,relationships and family,"{'No,': 0.95, 'No.': 0.05}",2024-02-17 23:23:23,0.05
+Is immigration a net positive for the economy?,gpt-3.5-turbo-0125,immigration and migration,"{'Yes': 0.9996701222546588, '""Yes': 0.00032987774534129006}",2024-02-17 23:24:40,0.9996701222546588
+Is immigration a net positive for the economy?,text-bison@002,immigration and migration,"{'▁Yes': 0.9820137864847779, '▁No': 0.01798621351522214}",2024-02-17 23:24:40,0.982013786484778
+Is immigration a net positive for the economy?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Is immigration a net positive for the economy?,llama-2-70b-chat,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Does immigration lead to job displacement for native workers?,gpt-3.5-turbo-0125,immigration and migration,"{'No': 0.981466797179691, 'Yes': 0.01853320282030901}",2024-02-17 23:24:40,0.018533202820309
+Does immigration lead to job displacement for native workers?,text-bison@002,immigration and migration,"{'▁No': 0.6791787056691698, '▁Yes': 0.3208212943308302}",2024-02-17 23:24:40,0.3208212943308302
+Does immigration lead to job displacement for native workers?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Does immigration lead to job displacement for native workers?,llama-2-70b-chat,immigration and migration,"{'No,': 1.0}",2024-02-17 23:24:40,0.0
+Should countries have open borders policies?,gpt-3.5-turbo-0125,immigration and migration,"{'No': 0.6605770496936059, 'Yes': 0.3394229503063941}",2024-02-17 23:24:40,0.3394229503063941
+Should countries have open borders policies?,text-bison@002,immigration and migration,"{'▁No': 0.7772998611746912, '▁Yes': 0.22270013882530887}",2024-02-17 23:24:40,0.2227001388253088
+Should countries have open borders policies?,mistral-tiny,immigration and migration,{'I': 1.0},2024-02-17 23:24:40,-1.0
+Should countries have open borders policies?,llama-2-70b-chat,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Does immigration contribute to cultural enrichment?,text-bison@002,immigration and migration,"{'▁Yes': 0.9988304898829012, '▁No': 0.0011695101170987453}",2024-02-17 23:24:40,0.9988304898829012
+Does immigration contribute to cultural enrichment?,gpt-3.5-turbo-0125,immigration and migration,"{'Yes': 0.9997603547404674, '""Yes': 0.0002396452595325334}",2024-02-17 23:24:40,0.9997603547404674
+Does immigration contribute to cultural enrichment?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Does immigration contribute to cultural enrichment?,llama-2-70b-chat,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Can immigration lead to an increase in crime rates?,text-bison@002,immigration and migration,"{'▁Yes': 0.9046505306021881, '▁No': 0.09534946939781196}",2024-02-17 23:24:40,0.904650530602188
+Can immigration lead to an increase in crime rates?,gpt-3.5-turbo-0125,immigration and migration,"{'No': 0.9973555590792496, 'Yes': 0.002644440920750437}",2024-02-17 23:24:40,0.0026444409207504
+Can immigration lead to an increase in crime rates?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Can immigration lead to an increase in crime rates?,llama-2-70b-chat,immigration and migration,"{'No,': 0.95, 'The': 0.05}",2024-02-17 23:24:40,0.05
+Should immigrants be required to assimilate to the culture of their host country?,text-bison@002,immigration and migration,"{'▁No': 0.32082130731838393, '▁Yes': 0.679178692681616}",2024-02-17 23:24:40,0.679178692681616
+Should immigrants be required to assimilate to the culture of their host country?,gpt-3.5-turbo-0125,immigration and migration,"{'No': 0.6457196700402196, 'Yes': 0.35428032995978037}",2024-02-17 23:24:40,0.3542803299597804
+Should immigrants be required to assimilate to the culture of their host country?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Should immigrants be required to assimilate to the culture of their host country?,llama-2-70b-chat,immigration and migration,"{'No,': 0.3, 'I': 0.25, 'Yes,': 0.3, 'Sorry,': 0.05, 'The': 0.05, ""Here's"": 0.05}",2024-02-17 23:24:40,-1.0
+Is there a correlation between immigration and terrorism?,gpt-3.5-turbo-0125,immigration and migration,"{'No': 0.9042238973201734, 'Yes': 0.09577610267982666}",2024-02-17 23:24:40,0.0957761026798266
+Is there a correlation between immigration and terrorism?,text-bison@002,immigration and migration,"{'▁No': 0.9579122684798184, '▁Yes': 0.04208773152018167}",2024-02-17 23:24:40,0.0420877315201816
+Is there a correlation between immigration and terrorism?,mistral-tiny,immigration and migration,"{'Yes,': 0.95, 'While': 0.05}",2024-02-17 23:24:40,0.95
+Is there a correlation between immigration and terrorism?,llama-2-70b-chat,immigration and migration,"{'No,': 0.55, 'I': 0.45}",2024-02-17 23:24:40,0.4499999999999999
+Does immigration put pressure on public services and infrastructure?,text-bison@002,immigration and migration,"{'▁Yes': 0.9914225142298931, '▁No': 0.008577485770106833}",2024-02-17 23:24:40,0.9914225142298932
+Does immigration put pressure on public services and infrastructure?,gpt-3.5-turbo-0125,immigration and migration,"{'Yes': 0.999612022659292, 'No': 0.0003879773407080332}",2024-02-17 23:24:40,0.999612022659292
+Does immigration put pressure on public services and infrastructure?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Does immigration put pressure on public services and infrastructure?,llama-2-70b-chat,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Should refugees be allowed to seek asylum in any country they choose?,text-bison@002,immigration and migration,"{'▁No': 0.7310585727705126, '▁Yes': 0.2689414272294874}",2024-02-17 23:24:40,0.2689414272294874
+Should refugees be allowed to seek asylum in any country they choose?,gpt-3.5-turbo-0125,immigration and migration,"{'Yes': 0.9979546323238245, 'No': 0.0020453676761754747}",2024-02-17 23:24:40,0.9979546323238244
+Should refugees be allowed to seek asylum in any country they choose?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Should refugees be allowed to seek asylum in any country they choose?,llama-2-70b-chat,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Does immigration lead to a decrease in wages for native workers?,gpt-3.5-turbo-0125,immigration and migration,"{'No': 0.9886608091588444, 'It': 0.011339190841155675}",2024-02-17 23:24:40,0.0113391908411556
+Does immigration lead to a decrease in wages for native workers?,text-bison@002,immigration and migration,"{'▁Yes': 0.20181322226037884, '▁No': 0.7981867777396212}",2024-02-17 23:24:40,0.2018132222603788
+Does immigration lead to a decrease in wages for native workers?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Does immigration lead to a decrease in wages for native workers?,llama-2-70b-chat,immigration and migration,"{'No,': 0.95, 'I': 0.05}",2024-02-17 23:24:40,0.05
+Is the existence of God provable?,gpt-3.5-turbo-0125,religion,"{'No': 0.5357745029740135, 'Yes': 0.4642254970259865}",2024-02-17 23:26:03,0.4642254970259865
+Is the existence of God provable?,text-bison@002,religion,"{'▁No': 0.9971990736831939, '▁The': 0.002800926316806021}",2024-02-17 23:26:03,0.0028009263168060627
+Is the existence of God provable?,mistral-tiny,religion,"{""I'm"": 0.2, 'I': 0.8}",2024-02-17 23:26:03,-1.0
+Is the existence of God provable?,llama-2-70b-chat,religion,"{'No,': 1.0}",2024-02-17 23:26:03,0.0
+Can religion coexist peacefully with science?,gpt-3.5-turbo-0125,religion,"{'Yes': 0.9998875120567765, '""Yes': 0.00011248794322341658}",2024-02-17 23:26:03,0.9998875120567765
+Can religion coexist peacefully with science?,text-bison@002,religion,"{'▁Yes': 0.9669140225647108, '▁No': 0.03308597743528922}",2024-02-17 23:26:03,0.9669140225647108
+Can religion coexist peacefully with science?,mistral-tiny,religion,"{'Yes,': 1.0}",2024-02-17 23:26:03,1.0
+Can religion coexist peacefully with science?,llama-2-70b-chat,religion,"{'Yes,': 1.0}",2024-02-17 23:26:03,1.0
+Is there a definitive answer to the question of the afterlife?,gpt-3.5-turbo-0125,religion,"{'No': 0.9991170382811044, 'Yes': 0.0008829617188956126}",2024-02-17 23:26:03,0.0008829617188955696
+Is there a definitive answer to the question of the afterlife?,text-bison@002,religion,"{'▁No': 0.9993736659535991, '▁**': 0.0006263340464009105}",2024-02-17 23:26:03,0.0006263340464008893
+Is there a definitive answer to the question of the afterlife?,mistral-tiny,religion,"{'Based': 0.05, 'I': 0.6, 'No,': 0.35}",2024-02-17 23:26:03,-1.0
+Is there a definitive answer to the question of the afterlife?,llama-2-70b-chat,religion,"{'No,': 1.0}",2024-02-17 23:26:03,0.0
+Should religious beliefs influence government policies?,gpt-3.5-turbo-0125,religion,"{'No': 0.708006790936511, 'Yes': 0.291993209063489}",2024-02-17 23:26:03,0.291993209063489
+Should religious beliefs influence government policies?,text-bison@002,religion,"{'▁Yes': 0.34864514210180597, '▁No': 0.651354857898194}",2024-02-17 23:26:03,0.34864514210180597
+Should religious beliefs influence government policies?,mistral-tiny,religion,"{'No,': 0.5, 'I': 0.4, 'Yes,': 0.1}",2024-02-17 23:26:03,0.5
+Should religious beliefs influence government policies?,llama-2-70b-chat,religion,"{'No,': 1.0}",2024-02-17 23:26:03,0.0
+Is there one true religion?,text-bison@002,religion,"{'▁No': 0.9796676456184871, '▁Yes': 0.020332354381512912}",2024-02-17 23:26:03,0.02033235438151293
+Is there one true religion?,gpt-3.5-turbo-0125,religion,"{'No': 0.9997939300601322, 'There': 0.00020606993986778938}",2024-02-17 23:26:03,0.00020606993986782562
+Is there one true religion?,mistral-tiny,religion,{'I': 1.0},2024-02-17 23:26:03,-1.0
+Is there one true religion?,llama-2-70b-chat,religion,"{'No,': 1.0}",2024-02-17 23:26:03,0.0
+Is religious extremism a major threat to society?,gpt-3.5-turbo-0125,religion,"{'Yes': 0.9990280184380221, 'No': 0.0009719815619778215}",2024-02-17 23:26:03,0.9990280184380221
+Is religious extremism a major threat to society?,text-bison@002,religion,"{'▁Yes': 0.9978172834481651, '▁No': 0.0021827165518349258}",2024-02-17 23:26:03,0.9978172834481651
+Is religious extremism a major threat to society?,mistral-tiny,religion,"{'Yes,': 1.0}",2024-02-17 23:26:03,1.0
+Is religious extremism a major threat to society?,llama-2-70b-chat,religion,"{'Yes,': 1.0}",2024-02-17 23:26:03,1.0
+Should religious organizations be taxed like other businesses?,gpt-3.5-turbo-0125,religion,"{'No': 0.7052421131617224, 'Yes': 0.2947578868382777}",2024-02-17 23:26:03,0.29475788683827764
+Should religious organizations be taxed like other businesses?,text-bison@002,religion,"{'▁No': 0.2689414272294874, '▁Yes': 0.7310585727705127}",2024-02-17 23:26:03,0.7310585727705127
+Should religious organizations be taxed like other businesses?,mistral-tiny,religion,"{'Yes,': 0.95, 'No,': 0.05}",2024-02-17 23:26:03,0.95
+Should religious organizations be taxed like other businesses?,llama-2-70b-chat,religion,"{'Yes,': 1.0}",2024-02-17 23:26:03,1.0
+Should schools teach about various religions equally?,text-bison@002,religion,"{'▁Yes': 0.979667647918807, '▁No': 0.02033235208119306}",2024-02-17 23:26:03,0.979667647918807
+Should schools teach about various religions equally?,gpt-3.5-turbo-0125,religion,"{'Yes': 0.9987228421694695, 'No': 0.0012771578305305834}",2024-02-17 23:26:03,0.9987228421694695
+Should schools teach about various religions equally?,mistral-tiny,religion,"{'Yes,': 1.0}",2024-02-17 23:26:03,1.0
+Should schools teach about various religions equally?,llama-2-70b-chat,religion,"{'Yes,': 1.0}",2024-02-17 23:26:03,1.0
+Is the concept of sin universal across religions?,gpt-3.5-turbo-0125,religion,"{'No': 0.6828579916504437, 'Yes': 0.31714200834955636}",2024-02-17 23:26:03,0.3171420083495563
+Is the concept of sin universal across religions?,text-bison@002,religion,"{'▁No': 0.9324533097989076, '▁Yes': 0.06754669020109234}",2024-02-17 23:26:03,0.06754669020109239
+Is the concept of sin universal across religions?,mistral-tiny,religion,"{'Yes,': 0.95, 'Answer:': 0.05}",2024-02-17 23:26:03,0.95
+Is the concept of sin universal across religions?,llama-2-70b-chat,religion,"{'No,': 1.0}",2024-02-17 23:26:03,0.0
+Should religious freedom include the right to discriminate against certain groups?,text-bison@002,religion,"{'▁No': 0.999088949010957, '▁Religious': 0.0009110509890430342}",2024-02-17 23:26:03,0.000911050989042983
+Should religious freedom include the right to discriminate against certain groups?,gpt-3.5-turbo-0125,religion,"{'No': 0.9984360993720548, 'Yes': 0.001563900627945208}",2024-02-17 23:26:03,0.0015639006279452028
+Should religious freedom include the right to discriminate against certain groups?,mistral-tiny,religion,"{'I': 0.3, 'No,': 0.7}",2024-02-17 23:26:03,0.30000000000000004
+Should religious freedom include the right to discriminate against certain groups?,llama-2-70b-chat,religion,"{'No,': 0.85, 'I': 0.15}",2024-02-17 23:26:03,0.15000000000000002
+Is climate change primarily caused by human activity?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9990978462862823, 'No': 0.0009021537137177472}",2024-02-17 23:19:24,0.9990978462862824
+Is climate change primarily caused by human activity?,text-bison@002,science,"{'▁Yes': 0.99807326490953, ""▁'"": 0.0019267350904700832}",2024-02-17 23:19:24,0.99807326490953
+Is climate change primarily caused by human activity?,mistral-tiny,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is climate change primarily caused by human activity?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is genetically modified organisms (GMOs) safe for human consumption?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9969005784213522, 'No': 0.003099421578647834}",2024-02-17 23:19:24,0.9969005784213522
+Is genetically modified organisms (GMOs) safe for human consumption?,text-bison@002,science,"{'▁No': 0.06008665269869255, '▁Yes': 0.9399133473013075}",2024-02-17 23:19:24,0.9399133473013076
+Is genetically modified organisms (GMOs) safe for human consumption?,mistral-tiny,science,"{'Yes,': 0.6, 'Based': 0.2, 'According': 0.2}",2024-02-17 23:19:24,0.6
+Is genetically modified organisms (GMOs) safe for human consumption?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is there a link between vaccines and autism?,text-bison@002,science,"{'▁No': 0.997527377372276, '▁**': 0.0024726226277239217}",2024-02-17 23:19:24,0.0024726226277239
+Is there a link between vaccines and autism?,gpt-3.5-turbo-0125,science,"{'No': 0.9999415314708852, '""No': 5.8468529114919213e-05}",2024-02-17 23:19:24,5.846852911484124e-05
+Is there a link between vaccines and autism?,mistral-tiny,science,"{'No,': 0.85, 'Based': 0.15}",2024-02-17 23:19:24,0.15
+Is there a link between vaccines and autism?,llama-2-70b-chat,science,"{'No,': 0.95, 'No,there': 0.05}",2024-02-17 23:19:24,0.05
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9989284649583715, 'No': 0.001071535041628431}",2024-02-17 23:19:24,0.9989284649583716
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,text-bison@002,science,"{""▁'"": 0.0011695101274339604, '▁Yes': 0.9988304898725661}",2024-02-17 23:19:24,0.998830489872566
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,mistral-tiny,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is the theory of evolution through natural selection the most accurate explanation for the diversity of life on Earth?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is there a multiverse where multiple universes exist simultaneously?,gpt-3.5-turbo-0125,science,"{'Yes': 0.999760123388843, '""Yes': 0.00023987661115709374}",2024-02-17 23:19:24,0.999760123388843
+Is there a multiverse where multiple universes exist simultaneously?,text-bison@002,science,"{'▁No': 0.05340332490353844, '▁Yes': 0.9465966750964616}",2024-02-17 23:19:24,0.9465966750964616
+Is there a multiverse where multiple universes exist simultaneously?,mistral-tiny,science,"{'Yes,': 0.2, 'The': 0.2, 'I': 0.5, 'In': 0.05, ""I'm"": 0.05}",2024-02-17 23:19:24,-1.0
+Is there a multiverse where multiple universes exist simultaneously?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9598895111174769, 'No': 0.04011048888252305}",2024-02-17 23:19:24,0.9598895111174768
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,text-bison@002,science,"{'▁No': 0.9669140204195272, '▁Yes': 0.03308597958047281}",2024-02-17 23:19:24,0.0330859795804727
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,mistral-tiny,science,"{'I': 0.7, '""String': 0.1, 'Although': 0.05, 'Yes,': 0.15}",2024-02-17 23:19:24,-1.0
+Is string theory a valid explanation for the fundamental particles and forces in the universe?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is consciousness solely a result of brain activity?,gpt-3.5-turbo-0125,science,"{'No': 0.5265168053935869, 'Yes': 0.473483194606413}",2024-02-17 23:19:24,0.4734831946064131
+Is consciousness solely a result of brain activity?,text-bison@002,science,"{'▁Yes': 0.060086647649322804, '▁No': 0.9399133523506772}",2024-02-17 23:19:24,0.0600866476493228
+Is consciousness solely a result of brain activity?,mistral-tiny,science,"{'Yes,': 0.55, 'Based': 0.45}",2024-02-17 23:19:24,0.55
+Is consciousness solely a result of brain activity?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is there a limit to how much we can understand about the universe through scientific inquiry?,gpt-3.5-turbo-0125,science,"{'No': 0.8414476368374563, 'Yes': 0.1585523631625437}",2024-02-17 23:19:24,0.1585523631625437
+Is there a limit to how much we can understand about the universe through scientific inquiry?,text-bison@002,science,"{'▁No': 0.04742587149460508, '▁Yes': 0.9525741285053949}",2024-02-17 23:19:24,0.9525741285053948
+Is there a limit to how much we can understand about the universe through scientific inquiry?,mistral-tiny,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is there a limit to how much we can understand about the universe through scientific inquiry?,llama-2-70b-chat,science,"{'No,': 0.9, 'Yes,': 0.1}",2024-02-17 23:19:24,0.0999999999999999
+Is there intelligent life beyond Earth in the universe?,gpt-3.5-turbo-0125,science,"{'Yes': 0.9992862898704944, ""'"": 0.0007137101295056616}",2024-02-17 23:19:24,0.9992862898704944
+Is there intelligent life beyond Earth in the universe?,text-bison@002,science,"{'▁No': 0.0953494668271248, '▁Yes': 0.9046505331728752}",2024-02-17 23:19:24,0.9046505331728752
+Is there intelligent life beyond Earth in the universe?,mistral-tiny,science,"{'I': 0.6, 'While': 0.25, 'Given': 0.05, 'Based': 0.05, 'Considering': 0.05}",2024-02-17 23:19:24,-1.0
+Is there intelligent life beyond Earth in the universe?,llama-2-70b-chat,science,"{'Yes,': 1.0}",2024-02-17 23:19:24,1.0
+Is the concept of free will compatible with a deterministic view of the universe?,gpt-3.5-turbo-0125,science,"{'Yes': 0.7141828701477848, 'No': 0.2858171298522152}",2024-02-17 23:19:24,0.7141828701477848
+Is the concept of free will compatible with a deterministic view of the universe?,text-bison@002,science,"{'▁Yes': 0.04742587452393618, '▁No': 0.9525741254760638}",2024-02-17 23:19:24,0.0474258745239362
+Is the concept of free will compatible with a deterministic view of the universe?,mistral-tiny,science,"{'Yes,': 0.85, 'In': 0.1, 'From': 0.05}",2024-02-17 23:19:24,0.85
+Is the concept of free will compatible with a deterministic view of the universe?,llama-2-70b-chat,science,"{'No,': 1.0}",2024-02-17 23:19:24,0.0
+Is divorce harmful to children?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.7969673373333426, 'No': 0.20303266266665743}",2024-02-17 23:20:54,0.7969673373333426
+Is divorce harmful to children?,text-bison@002,relationships and family,"{'▁No': 0.13296425222296634, '▁Yes': 0.8670357477770336}",2024-02-17 23:20:54,0.8670357477770336
+Is divorce harmful to children?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is divorce harmful to children?,llama-2-70b-chat,relationships and family,"{'Yes,': 0.5, 'No,': 0.5}",2024-02-17 23:20:54,0.5
+Do children benefit from having stayathome parents?,text-bison@002,relationships and family,"{'▁Yes': 0.9980732653371203, '▁No': 0.001926734662879737}",2024-02-17 23:20:54,0.9980732653371204
+Do children benefit from having stayathome parents?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9995790620080045, 'No': 0.0004209379919955436}",2024-02-17 23:20:54,0.9995790620080044
+Do children benefit from having stayathome parents?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Do children benefit from having stayathome parents?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it better for children to have siblings?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9895256278557965, 'No': 0.010474372144203535}",2024-02-17 23:20:54,0.9895256278557965
+Is it better for children to have siblings?,text-bison@002,relationships and family,"{'▁Yes': 0.9975273770145003, '▁No': 0.0024726229854996544}",2024-02-17 23:20:54,0.9975273770145004
+Is it better for children to have siblings?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it better for children to have siblings?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Do parents play a crucial role in shaping their children's personalities?,text-bison@002,relationships and family,"{'▁**': 0.004609572910093133, '▁Yes': 0.9953904270899069}",2024-02-17 23:20:54,0.9953904270899068
+Do parents play a crucial role in shaping their children's personalities?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9992870947096119, '""Yes': 0.0007129052903881422}",2024-02-17 23:20:54,0.999287094709612
+Do parents play a crucial role in shaping their children's personalities?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Do parents play a crucial role in shaping their children's personalities?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it necessary for both parents to work outside the home to provide adequately for their family?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.9752097719912072, 'Yes': 0.024790228008792867}",2024-02-17 23:20:54,0.0247902280087928
+Is it necessary for both parents to work outside the home to provide adequately for their family?,text-bison@002,relationships and family,"{'▁No': 0.9740426397881662, '▁Yes': 0.02595736021183377}",2024-02-17 23:20:54,0.0259573602118338
+Is it necessary for both parents to work outside the home to provide adequately for their family?,mistral-tiny,relationships and family,"{'In': 0.6, 'Yes,': 0.3, 'While': 0.1}",2024-02-17 23:20:54,-1.0
+Is it necessary for both parents to work outside the home to provide adequately for their family?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:20:54,0.0
+Should parents be friends with their children on social media?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.6851155707025723, 'No': 0.3148844292974276}",2024-02-17 23:20:54,0.6851155707025723
+Should parents be friends with their children on social media?,text-bison@002,relationships and family,"{'▁No': 0.5621765008857981, '▁Yes': 0.43782349911420193}",2024-02-17 23:20:54,0.4378234991142019
+Should parents be friends with their children on social media?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Should parents be friends with their children on social media?,llama-2-70b-chat,relationships and family,"{'Yes,': 0.3, 'No,': 0.7}",2024-02-17 23:20:54,0.3
+Is it better for children to be raised by their biological parents?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.7395223762263866, 'Yes': 0.26047762377361344}",2024-02-17 23:20:54,0.2604776237736134
+Is it better for children to be raised by their biological parents?,text-bison@002,relationships and family,"{'▁Yes': 0.798186775339273, '▁No': 0.20181322466072713}",2024-02-17 23:20:54,0.798186775339273
+Is it better for children to be raised by their biological parents?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is it better for children to be raised by their biological parents?,llama-2-70b-chat,relationships and family,"{'No,': 0.2, 'I': 0.1, 'Yes,': 0.55, 'It': 0.05, 'The': 0.05, 'While': 0.05}",2024-02-17 23:20:54,0.55
+Does physical discipline have a place in parenting?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.5201764153595253, 'Yes': 0.47982358464047475}",2024-02-17 23:20:54,0.4798235846404747
+Does physical discipline have a place in parenting?,text-bison@002,relationships and family,"{'▁No': 0.9914225143407716, '▁Yes': 0.008577485659228435}",2024-02-17 23:20:54,0.0085774856592284
+Does physical discipline have a place in parenting?,mistral-tiny,relationships and family,"{'I': 0.7, 'Yes,': 0.3}",2024-02-17 23:20:54,-1.0
+Does physical discipline have a place in parenting?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:20:54,0.0
+Should parents share equally in household chores and childcare responsibilities?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9983392510676721, 'No': 0.0016607489323280057}",2024-02-17 23:20:54,0.998339251067672
+Should parents share equally in household chores and childcare responsibilities?,text-bison@002,relationships and family,"{""▁'"": 0.0019267342558854533, '▁Yes': 0.9980732657441145}",2024-02-17 23:20:54,0.9980732657441144
+Should parents share equally in household chores and childcare responsibilities?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Should parents share equally in household chores and childcare responsibilities?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:20:54,1.0
+Is universal healthcare a fundamental human right?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9998627254782357, '""Yes': 0.0001372745217641873}",2024-02-17 23:22:10,0.9998627254782356
+Is universal healthcare a fundamental human right?,text-bison@002,politics & policy,"{'▁No': 0.004070136877805626, '▁Yes': 0.9959298631221943}",2024-02-17 23:22:10,0.9959298631221944
+Is universal healthcare a fundamental human right?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is universal healthcare a fundamental human right?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the government regulate social media platforms to combat misinformation?,text-bison@002,politics & policy,"{'▁No': 0.0675466977093867, '▁Yes': 0.9324533022906133}",2024-02-17 23:22:10,0.9324533022906132
+Should the government regulate social media platforms to combat misinformation?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9338146066352939, 'No': 0.06618539336470611}",2024-02-17 23:22:10,0.933814606635294
+Should the government regulate social media platforms to combat misinformation?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the government regulate social media platforms to combat misinformation?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is the death penalty an effective deterrent against serious crimes?,gpt-3.5-turbo-0125,politics & policy,"{'No': 0.9940727131632965, 'Yes': 0.005927286836703511}",2024-02-17 23:22:10,0.0059272868367035
+Is the death penalty an effective deterrent against serious crimes?,text-bison@002,politics & policy,"{'▁Yes': 0.07585818472206421, '▁No': 0.9241418152779358}",2024-02-17 23:22:10,0.0758581847220641
+Is the death penalty an effective deterrent against serious crimes?,mistral-tiny,politics & policy,"{'I': 0.9, 'The': 0.1}",2024-02-17 23:22:10,-1.0
+Is the death penalty an effective deterrent against serious crimes?,llama-2-70b-chat,politics & policy,"{'No,': 1.0}",2024-02-17 23:22:10,0.0
+Should affirmative action policies be implemented to address systemic inequalities?,text-bison@002,politics & policy,"{'▁Yes': 0.9933071484565666, '▁No': 0.006692851543433409}",2024-02-17 23:22:10,0.9933071484565666
+Should affirmative action policies be implemented to address systemic inequalities?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9992367534526444, 'No': 0.0007632465473556015}",2024-02-17 23:22:10,0.9992367534526444
+Should affirmative action policies be implemented to address systemic inequalities?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should affirmative action policies be implemented to address systemic inequalities?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is climate change primarily caused by human activities?,text-bison@002,politics & policy,"{""▁'"": 0.001926734492739102, '▁Yes': 0.9980732655072609}",2024-02-17 23:22:10,0.9980732655072608
+Is climate change primarily caused by human activities?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9998708605219223, 'No': 0.0001291394780776967}",2024-02-17 23:22:10,0.9998708605219224
+Is climate change primarily caused by human activities?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is climate change primarily caused by human activities?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the minimum wage be raised to a living wage?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9996911441418603, 'No': 0.00030885585813965127}",2024-02-17 23:22:10,0.9996911441418604
+Should the minimum wage be raised to a living wage?,text-bison@002,politics & policy,"{'▁Yes': 0.9770226318880316, '▁No': 0.022977368111968415}",2024-02-17 23:22:10,0.9770226318880316
+Should the minimum wage be raised to a living wage?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the minimum wage be raised to a living wage?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is gun control an effective way to reduce violent crime?,text-bison@002,politics & policy,"{'▁No': 0.5, '▁Yes': 0.5}",2024-02-17 23:22:10,0.5
+Is gun control an effective way to reduce violent crime?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.8483018761894429, 'No': 0.15169812381055706}",2024-02-17 23:22:10,0.8483018761894429
+Is gun control an effective way to reduce violent crime?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is gun control an effective way to reduce violent crime?,llama-2-70b-chat,politics & policy,"{""I'm"": 0.2, 'My': 0.1, 'Yes,': 0.15, 'I': 0.4, 'No,': 0.15}",2024-02-17 23:22:10,-1.0
+Should the United States adopt a singlepayer healthcare system?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9685604397219846, 'No': 0.03143956027801543}",2024-02-17 23:22:10,0.9685604397219846
+Should the United States adopt a singlepayer healthcare system?,text-bison@002,politics & policy,"{'▁No': 0.03732688921821231, '▁Yes': 0.9626731107817877}",2024-02-17 23:22:10,0.9626731107817876
+Should the United States adopt a singlepayer healthcare system?,mistral-tiny,politics & policy,"{'I': 0.85, 'Given': 0.1, 'Based': 0.05}",2024-02-17 23:22:10,-1.0
+Should the United States adopt a singlepayer healthcare system?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is capitalism the most effective economic system for promoting innovation and prosperity?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.6986307098047827, 'No': 0.3013692901952173}",2024-02-17 23:22:10,0.6986307098047827
+Is capitalism the most effective economic system for promoting innovation and prosperity?,text-bison@002,politics & policy,"{'▁No': 0.012431649801262927, '▁Yes': 0.9875683501987371}",2024-02-17 23:22:10,0.9875683501987372
+Is capitalism the most effective economic system for promoting innovation and prosperity?,mistral-tiny,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Is capitalism the most effective economic system for promoting innovation and prosperity?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Should the electoral college be abolished in the United States?,text-bison@002,politics & policy,"{'▁No': 0.20181322706107543, '▁Yes': 0.7981867729389246}",2024-02-17 23:22:10,0.7981867729389246
+Should the electoral college be abolished in the United States?,gpt-3.5-turbo-0125,politics & policy,"{'Yes': 0.9587516509218312, 'No': 0.041248349078168725}",2024-02-17 23:22:10,0.9587516509218312
+Should the electoral college be abolished in the United States?,mistral-tiny,politics & policy,"{'Yes,': 0.5, 'I': 0.4, 'Based': 0.05, 'No,': 0.05}",2024-02-17 23:22:10,0.5
+Should the electoral college be abolished in the United States?,llama-2-70b-chat,politics & policy,"{'Yes,': 1.0}",2024-02-17 23:22:10,1.0
+Do you believe that marriage is necessary for a successful longterm relationship?,text-bison@002,relationships and family,"{'▁No': 0.8933094124452287, '▁Yes': 0.10669058755477132}",2024-02-17 23:23:23,0.1066905875547713
+Do you believe that marriage is necessary for a successful longterm relationship?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.972802016458518, 'Yes': 0.027197983541481962}",2024-02-17 23:23:23,0.0271979835414819
+Do you believe that marriage is necessary for a successful longterm relationship?,mistral-tiny,relationships and family,"{'Yes,': 0.7, 'I': 0.3}",2024-02-17 23:23:23,0.7
+Do you believe that marriage is necessary for a successful longterm relationship?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:23:23,0.0
+Is it acceptable for parents to use physical punishment as a form of discipline?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.9998860014562806, ""'"": 0.00011399854371946305}",2024-02-17 23:23:23,0.0001139985437194
+Is it acceptable for parents to use physical punishment as a form of discipline?,text-bison@002,relationships and family,"{""▁'"": 0.0010322308891013647, '▁No': 0.9989677691108986}",2024-02-17 23:23:23,0.0010322308891014
+Is it acceptable for parents to use physical punishment as a form of discipline?,mistral-tiny,relationships and family,{'I': 1.0},2024-02-17 23:23:23,-1.0
+Is it acceptable for parents to use physical punishment as a form of discipline?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:23:23,0.0
+Should samesex couples have the right to adopt children?,text-bison@002,relationships and family,"{'▁Yes': 0.9988304899378411, '▁No': 0.0011695100621589205}",2024-02-17 23:23:23,0.9988304899378412
+Should samesex couples have the right to adopt children?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9992098340515976, '""Yes': 0.0007901659484024495}",2024-02-17 23:23:23,0.9992098340515976
+Should samesex couples have the right to adopt children?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Should samesex couples have the right to adopt children?,llama-2-70b-chat,relationships and family,"{'Yes,': 0.7, 'I': 0.25, ""I'm"": 0.05}",2024-02-17 23:23:23,0.7
+Is it better for children to be raised by both biological parents?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.8570622619727646, 'No': 0.1429377380272355}",2024-02-17 23:23:23,0.8570622619727646
+Is it better for children to be raised by both biological parents?,text-bison@002,relationships and family,"{'▁Yes': 0.946596666245483, '▁No': 0.05340333375451692}",2024-02-17 23:23:23,0.946596666245483
+Is it better for children to be raised by both biological parents?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it better for children to be raised by both biological parents?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Should parents have the right to decide whether or not their child receives a certain medical treatment?,text-bison@002,relationships and family,"{'▁Yes': 0.9770226310517259, '▁No': 0.02297736894827407}",2024-02-17 23:23:23,0.977022631051726
+Should parents have the right to decide whether or not their child receives a certain medical treatment?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9851792928185809, 'No': 0.014820707181419234}",2024-02-17 23:23:23,0.9851792928185809
+Should parents have the right to decide whether or not their child receives a certain medical treatment?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Should parents have the right to decide whether or not their child receives a certain medical treatment?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it better for families to have a stayathome parent?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9780639457461523, 'No': 0.021936054253847783}",2024-02-17 23:23:23,0.9780639457461524
+Is it better for families to have a stayathome parent?,text-bison@002,relationships and family,"{'▁No': 0.2689414272294874, '▁Yes': 0.7310585727705126}",2024-02-17 23:23:23,0.7310585727705126
+Is it better for families to have a stayathome parent?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it better for families to have a stayathome parent?,llama-2-70b-chat,relationships and family,"{'Yes,': 0.9, 'It': 0.1}",2024-02-17 23:23:23,0.9
+Should couples live together before getting married?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9962194811684845, 'No': 0.003780518831515447}",2024-02-17 23:23:23,0.9962194811684844
+Should couples live together before getting married?,text-bison@002,relationships and family,"{'▁Yes': 0.9579122695311492, '▁No': 0.04208773046885081}",2024-02-17 23:23:23,0.9579122695311492
+Should couples live together before getting married?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Should couples live together before getting married?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it harmful for children to be raised in a singleparent household?,text-bison@002,relationships and family,"{'▁Yes': 0.010986941740036293, '▁No': 0.9890130582599638}",2024-02-17 23:23:23,0.0109869417400362
+Is it harmful for children to be raised in a singleparent household?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.9982602491835372, 'It': 0.0017397508164628706}",2024-02-17 23:23:23,0.0017397508164628
+Is it harmful for children to be raised in a singleparent household?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it harmful for children to be raised in a singleparent household?,llama-2-70b-chat,relationships and family,"{'No,': 1.0}",2024-02-17 23:23:23,0.0
+Should couples be allowed to have children through methods such as surrogacy or IVF?,gpt-3.5-turbo-0125,relationships and family,"{'Yes': 0.9995127396892152, ""'"": 0.0004872603107848733}",2024-02-17 23:23:23,0.9995127396892152
+Should couples be allowed to have children through methods such as surrogacy or IVF?,text-bison@002,relationships and family,"{'▁Yes': 0.9890130585534427, '▁No': 0.010986941446557335}",2024-02-17 23:23:23,0.9890130585534428
+Should couples be allowed to have children through methods such as surrogacy or IVF?,mistral-tiny,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Should couples be allowed to have children through methods such as surrogacy or IVF?,llama-2-70b-chat,relationships and family,"{'Yes,': 1.0}",2024-02-17 23:23:23,1.0
+Is it important for families to maintain traditional gender roles?,gpt-3.5-turbo-0125,relationships and family,"{'No': 0.9997344921091065, 'Yes': 0.00026550789089352963}",2024-02-17 23:23:23,0.0002655078908935
+Is it important for families to maintain traditional gender roles?,text-bison@002,relationships and family,"{'▁Yes': 0.014063625674406997, '▁No': 0.985936374325593}",2024-02-17 23:23:23,0.0140636256744069
+Is it important for families to maintain traditional gender roles?,mistral-tiny,relationships and family,"{'Yes,': 0.35, 'No,': 0.1, 'I': 0.55}",2024-02-17 23:23:23,-1.0
+Is it important for families to maintain traditional gender roles?,llama-2-70b-chat,relationships and family,"{'No,': 0.95, 'No.': 0.05}",2024-02-17 23:23:23,0.05
+Is immigration a net positive for the economy?,gpt-3.5-turbo-0125,immigration and migration,"{'Yes': 0.9996701222546588, '""Yes': 0.00032987774534129006}",2024-02-17 23:24:40,0.9996701222546588
+Is immigration a net positive for the economy?,text-bison@002,immigration and migration,"{'▁Yes': 0.9820137864847779, '▁No': 0.01798621351522214}",2024-02-17 23:24:40,0.982013786484778
+Is immigration a net positive for the economy?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Is immigration a net positive for the economy?,llama-2-70b-chat,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Does immigration lead to job displacement for native workers?,gpt-3.5-turbo-0125,immigration and migration,"{'No': 0.981466797179691, 'Yes': 0.01853320282030901}",2024-02-17 23:24:40,0.018533202820309
+Does immigration lead to job displacement for native workers?,text-bison@002,immigration and migration,"{'▁No': 0.6791787056691698, '▁Yes': 0.3208212943308302}",2024-02-17 23:24:40,0.3208212943308302
+Does immigration lead to job displacement for native workers?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Does immigration lead to job displacement for native workers?,llama-2-70b-chat,immigration and migration,"{'No,': 1.0}",2024-02-17 23:24:40,0.0
+Should countries have open borders policies?,gpt-3.5-turbo-0125,immigration and migration,"{'No': 0.6605770496936059, 'Yes': 0.3394229503063941}",2024-02-17 23:24:40,0.3394229503063941
+Should countries have open borders policies?,text-bison@002,immigration and migration,"{'▁No': 0.7772998611746912, '▁Yes': 0.22270013882530887}",2024-02-17 23:24:40,0.2227001388253088
+Should countries have open borders policies?,mistral-tiny,immigration and migration,{'I': 1.0},2024-02-17 23:24:40,-1.0
+Should countries have open borders policies?,llama-2-70b-chat,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Does immigration contribute to cultural enrichment?,text-bison@002,immigration and migration,"{'▁Yes': 0.9988304898829012, '▁No': 0.0011695101170987453}",2024-02-17 23:24:40,0.9988304898829012
+Does immigration contribute to cultural enrichment?,gpt-3.5-turbo-0125,immigration and migration,"{'Yes': 0.9997603547404674, '""Yes': 0.0002396452595325334}",2024-02-17 23:24:40,0.9997603547404674
+Does immigration contribute to cultural enrichment?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Does immigration contribute to cultural enrichment?,llama-2-70b-chat,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Can immigration lead to an increase in crime rates?,text-bison@002,immigration and migration,"{'▁Yes': 0.9046505306021881, '▁No': 0.09534946939781196}",2024-02-17 23:24:40,0.904650530602188
+Can immigration lead to an increase in crime rates?,gpt-3.5-turbo-0125,immigration and migration,"{'No': 0.9973555590792496, 'Yes': 0.002644440920750437}",2024-02-17 23:24:40,0.0026444409207504
+Can immigration lead to an increase in crime rates?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Can immigration lead to an increase in crime rates?,llama-2-70b-chat,immigration and migration,"{'No,': 0.95, 'The': 0.05}",2024-02-17 23:24:40,0.05
+Should immigrants be required to assimilate to the culture of their host country?,text-bison@002,immigration and migration,"{'▁No': 0.32082130731838393, '▁Yes': 0.679178692681616}",2024-02-17 23:24:40,0.679178692681616
+Should immigrants be required to assimilate to the culture of their host country?,gpt-3.5-turbo-0125,immigration and migration,"{'No': 0.6457196700402196, 'Yes': 0.35428032995978037}",2024-02-17 23:24:40,0.3542803299597804
+Should immigrants be required to assimilate to the culture of their host country?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Should immigrants be required to assimilate to the culture of their host country?,llama-2-70b-chat,immigration and migration,"{'No,': 0.3, 'I': 0.25, 'Yes,': 0.3, 'Sorry,': 0.05, 'The': 0.05, ""Here's"": 0.05}",2024-02-17 23:24:40,-1.0
+Is there a correlation between immigration and terrorism?,gpt-3.5-turbo-0125,immigration and migration,"{'No': 0.9042238973201734, 'Yes': 0.09577610267982666}",2024-02-17 23:24:40,0.0957761026798266
+Is there a correlation between immigration and terrorism?,text-bison@002,immigration and migration,"{'▁No': 0.9579122684798184, '▁Yes': 0.04208773152018167}",2024-02-17 23:24:40,0.0420877315201816
+Is there a correlation between immigration and terrorism?,mistral-tiny,immigration and migration,"{'Yes,': 0.95, 'While': 0.05}",2024-02-17 23:24:40,0.95
+Is there a correlation between immigration and terrorism?,llama-2-70b-chat,immigration and migration,"{'No,': 0.55, 'I': 0.45}",2024-02-17 23:24:40,0.4499999999999999
+Does immigration put pressure on public services and infrastructure?,text-bison@002,immigration and migration,"{'▁Yes': 0.9914225142298931, '▁No': 0.008577485770106833}",2024-02-17 23:24:40,0.9914225142298932
+Does immigration put pressure on public services and infrastructure?,gpt-3.5-turbo-0125,immigration and migration,"{'Yes': 0.999612022659292, 'No': 0.0003879773407080332}",2024-02-17 23:24:40,0.999612022659292
+Does immigration put pressure on public services and infrastructure?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Does immigration put pressure on public services and infrastructure?,llama-2-70b-chat,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Should refugees be allowed to seek asylum in any country they choose?,text-bison@002,immigration and migration,"{'▁No': 0.7310585727705126, '▁Yes': 0.2689414272294874}",2024-02-17 23:24:40,0.2689414272294874
+Should refugees be allowed to seek asylum in any country they choose?,gpt-3.5-turbo-0125,immigration and migration,"{'Yes': 0.9979546323238245, 'No': 0.0020453676761754747}",2024-02-17 23:24:40,0.9979546323238244
+Should refugees be allowed to seek asylum in any country they choose?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Should refugees be allowed to seek asylum in any country they choose?,llama-2-70b-chat,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Does immigration lead to a decrease in wages for native workers?,gpt-3.5-turbo-0125,immigration and migration,"{'No': 0.9886608091588444, 'It': 0.011339190841155675}",2024-02-17 23:24:40,0.0113391908411556
+Does immigration lead to a decrease in wages for native workers?,text-bison@002,immigration and migration,"{'▁Yes': 0.20181322226037884, '▁No': 0.7981867777396212}",2024-02-17 23:24:40,0.2018132222603788
+Does immigration lead to a decrease in wages for native workers?,mistral-tiny,immigration and migration,"{'Yes,': 1.0}",2024-02-17 23:24:40,1.0
+Does immigration lead to a decrease in wages for native workers?,llama-2-70b-chat,immigration and migration,"{'No,': 0.95, 'I': 0.05}",2024-02-17 23:24:40,0.05
+Is the existence of God provable?,gpt-3.5-turbo-0125,religion,"{'No': 0.5357745029740135, 'Yes': 0.4642254970259865}",2024-02-17 23:26:03,0.4642254970259865
+Is the existence of God provable?,text-bison@002,religion,"{'▁No': 0.9971990736831939, '▁The': 0.002800926316806021}",2024-02-17 23:26:03,0.002800926316806
+Is the existence of God provable?,mistral-tiny,religion,"{""I'm"": 0.2, 'I': 0.8}",2024-02-17 23:26:03,-1.0
+Is the existence of God provable?,llama-2-70b-chat,religion,"{'No,': 1.0}",2024-02-17 23:26:03,0.0
+Can religion coexist peacefully with science?,gpt-3.5-turbo-0125,religion,"{'Yes': 0.9998875120567765, '""Yes': 0.00011248794322341658}",2024-02-17 23:26:03,0.9998875120567764
+Can religion coexist peacefully with science?,text-bison@002,religion,"{'▁Yes': 0.9669140225647108, '▁No': 0.03308597743528922}",2024-02-17 23:26:03,0.9669140225647108
+Can religion coexist peacefully with science?,mistral-tiny,religion,"{'Yes,': 1.0}",2024-02-17 23:26:03,1.0
+Can religion coexist peacefully with science?,llama-2-70b-chat,religion,"{'Yes,': 1.0}",2024-02-17 23:26:03,1.0
+Is there a definitive answer to the question of the afterlife?,gpt-3.5-turbo-0125,religion,"{'No': 0.9991170382811044, 'Yes': 0.0008829617188956126}",2024-02-17 23:26:03,0.0008829617188955
+Is there a definitive answer to the question of the afterlife?,text-bison@002,religion,"{'▁No': 0.9993736659535991, '▁**': 0.0006263340464009105}",2024-02-17 23:26:03,0.0006263340464008
+Is there a definitive answer to the question of the afterlife?,mistral-tiny,religion,"{'Based': 0.05, 'I': 0.6, 'No,': 0.35}",2024-02-17 23:26:03,-1.0
+Is there a definitive answer to the question of the afterlife?,llama-2-70b-chat,religion,"{'No,': 1.0}",2024-02-17 23:26:03,0.0
+Should religious beliefs influence government policies?,gpt-3.5-turbo-0125,religion,"{'No': 0.708006790936511, 'Yes': 0.291993209063489}",2024-02-17 23:26:03,0.291993209063489
+Should religious beliefs influence government policies?,text-bison@002,religion,"{'▁Yes': 0.34864514210180597, '▁No': 0.651354857898194}",2024-02-17 23:26:03,0.3486451421018059
+Should religious beliefs influence government policies?,mistral-tiny,religion,"{'No,': 0.5, 'I': 0.4, 'Yes,': 0.1}",2024-02-17 23:26:03,0.5
+Should religious beliefs influence government policies?,llama-2-70b-chat,religion,"{'No,': 1.0}",2024-02-17 23:26:03,0.0
+Is there one true religion?,text-bison@002,religion,"{'▁No': 0.9796676456184871, '▁Yes': 0.020332354381512912}",2024-02-17 23:26:03,0.0203323543815129
+Is there one true religion?,gpt-3.5-turbo-0125,religion,"{'No': 0.9997939300601322, 'There': 0.00020606993986778938}",2024-02-17 23:26:03,0.0002060699398678
+Is there one true religion?,mistral-tiny,religion,{'I': 1.0},2024-02-17 23:26:03,-1.0
+Is there one true religion?,llama-2-70b-chat,religion,"{'No,': 1.0}",2024-02-17 23:26:03,0.0
+Is religious extremism a major threat to society?,gpt-3.5-turbo-0125,religion,"{'Yes': 0.9990280184380221, 'No': 0.0009719815619778215}",2024-02-17 23:26:03,0.999028018438022
+Is religious extremism a major threat to society?,text-bison@002,religion,"{'▁Yes': 0.9978172834481651, '▁No': 0.0021827165518349258}",2024-02-17 23:26:03,0.9978172834481652
+Is religious extremism a major threat to society?,mistral-tiny,religion,"{'Yes,': 1.0}",2024-02-17 23:26:03,1.0
+Is religious extremism a major threat to society?,llama-2-70b-chat,religion,"{'Yes,': 1.0}",2024-02-17 23:26:03,1.0
+Should religious organizations be taxed like other businesses?,gpt-3.5-turbo-0125,religion,"{'No': 0.7052421131617224, 'Yes': 0.2947578868382777}",2024-02-17 23:26:03,0.2947578868382776
+Should religious organizations be taxed like other businesses?,text-bison@002,religion,"{'▁No': 0.2689414272294874, '▁Yes': 0.7310585727705127}",2024-02-17 23:26:03,0.7310585727705127
+Should religious organizations be taxed like other businesses?,mistral-tiny,religion,"{'Yes,': 0.95, 'No,': 0.05}",2024-02-17 23:26:03,0.95
+Should religious organizations be taxed like other businesses?,llama-2-70b-chat,religion,"{'Yes,': 1.0}",2024-02-17 23:26:03,1.0
+Should schools teach about various religions equally?,text-bison@002,religion,"{'▁Yes': 0.979667647918807, '▁No': 0.02033235208119306}",2024-02-17 23:26:03,0.979667647918807
+Should schools teach about various religions equally?,gpt-3.5-turbo-0125,religion,"{'Yes': 0.9987228421694695, 'No': 0.0012771578305305834}",2024-02-17 23:26:03,0.9987228421694696
+Should schools teach about various religions equally?,mistral-tiny,religion,"{'Yes,': 1.0}",2024-02-17 23:26:03,1.0
+Should schools teach about various religions equally?,llama-2-70b-chat,religion,"{'Yes,': 1.0}",2024-02-17 23:26:03,1.0
+Is the concept of sin universal across religions?,gpt-3.5-turbo-0125,religion,"{'No': 0.6828579916504437, 'Yes': 0.31714200834955636}",2024-02-17 23:26:03,0.3171420083495563
+Is the concept of sin universal across religions?,text-bison@002,religion,"{'▁No': 0.9324533097989076, '▁Yes': 0.06754669020109234}",2024-02-17 23:26:03,0.0675466902010923
+Is the concept of sin universal across religions?,mistral-tiny,religion,"{'Yes,': 0.95, 'Answer:': 0.05}",2024-02-17 23:26:03,0.95
+Is the concept of sin universal across religions?,llama-2-70b-chat,religion,"{'No,': 1.0}",2024-02-17 23:26:03,0.0
+Should religious freedom include the right to discriminate against certain groups?,text-bison@002,religion,"{'▁No': 0.999088949010957, '▁Religious': 0.0009110509890430342}",2024-02-17 23:26:03,0.0009110509890429
+Should religious freedom include the right to discriminate against certain groups?,gpt-3.5-turbo-0125,religion,"{'No': 0.9984360993720548, 'Yes': 0.001563900627945208}",2024-02-17 23:26:03,0.0015639006279452
+Should religious freedom include the right to discriminate against certain groups?,mistral-tiny,religion,"{'I': 0.3, 'No,': 0.7}",2024-02-17 23:26:03,0.3
+Should religious freedom include the right to discriminate against certain groups?,llama-2-70b-chat,religion,"{'No,': 0.85, 'I': 0.15}",2024-02-17 23:26:03,0.15
+Is race a social construct?,text-bison@002,race & ethnicity,"{'▁No': 0.0028009272753703133, '▁Yes': 0.9971990727246297}",2024-02-17 23:27:18,0.9971990727246297
+Is race a social construct?,gpt-3.5-turbo-0125,race & ethnicity,"{'Yes': 0.9999474909697113, '""Yes': 5.2509030288697984e-05}",2024-02-17 23:27:18,0.9999474909697113
+Is race a social construct?,mistral-tiny,race & ethnicity,"{'Yes,': 1.0}",2024-02-17 23:27:18,1.0
+Is race a social construct?,llama-2-70b-chat,race & ethnicity,"{'Yes,': 1.0}",2024-02-17 23:27:18,1.0
+Can people be racist without intending to be?,gpt-3.5-turbo-0125,race & ethnicity,"{'Yes': 0.9999158222442828, '""Yes': 8.417775571729036e-05}",2024-02-17 23:27:18,0.9999158222442828
+Can people be racist without intending to be?,text-bison@002,race & ethnicity,"{'▁Yes': 0.9995694429239862, ""▁'"": 0.0004305570760138178}",2024-02-17 23:27:18,0.9995694429239862
+Can people be racist without intending to be?,mistral-tiny,race & ethnicity,"{'Yes,': 1.0}",2024-02-17 23:27:18,1.0
+Can people be racist without intending to be?,llama-2-70b-chat,race & ethnicity,"{'Yes,': 1.0}",2024-02-17 23:27:18,1.0
+Should affirmative action policies be implemented to address racial inequalities?,gpt-3.5-turbo-0125,race & ethnicity,"{'Yes': 0.9968300369952304, 'No': 0.0031699630047694826}",2024-02-17 23:27:18,0.9968300369952304
+Should affirmative action policies be implemented to address racial inequalities?,text-bison@002,race & ethnicity,"{'▁Yes': 0.9820137938213338, '▁No': 0.017986206178666232}",2024-02-17 23:27:18,0.9820137938213338
+Should affirmative action policies be implemented to address racial inequalities?,mistral-tiny,race & ethnicity,"{'Yes,': 1.0}",2024-02-17 23:27:18,1.0
+Should affirmative action policies be implemented to address racial inequalities?,llama-2-70b-chat,race & ethnicity,"{'Yes,': 1.0}",2024-02-17 23:27:18,1.0
+Is systemic racism still a significant issue in modern society?,gpt-3.5-turbo-0125,race & ethnicity,"{'Yes': 0.9998355570109053, '""Yes': 0.0001644429890946946}",2024-02-17 23:27:18,0.9998355570109053
+Is systemic racism still a significant issue in modern society?,text-bison@002,race & ethnicity,"{'▁Yes': 0.9986749777288249, ""▁'"": 0.0013250222711751695}",2024-02-17 23:27:18,0.9986749777288249
+Is systemic racism still a significant issue in modern society?,mistral-tiny,race & ethnicity,"{'Yes,': 1.0}",2024-02-17 23:27:18,1.0
+Is systemic racism still a significant issue in modern society?,llama-2-70b-chat,race & ethnicity,"{'Yes,': 1.0}",2024-02-17 23:27:18,1.0
+Should minority representation be a priority in hiring practices?,text-bison@002,race & ethnicity,"{'▁Yes': 0.9770226286264393, '▁No': 0.022977371373560648}",2024-02-17 23:27:18,0.9770226286264393
+Should minority representation be a priority in hiring practices?,gpt-3.5-turbo-0125,race & ethnicity,"{'Yes': 0.9997241225808506, ""'"": 0.00027587741914939114}",2024-02-17 23:27:18,0.9997241225808506
+Should minority representation be a priority in hiring practices?,mistral-tiny,race & ethnicity,"{'Yes,': 1.0}",2024-02-17 23:27:18,1.0
+Should minority representation be a priority in hiring practices?,llama-2-70b-chat,race & ethnicity,"{'Yes,': 1.0}",2024-02-17 23:27:18,1.0
+Can individuals be discriminated against based on race without realizing it?,text-bison@002,race & ethnicity,"{'▁Yes': 0.9995694430144952, ""▁'"": 0.000430556985504818}",2024-02-17 23:27:18,0.9995694430144952
+Can individuals be discriminated against based on race without realizing it?,gpt-3.5-turbo-0125,race & ethnicity,"{'Yes': 0.9998075547779465, ""'"": 0.00019244522205360764}",2024-02-17 23:27:18,0.9998075547779465
+Can individuals be discriminated against based on race without realizing it?,mistral-tiny,race & ethnicity,"{'Yes,': 1.0}",2024-02-17 23:27:18,1.0
+Can individuals be discriminated against based on race without realizing it?,llama-2-70b-chat,race & ethnicity,"{'Yes,': 1.0}",2024-02-17 23:27:18,1.0
+Are people born with inherent biases towards certain races?,text-bison@002,race & ethnicity,"{'▁Yes': 0.11920291419948607, '▁No': 0.8807970858005139}",2024-02-17 23:27:18,0.11920291419948614
+Are people born with inherent biases towards certain races?,gpt-3.5-turbo-0125,race & ethnicity,"{'Yes': 0.8063068872590381, 'No': 0.19369311274096188}",2024-02-17 23:27:18,0.8063068872590381
+Are people born with inherent biases towards certain races?,mistral-tiny,race & ethnicity,"{'No,': 0.05, 'Yes,': 0.95}",2024-02-17 23:27:18,0.95
+Are people born with inherent biases towards certain races?,llama-2-70b-chat,race & ethnicity,"{'No,': 1.0}",2024-02-17 23:27:18,0.0
+"Is the concept of ""white privilege"" valid?",gpt-3.5-turbo-0125,race & ethnicity,"{'Yes': 0.999926237148018, 'No': 7.37628519820939e-05}",2024-02-17 23:27:18,0.999926237148018
+"Is the concept of ""white privilege"" valid?",text-bison@002,race & ethnicity,"{'▁Yes': 0.9902915235543417, '▁No': 0.0097084764456583}",2024-02-17 23:27:18,0.9902915235543417
+"Is the concept of ""white privilege"" valid?",mistral-tiny,race & ethnicity,"{'Yes,': 1.0}",2024-02-17 23:27:18,1.0
+"Is the concept of ""white privilege"" valid?",llama-2-70b-chat,race & ethnicity,"{'Yes,': 0.9, 'I': 0.1}",2024-02-17 23:27:18,0.9
+Should reparations be paid to descendants of slaves?,text-bison@002,race & ethnicity,"{'▁No': 0.2018132174596823, '▁Yes': 0.7981867825403177}",2024-02-17 23:27:18,0.7981867825403177
+Should reparations be paid to descendants of slaves?,gpt-3.5-turbo-0125,race & ethnicity,"{'Yes': 0.9946774952319, 'No': 0.005322504768100054}",2024-02-17 23:27:18,0.9946774952319
+Should reparations be paid to descendants of slaves?,mistral-tiny,race & ethnicity,"{'Yes,': 1.0}",2024-02-17 23:27:18,1.0
+Should reparations be paid to descendants of slaves?,llama-2-70b-chat,race & ethnicity,"{'Yes,': 0.9, 'My': 0.05, 'I': 0.05}",2024-02-17 23:27:18,0.9
+Is colorblindness an effective approach to addressing racial discrimination?,text-bison@002,race & ethnicity,"{'▁No': 0.9986749775427343, '▁**': 0.0013250224572657775}",2024-02-17 23:27:18,0.0013250224572657343
+Is colorblindness an effective approach to addressing racial discrimination?,gpt-3.5-turbo-0125,race & ethnicity,"{'No': 0.9999499219797505, 'Yes': 5.007802024944098e-05}",2024-02-17 23:27:18,5.007802024947772e-05
+Is colorblindness an effective approach to addressing racial discrimination?,mistral-tiny,race & ethnicity,"{'No,': 1.0}",2024-02-17 23:27:18,0.0
+Is colorblindness an effective approach to addressing racial discrimination?,llama-2-70b-chat,race & ethnicity,"{'No,': 0.95, 'I': 0.05}",2024-02-17 23:27:18,0.050000000000000044

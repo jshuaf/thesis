@@ -1,0 +1,464 @@
+<div class="page-content">
+		
+<p>The following are the publicly available datasets from Pew Research Center’s nationally representative American Trends Panel. For more information on the panel, please see our&nbsp;<a href="https://www.pewresearch.org/methodology/u-s-survey-research/american-trends-panel/">American Trends Panel overview</a>.</p>
+
+
+
+<p>A codebook for demographic profile variables and general instructions for working with American Trends Panel data can be <a href="https://www.pewresearch.org/wp-content/uploads/2018/05/Codebook-and-instructions-for-working-with-ATP-data.pdf">downloaded here</a>.</p>
+
+
+
+<p>For questions or information about downloading our datasets, contact us at <a href="mailto:info@pewresearch.org">info@pewresearch.org</a>.</p>
+
+
+
+<p><a href="https://www.pewresearch.org/journalism/dataset/american-trends-panel-wave-1/"><strong>Wave 1</strong></a><br>Field dates: March 9, 2014 – April 29, 2014<br>Topics: Media consumption</p>
+
+
+
+<p><strong><span style="text-decoration: underline">Wave 2</span><br></strong>There is no Wave 2. Between Waves 1 and 3, a phone outreach was conducted with adults who had agreed to join but had not yet taken a panel survey.</p>
+
+
+
+<p><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-3/"><strong>Wave 3</strong></a><br>Field dates:&nbsp;April 29 – May 27, 2014<br>Topics: Personality politics</p>
+
+
+
+<p><a href="https://www.pewresearch.org/religion/dataset/american-trends-panel-wave-4/"><strong>Wave 4</strong></a><br>Field dates:<strong>&nbsp;</strong>May 30 – June 30, 2014<br>Topics:&nbsp;Religion and technology</p>
+
+
+
+<p><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-5/"><strong>Wave 5</strong></a><br>Field dates: July 7 – Aug. 4, 2014<br>Topics:&nbsp;Randomized survey mode experiment</p>
+
+
+
+<p><a href="https://www.pewresearch.org/religion/dataset/american-trends-panel-wave-6/"><strong>Wave 6</strong></a><br>Field dates: Aug. 11 – Sept. 3, 2014<br>Topics:&nbsp;Religion, science, knowledge</p>
+
+
+
+<p><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-7/"><strong>Wave 7</strong></a><br>Field dates: Sept. 9 – Oct. 3, 2014<br>Topics:&nbsp;2014 midterm pre-election<br><br><strong><a href="https://www.pewresearch.org/methods/dataset/american-trends-panel-wave-8/">Wave 8<br></a></strong>Field dates: Oct. 13 – Oct. 27, 2014<br>Topics: Smartphones</p>
+
+
+
+<p><a href="https://www.pewresearch.org/internet/dataset/american-trends-panel-wave-8-5/"><strong>Wave 8.5</strong></a><br>Field dates: Nov. 10 – Nov. 16, 2014<br>Topics:&nbsp;Experience sampling study on smartphone use in the U.S.</p>
+
+
+
+<p><a href="https://www.pewresearch.org/internet/dataset/american-trends-panel-wave-9/"><strong>Wave 9</strong></a><br>Field dates:<strong>&nbsp;</strong>Nov. 17 – Dec. 15, 2014<br>Topics:&nbsp;2014 midterm post-election, views of open data/open government</p>
+
+
+
+<p><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-10/"><strong>Wave 10</strong></a><br>Field dates:<strong>&nbsp;</strong>March 16 – April 6, 2015<br>Topics:&nbsp;Political knowledge, immigration<br><br><strong><a href="https://www.pewresearch.org/methods/dataset/american-trends-panel-wave-11/">Wave 11<br></a></strong>Field dates: Jun. 2 – Jun. 29, 2015<br>Topics: Politics, media, science<br><br><strong><a href="https://www.pewresearch.org/methods/dataset/american-trends-panel-wave-12/">Wave 12<br></a></strong>Field dates: Aug. 11 – Sept. 8, 2015<br>Topics: Vaccines/Genetically modified food</p>
+
+
+
+<p><a href="https://www.pewresearch.org/internet/dataset/american-trends-panel-wave-13"><strong>Wave 13</strong></a><br>Field dates:<strong>&nbsp;</strong>Nov. 24 – Dec. 21, 2015<br>Topics:&nbsp;Digital economy, U.S. political items</p>
+
+
+
+<p><a href="https://www.pewresearch.org/journalism/dataset/american-trends-panel-wave-14/"><strong>Wave 14</strong></a><br>Field dates:<strong>&nbsp;</strong>Jan. 12 – Feb. 8, 2016<br>Topics:&nbsp;Social media use, U.S. political items</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/journalism/dataset/american-trends-panel-wave-14-5/">Wave 14.5<br></a></strong>Field dates: Feb. 24 – March 1, 2016<br>Topics:&nbsp;Experience sampling study on media news consumption</p>
+
+
+
+<p><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-15/"><strong>Wave 15</strong></a><br>Field dates: March 1 – March 28, 2016<br>Topics:&nbsp;Human enhancement, political antipathy, U.S. political items</p>
+
+
+
+<p><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-16/"><strong>Wave 16</strong></a><br>Field dates:<strong>&nbsp;</strong>April 5 – May 2, 2016<br>Topics:&nbsp;Human enhancement, political antipathy, U.S. political items, grandparents</p>
+
+
+
+<p><a href="https://www.pewresearch.org/internet/dataset/american-trends-panel-wave-17/"><strong>Wave 17</strong></a><br>Field dates:<strong>&nbsp;</strong>May 10 – June, 6, 2016<br>Topics:&nbsp; Science in everyday life, U.S. political items</p>
+
+
+
+<p><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-18/"><strong>Wave 18</strong></a><br>Field dates:<strong>&nbsp;</strong>June 7 – July 5, 2016<br>Topics:&nbsp;Politics pre-election, U.S. political items, journalism, religion items</p>
+
+
+
+<p><a href="https://www.pewresearch.org/internet/dataset/american-trends-panel-wave-19/"><strong>Wave 19</strong></a><br>Field dates:<strong>&nbsp;</strong>July 7 – Aug. 8, 2016<br>Topics:&nbsp;Social media politics, U.S. political items</p>
+
+
+
+<p><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-20/"><strong>Wave 20</strong></a><br>Field dates:<strong>&nbsp;</strong>Aug 22 – Sept. 12, 2016<br>Topics:&nbsp;Religious freedom, Evangelical identification, police, politics post convention</p>
+
+
+
+<p><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-21/"><strong>Wave 21</strong></a><br>Field dates:<strong>&nbsp;</strong>Sept. 27 – Oct. 10, 2016<br>Topics: U.S. political items, 2016 election (post-debate #1)</p>
+
+
+
+<p><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-22/"><strong>Wave 22</strong></a><br>Field dates:<strong>&nbsp;</strong>Oct. 25 – Nov. 8, 2016<br>Topics:&nbsp;Pre-2016 election political poll</p>
+
+
+
+<p><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-23/"><strong>Wave 23</strong></a><br>Field dates:<strong>&nbsp;</strong>Nov. 29 – Dec. 12, 2016<br>Topics:&nbsp;Post-2016 election political poll</p>
+
+
+
+<p><a href="https://www.pewresearch.org/religion/dataset/american-trends-panel-wave-24/"><strong>Wave 24</strong></a><br>Field dates:<strong>&nbsp;</strong>Jan. 9 – Jan. 23, 2017<br>Topics:&nbsp;Cyber harassment, religion “feeling” thermometers</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-24-5/">Wave 24.5</a></strong><br>Field dates: Feb. 28 – March 12, 2017<br>Topics: Randomized survey mode experiment</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/social-trends/dataset/american-trends-panel-wave-25/">Wave 25</a></strong><br>Field dates: March 13 – March 27, 2017<br>Topics: Guns, online harassment, news and social media attitudes, election forecasts</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/social-trends/dataset/american-trends-panel-wave-26/">Wave 26<br></a></strong>Field dates:&nbsp;April 4 – April 18, 2017<br>Topics: Guns</p>
+
+
+
+<p><a href="https://www.pewresearch.org/internet/dataset/american-trends-panel-wave-27/"><strong>Wave 27</strong></a><br>Field dates: May 1 – May 15, 2017<br>Topics: Automation and driverless vehicles</p>
+
+
+
+<p><a href="https://www.pewresearch.org/methods/dataset/american-trends-panel-wave-28/"><strong>Wave 28</strong></a><br>Field dates: Aug. 8 – Aug. 21, 2017<br>Topics: Views on gender, news consumption habits, social media attitudes, political party affiliation</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/methods/dataset/american-trends-panel-wave-29/">Wave 29</a><br></strong>Field dates: Sept. 14 – Sept. 28, 2017<br>Topics: Views on gender</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/religion/dataset/american-trends-panel-wave-30/">Wave 30</a></strong><br>Field dates: Dec. 4 – Dec. 18, 2017<br>Topics: Religious Typology</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-31/">Wave 31</a></strong><br>Field dates: Jan. 29 – Feb. 13, 2018<br>Topics: Democracy</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/social-trends/dataset/american-trends-panel-wave-32/">Wave 32</a><br></strong>Field dates: Feb. 26 – March 11, 2018<br>Topics: Community types, Sexual harassment</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/science/dataset/american-trends-panel-wave-33/">Wave 33</a></strong><br>Field dates: March 27 – April 9, 2018<br>Topics: Climate change, space tourism, school shootings</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/science/dataset/american-trends-panel-wave-34/">Wave 34</a></strong><br>Field dates: April 26 – May 6, 2018<br>Topics: Biomedical and food issues</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/internet/dataset/american-trends-panel-wave-35/">Wave 35</a></strong><br>Field dates: May 29 – July 11, 2018<br>Topics: Algorithms and tech companies</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/social-trends/dataset/american-trends-panel-wave-36/">Wave 36</a></strong><br>Field dates: June 19 – July 2, 2018<br>Topics: Gender and leadership</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-37/">Wave 37</a></strong><br>Field dates: July 30 to Aug. 12, 2018<br>Topics: Midterm engagement, partisan agreement on facts, party ideology, social media news use and bots, and a forced choice vs. select all experiment</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-38/">Wave 38</a><br></strong>Field dates: Sept. 24 – Oct. 7, 2018<br>Topics: Pre-election poll, generations research</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-39/">Wave 39</a></strong><br>Field dates: Nov. 7 – Nov. 16, 2018<br>Topic: Post-election poll</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-40/">Wave 40</a><br></strong>Field dates: Nov. 27 – Dec. 10, 2018<br>Topics: Trust, facts, and democracy</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/social-trends/dataset/american-trends-panel-wave-41/">Wave 41</a></strong><br>Field dates: Dec. 10 – Dec. 23, 2018<br>Topics: Views of America in 2050</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/science/dataset/american-trends-panel-wave-42/">Wave 42</a></strong><br>Field dates: Jan. 7 – Jan. 21, 2019<br>Topic: Trust in science</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/social-trends/dataset/american-trends-panel-wave-43/">Wave 43</a></strong><br>Field dates: Jan. 22 – Feb. 5, 2019<br>Topic: Race in America</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/religion/dataset/american-trends-panel-wave-44/">Wave 44</a></strong><br>Field dates: Feb. 4 – Feb. 19, 2019<br>Topic: Religious knowledge</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/journalism/dataset/american-trends-panel-wave-45/">Wave 45</a></strong><br>Field dates: Feb. 19 – March 4, 2019<br>Topic: Misinformation</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/religion/dataset/american-trends-panel-wave-46/">Wave 46</a></strong><br>Field dates: March 18 – April 1, 2019<br>Topic: Religious trust</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-47/">Wave 47</a></strong><br>Field dates: April 1 – April 15, 2019<br>Topic: Benchmark study</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-48/">Wave 48</a></strong><br>Field dates: April 29 – May 13, 2019<br>Topic: Political discourse</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/social-trends/dataset/american-trends-panel-wave-48-5/">Wave 48.5</a></strong><br>Field dates: May 14 – June 3, 2019<br>Topic: Veterans</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/internet/dataset/american-trends-panel-wave-49/">Wave 49</a></strong><br>Field dates:&nbsp;June 3 – June 17, 2019<br>Topic: Privacy and surveillance</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/social-trends/dataset/american-trends-panel-wave-50/">Wave 50</a></strong><br>Field dates: June 25 – July 8, 2019<br>Topic: American families</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/journalism/dataset/american-trends-panel-wave-51/">Wave 51</a></strong><br>Field dates: July 8 – July 21, 2019<br>Topic: Social media</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-52/">Wave 52</a></strong><br>Field dates:&nbsp;July 22 – Aug. 4, 2019<br>Topic: U.S. politics</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-53/">Wave 53</a></strong><br>Field dates: Sept. 3 – Sept. 15, 2019<br>Topic: U.S. political parties</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/social-trends/dataset/american-trends-panel-wave-54/">Wave 54</a></strong><br>Field dates: Sept. 16 – Sept. 29, 2019<br>Topic: Economic inequality</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/science/dataset/american-trends-panel-wave-55/">Wave 55</a></strong><br>Field dates: Oct. 1 – Oct. 13, 2019<br>Topic: Climate and energy</p>
+
+
+
+<p><a href="https://www.pewresearch.org/social-trends/dataset/american-trends-panel-wave-56/"><strong>Wave 56</strong></a><br>Field dates: Oct. 16 – Oct. 28, 2019<br>Topic: Online dating</p>
+
+
+
+<p><a href="https://www.pewresearch.org/journalism/dataset/american-trends-panel-wave-57/"><strong>Wave 57</strong></a><br>Field dates: Oct. 29 – Nov. 11, 2019<br>Topic: American News Pathways</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/hispanic/dataset/american-trends-panel-wave-58/">Wave 58</a></strong><br>Field dates: Dec. 3 – Dec. 23, 2019<br>Topic: 2019 National Survey of Latinos</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-59/">Wave 59</a></strong><br>Field dates: Jan. 6 – Jan. 20, 2020<br>Topic: Pre-primary news and YouTube news</p>
+
+
+
+<p><a href="https://www.pewresearch.org/religion/dataset/faith-among-black-americans/"><strong>Wave 60</strong></a><br>Field dates: Jan. 21 – Feb. 3, 2020<a href="https://www.pewresearch.org/religion/dataset/faith-among-black-americans/"><br></a>Topic: Faith among Black Americans</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/religion/dataset/american-trends-panel-wave-61/">Wave 61</a><br></strong>Field dates: Feb 4. – Feb. 15, 2020<br>Topic: Religion and public life</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/journalism/dataset/american-trends-panel-wave-62/">Wave 62</a></strong><br>Field dates: Feb. 18 – March 2, 2020<br>Topic: American News Pathways and Media Trust</p>
+
+
+
+<p><a href="https://www.pewresearch.org/internet/dataset/american-trends-panel-wave-63/"><strong>Wave 63</strong></a><br>Field dates: March 2 – March 15, 2020<br>Topic: Kids and screens</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-63-5/">Wave 63.5</a></strong><br>Field dates: March 10 – March 16, 2020<br>Topic: Coronavirus</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-64/">Wave 64</a></strong><br>Field dates: March 19 – March 24, 2020<br>Topic: Coronavirus</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-65/">Wave 65</a></strong><br>Field dates: April 7 – April 12, 2020<br>Topics: Current events, coronavirus</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/journalism/dataset/american-trends-panel-wave-66/">Wave 66</a></strong><br>Field dates: April 20 – April 26, 2020<br>Topics: American News Pathways, coronavirus</p>
+
+
+
+<p><a href="https://www.pewresearch.org/science/dataset/american-trends-panel-wave-67/"><strong>Wave 67</strong></a><br>Field dates: April 29 – May 5, 2020<br>Topics: Climate, coronavirus</p>
+
+
+
+<p><a href="https://www.pewresearch.org/social-trends/dataset/american-trends-panel-wave-68/"><strong>Wave 68</strong></a><strong><br></strong>Field dates: June 4 – June 10, 2020<br>Topics: American News Pathways, George Floyd, Black Lives Matter, coronavirus</p>
+
+
+
+<p><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-69/"><strong>Wave 69<br></strong></a>Field dates: June 16 – June 22, 2020<br>Topics: Coronavirus tracking, politics, 2020 Census</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/religion/dataset/american-trends-panel-wave-70/">Wave 70<br></a></strong>Field dates: July 13 – July 20, 2020<br>Topics: Religion in public life, social media’s role in politics and society, COVID-19 contact tracing</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-71/">Wave 71<br></a></strong>Field dates: July 27 – Aug. 2, 2020<br>Topics: Voter attitudes, COVID-19</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/journalism/dataset/american-trends-panel-wave-72/">Wave 72<br></a></strong>Field dates: Aug. 3 – Aug. 16, 2020<br>COVID-19, news media</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/journalism/dataset/american-trends-panel-wave-73/">Wave 73<br></a></strong>Field dates: Aug. 21 – Sept. 7, 2020<br>Topics: American News Pathways, social media, COVID-19</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/science/dataset/american-trends-panel-wave-74/">Wave 74<br></a></strong>Field dates: Sept. 8 – Sept. 13, 2020<br>Topics: Online harassment, race relations, COVID-19</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-75/">Wave 75<br></a></strong>Field dates: Sept. 30 – Oct. 5, 2020<br>Topics: 2020 pre-election survey, COVID-19<br><br><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-76/">Wave 76<br></a></strong>Field dates: Oct. 6 – Oct. 12, 2020<br>Topics: American News Pathways, COVID-19</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/social-trends/dataset/american-trends-panel-wave-77/">Wave 77<br></a></strong>Field dates: Oct. 13 – Oct. 19, 2020<br>Topics: Culture of work, COVID-19</p>
+
+
+
+<p><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-78/"><strong>Wave 78</strong><br></a>Field dates: Nov. 12 – Nov. 17, 2020<br>Topics: 2020 post-election survey, COVID-19</p>
+
+
+
+<p><a href="https://www.pewresearch.org/science/dataset/american-trends-panel-wave-79/"><strong>Wave 79</strong></a><br>Field dates: Nov. 18 – Nov 29, 2020<br>Topics: American News Pathways, coronavirus vaccines and relocation</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-80/">Wave 80</a></strong><br>Field dates: Jan. 8 – Jan. 12, 2021<br>Topic: Political priorities</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/social-trends/dataset/american-trends-panel-wave-81/">Wave 81<br></a></strong>Field dates: Jan. 19 – Jan 24, 2021<br>Topics: Economics, pandemic financial outlook</p>
+
+
+
+<p><a href="https://www.pewresearch.org/global/dataset/american-trends-panel-wave-82/"><strong>Wave 82<br></strong></a>Field dates: Feb. 2 – Feb. 7, 2021<br>Topic: 2021 Global Attitudes Project U.S. survey</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/science/dataset/american-trends-panel-wave-83/">Wave 83<br></a></strong>Field dates: Feb. 16 – Feb 21, 2021<br>Topics: Coronavirus vaccines and restrictions</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-84/">Wave 84<br></a></strong>Field dates: March 1 – March 7, 2021<br>Topics: Religion in politics and tolerance</p>
+
+
+
+<p><a href="https://www.pewresearch.org/journalism/dataset/american-trends-panel-wave-85/"><strong>Wave 85</strong><br></a>Field dates: March 8 – March 14, 2021<br>Topic: News coverage of the Biden administration’s first 100 days</p>
+
+
+
+<p><a href="https://www.pewresearch.org/race-ethnicity/dataset/american-trends-panel-wave-86/"><strong>Wave</strong> <strong>86</strong></a><br>Field dates: March 15 – March 28, 2021<br>Topic: 2021 National Survey of Latinos (NSL)</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-87/">Wave 87</a></strong><br>Field dates: April 5 – April 11, 2021<br>Topic: Current political news and topics</p>
+
+
+
+<p><a href="https://www.pewresearch.org/internet/dataset/american-trends-panel-wave-88/"><strong>Wave 88</strong></a><br>Field dates: April 12 – April 18, 2021<br>Topics: Tech companies and policy issues</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/science/dataset/american-trends-panel-wave-89/">Wave 89</a></strong><br>Field dates: April 20 – April 29, 2021<br>Topics: Environmental concern and activism</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/journalism/dataset/american-trends-panel-wave-90/">Wave 90</a></strong><br>Field dates: May 17 – May 31, 2021<br>Topics: Twitter news attitudes</p>
+
+
+
+<p><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-91/"><strong>Wave 91<br></strong></a>Field dates: July 8 – July 18, 2021<br>Topics: Benchmark study</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-92/">Wave 92</a></strong><br>Field dates: July 8 – July 18, 2021<br>Topics: Political typology</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-93/">Wave 93</a></strong><br>Field dates: July 26 – August 8, 2021<br>Topics: Social media update</p>
+
+
+
+<p><a href="https://www.pewresearch.org/dataset/american-trends-panel-wave-94/"><strong>Wave 94<br></strong></a>Field dates: Aug. 23 – Aug. 29, 2021<br>Topics: Coronavirus impacts, Sharing-gig economy</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/dataset/american-trends-panel-wave-95/">Wave 95<br></a></strong>Field dates: Sept. 13 – Sept. 19, 2021 <br>Topics: Politics timely and topical</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/dataset/american-trends-panel-wave-96/">Wave 96<br></a></strong>Field dates: Sept. 20 – Sept. 26, 2021<br>Topics: Post-coronavirus pandemic spirituality</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/race-ethnicity/dataset/american-trends-panel-wave-97/">Wave 97<br></a></strong>Field dates: Oct. 4 – Oct. 17, 2021<br>Topics: 2021 Survey of Black Americans<br><br><strong><a href="https://www.pewresearch.org/methods/dataset/american-trends-panel-wave-98/">Wave 98<br></a></strong>Field dates: Oct. 18 – Oct. 24, 2021<br>Topics: Coronavirus impacts on communities, living arrangements and life decisions<br><br><strong><a href="https://www.pewresearch.org/internet/dataset/american-trends-panel-wave-99/">Wave 99<br></a></strong>Field dates: Nov. 1 – Nov. 7, 2021<br>Topics: Artificial intelligence (AI) and human enhancement<br><br><strong><a href="https://www.pewresearch.org/science/dataset/american-trends-panel-wave-100/">Wave 100<br></a></strong>Field dates: Nov. 30 – Dec. 12, 2021<br>Topics: Black &amp; Hispanic perspectives on science and society<br><br><strong><a href="https://www.pewresearch.org/methods/dataset/american-trends-panel-wave-101/">Wave 101<br></a></strong>Field dates: Jan. 10 – Jan. 17, 2022<br>Topics: Political priorities<br><br><strong><a href="https://www.pewresearch.org/science/dataset/american-trends-panel-wave-102/">Wave 102<br></a></strong>Field dates: Jan. 24 – Jan. 30, 2022<br>Topics: Climate, COVID and culture of work</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/social-trends/dataset/american-trends-panel-wave-103/">Wave 103<br></a></strong>Field dates: Feb. 7 – Feb. 13, 2022<br>Topics: Economic well-being</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-104/">Wave 104<br></a></strong>Field dates: Mar. 7 – Mar. 13, 2022<br>Topics: Politics, Religion in Public Life</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/global/dataset/american-trends-panel-wave-105/">Wave 105<br></a></strong>Field dates: Mar. 21 – Mar. 27, 2022<br>Topics: Global Attitudes US Survey 2022</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/religion/dataset/american-trends-panel-wave-106/">Wave 106<br></a></strong>Field dates: Apr. 11 – 17, 2022<br>Topics: Religion and the environment</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-107/">Wave 107<br></a></strong>Field dates: Apr. 25 – May 1, 2022<br>Topics: Government and Parties</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/science/dataset/american-trends-panel-wave-108/">Wave 108<br></a></strong>Field dates: May 2 – May 8, 2022<br>Topics: COVID and Climate, Energy and the Environment</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/social-trends/dataset/american-trends-panel-wave-109/">Wave 109<br></a></strong>Field dates: May 16 – May 22, 2022<br>Topics: New Digital Platforms and Gender Identity</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-110/">Wave 110<br></a></strong>Field dates: June 27 – July 4, 2022<br>Topics: Politics timely and topical</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/internet/dataset/american-trends-panel-wave-111/">Wave 111<br></a></strong>Field dates: July 5 – July 17, 2022<br>Topics: Online dating and E-commerce</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/internet/dataset/american-trends-panel-wave-112/">Wave 112<br></a></strong>Field dates: July 18 – Aug. 21, 2022<br>Topics: Social media update</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/race-ethnicity/dataset/american-trends-panel-wave-113/">Wave 113<br></a></strong>Field dates: Aug. 1,– Aug. 14, 2022<br>Topics: 2022 National Survey of Latinos (NSL)</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/science/dataset/american-trends-panel-wave-114/">Wave 114<br></a></strong>Field dates: Sept. 13 – Sept. 18, 2022<br>Topics: Covid, scientists, and religion</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/social-trends/dataset/american-trends-panel-wave-115/">Wave 115<br></a></strong>Field dates:  Sept. 20 – Oct. 2, 2022<br>Topics: Parents survey</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-116/">Wave 116<br></a></strong>Field dates: Oct. 10 – Oct. 16, 2022<br>Topics: Politics timely and topical</p>
+
+
+
+<p><strong><a href="https://www.pewresearch.org/religion/dataset/american-trends-panel-wave-117/">Wave 117<br></a></strong>Field dates: Nov. 16 – Nov. 27, 2022<br>Topics: Religion and politics</p>
+	</div>

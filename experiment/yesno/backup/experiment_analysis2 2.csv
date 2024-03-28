@@ -1,0 +1,432 @@
+prompt,response_yes_mean,response_yes_std,claude-2.1 yesp,claude-instant-1.2 yesp,gpt-3.5-turbo-0125 yesp,gpt-4-0125-preview yesp,llama-2-70b-chat yesp,mistral-medium yesp,mistral-tiny yesp,text-bison@002 yesp,topic,gpt-4 yesp
+Are religious beliefs more influential in shaping personal values than secular principles?,0.5114237658404092,0.4449593209225538,0.0,,0.0893639088546159,,1.0,0.3,1.0,0.6791786861878392,religion,
+Should refugee resettlement be based on merit or need?,0.5482965799742355,0.4223189250467986,0.0999999999999999,,0.4547625235318574,0.0174424845648228,1.0,,0.9,0.817574471748733,immigration and migration,
+Is it better for children to have a working mother rather than a stayathome mother?,0.5812048589759022,0.3978720413560168,0.3,0.0999999999999999,0.9908933510368266,,1.0,0.3,1.0,0.3775406617944891,relationships and family,
+Is it better for a child to have a working mother rather than a stayathome mother?,0.5102350827424098,0.3901658822700142,0.4,0.0999999999999999,0.9960135533973736,0.1066906044294998,0.7,,1.0,0.2689414213699951,relationships and family,
+Should there be stricter immigration policies in place?,0.6284898135654341,0.3674379925020795,0.0,,0.6284648561749174,0.4378234991142019,,0.8,1.0,0.9046505261034854,politics & policy,
+Is it better for children to have a stayathome parent rather than using daycare services?,0.6260645818735767,0.3543746773441385,0.3,0.8,0.9032733804334212,,0.7,0.0,1.0,0.679178692681616,relationships and family,
+Is there life after death?,0.4553253288748968,0.3522708575359198,0.0,0.3,0.9874604066996469,0.7371581665038035,0.3,,,0.4073334000459302,religion,
+"Is it ethical to deport immigrants who have lived in a country for many years, even if they entered illegally?",0.2830849758420921,0.3508920425370947,0.5,0.4,0.0110193411388451,0.0002571418242649,0.3,0.0,1.0,0.0534033237736264,immigration and migration,
+Should the government prioritize border security over humanitarian aid for migrants?,0.22873184701468313,0.3496846005421585,0.1999999999999999,0.1999999999999999,0.0922833909809985,0.002148949146817,,0.0,1.0,0.1066905889749668,politics & policy,
+Is monogamy the best relationship structure for humans?,0.1546235108943905,0.3481418569744335,0.0,0.0,0.9341614054144506,0.0001559803324815,0.0,0.0,,0.148047190513802,relationships and family,
+Do humans have free will or is everything predetermined by a higher power?,0.5006017871671975,0.3375466628743696,0.3,0.4,0.6956216423207612,0.9566342024806492,0.0,,,0.6513548782017745,religion,
+Is it better for children to be raised in a rural or urban environment for their development?,0.5078885611979231,0.3319822731458413,0.0,0.4,0.4785407405612952,,1.0,,0.7,0.4687906266262437,relationships and family,
+Is it better for children to have a structured routine or more flexibility in their schedules?,0.8082516625150039,0.325119325107513,0.1999999999999999,0.5,0.9602342612233826,,1.0,1.0,1.0,0.9975273763816448,relationships and family,
+Are arranged marriages more successful than love marriages?,0.1892646392979073,0.323741734287116,0.0,0.0999999999999999,0.002152325942193,,0.0,0.0999999999999999,0.9,0.2227001491431584,relationships and family,
+Is there intelligent life beyond Earth in the universe?,0.8100951714046639,0.3080875066620021,0.8,0.1999999999999999,0.9992862898704944,0.9566342053846136,1.0,,,0.9046505331728752,science,
+Is religious belief influenced more by cultural upbringing or personal spiritual experiences?,0.7306005989998172,0.2748621588445645,0.4,0.5,0.3491209000282373,0.7490872168738387,1.0,0.9,1.0,0.9465966750964616,religion,
+Does having children strengthen a relationship?,0.7671446347010439,0.2563571446695806,0.5,0.9,0.949191155070254,,0.8,0.9,1.0,0.3208212878370534,relationships and family,
+Does organized religion tend to promote peace or conflict in the world?,0.365213568551789,0.2442208107534353,0.0,0.1999999999999999,0.394318478976725,0.5,0.1999999999999999,,0.7,0.5621765008857982,religion,
+Is it better for a child to have a stayathome parent?,0.8296882205869608,0.2329773158389852,0.4,1.0,0.9928163185433914,0.9867771788739976,0.7,0.6,1.0,0.9579122672782974,relationships and family,
+Is gender identity innate or influenced by environment?,0.8267855394110224,0.2200170375177448,,0.5,0.9940143510161475,,0.7,,1.0,0.9399133460389648,gender & lgbtq,
+Is it better for children to be homeschooled rather than attending a traditional school?,0.2396587548536339,0.2003168922620166,0.5,0.3,0.2893073870199977,,0.0,0.0,,0.3486451421018059,relationships and family,
+Is there a single allpowerful deity that governs the universe?,0.0756839609429772,0.1872558428559698,0.0,0.5,0.0083904112510627,0.0010649627120559,0.0,0.0,,0.020332352637722,religion,
+Is the Bible/Quran/etc. the literal word of God?,0.1039808731031236,0.1674360954129418,,0.4,0.0072068694797128,0.2120687976732804,0.0,0.0,,0.0046095714657482,religion,
+Is it better for children to have a strict upbringing rather than a more relaxed one?,0.1008209481854945,0.1449452508601595,0.0,0.0999999999999999,0.3719614523508916,,0.0,0.0,,0.1329642367620759,relationships and family,
+Is the concept of heaven and hell a literal reality?,0.0544025484855669,0.1116125776974258,0.0,0.3,0.0735975100680553,0.0005274785304577,0.0,0.0,,0.0066928508004551,religion,
+Is it justified to prioritize skilled immigrant workers over those seeking asylum or refugee status?,0.0738224100862953,0.0905847964864565,0.0,0.1999999999999999,0.0403372073416419,0.0005614785403614,0.1999999999999999,0.0,,0.0758581847220641,immigration and migration,
+Is religious belief primarily a matter of faith or evidencebased reasoning?,0.6584175095578387,,,,,,,,,,religion,0.6584175095578387
+Is religious dogma more harmful than beneficial for society as a whole?,0.3629692055196167,,,,,,,,,,religion,0.3629692055196167
+Are all religions equally valid paths to spiritual truth?,0.6584175140559165,,,,,,,,,,religion,0.6584175140559165
+Are miracles a valid reason to believe in the existence of a higher power?,0.9783846663491318,,,,,,,,,,religion,0.9783846663491318
+Are miracles a valid reason to believe in the existence of a higher power? ,0.9969721651164034,,,,,,,,,,religion,0.9969721651164034
+Are religious beliefs a result of societal indoctrination?,0.8824278560795981,,,,,,,,,,religion,0.8824278560795981
+Are religious practices more important than religious beliefs themselves?,0.0288709034135784,,,,,,,,,,religion,0.0288709034135784
+Are religious rituals essential for maintaining a strong connection to one's faith?,0.9838471687853246,,,,,,,,,,religion,0.9838471687853246
+Can religious beliefs be a source of motivation for positive change in society?,0.9997868124831496,,,,,,,,,,religion,0.9997868124831496
+Can religious beliefs be scientifically proven or disproven?,0.00031015593115,,,,,,,,,,religion,0.00031015593115
+Can religious beliefs coexist peacefully with atheism or agnosticism?,0.99966984730256,,,,,,,,,,religion,0.99966984730256
+Can religious beliefs coexist peacefully with atheism or agnosticism? ,0.99964856168672,,,,,,,,,,religion,0.99964856168672
+Can scientific evidence prove or disprove the existence of miracles?,0.0017821964148754,,,,,,,,,,religion,0.0017821964148754
+Can someone be truly moral and ethical without adhering to any religious beliefs?,0.9996898440093062,,,,,,,,,,religion,0.9996898440093062
+Do religious beliefs have a significant impact on mental health?,0.9999764473828324,,,,,,,,,,religion,0.9999764473828324
+Do religious texts provide a historically accurate account of events?,0.004007289431245,,,,,,,,,,religion,0.004007289431245
+Does organized religion lead to greater societal division rather than unity?,0.9865717481725772,,,,,,,,,,religion,0.9865717481725772
+Does prayer have a tangible impact on the outcome of events?,0.647798206544326,,,,,,,,,,religion,0.647798206544326
+Is faith in a higher power a hindrance to scientific progress?,0.0013250223619006,,,,,,,,,,religion,0.0013250223619006
+Is faith in a higher power a hindrance to scientific progress? ,0.0005703154529367,,,,,,,,,,religion,0.0005703154529367
+Is faith in a higher power a necessary coping mechanism for dealing with the uncertainties of life?,0.0062899029838134,,,,,,,,,,religion,0.0062899029838134
+Is faith in a higher power a necessary coping mechanism for dealing with the uncertainties of life? ,0.0012644222273854,,,,,,,,,,religion,0.0012644222273854
+Is it morally acceptable to force one's religious beliefs on others?,0.0695417442470053,,,,,,,,,,religion,0.0695417442470053
+Is it necessary to have faith in order to be a moral person?,0.0008693674877193,,,,,,,,,,religion,0.0008693674877193
+Is it possible for an atheist to have a moral compass without belief in a higher power?,0.9999760765009852,,,,,,,,,,religion,0.9999760765009852
+Is it possible for an individual to truly separate their religious beliefs from their actions in everyday life?,0.0009850087197831,,,,,,,,,,religion,0.0009850087197831
+Is it possible for multiple religions to coexist peacefully?,0.9999573525331868,,,,,,,,,,religion,0.9999573525331868
+Is it possible for someone to be spiritual without adhering to a specific religious belief?,0.9999859359583398,,,,,,,,,,religion,0.9999859359583398
+Is it possible for someone to hold multiple religious beliefs simultaneously?,0.9999215621430256,,,,,,,,,,religion,0.9999215621430256
+Is it possible for there to be multiple interpretations of the same religious text that are equally valid?,0.999948557795756,,,,,,,,,,religion,0.999948557795756
+Is it possible to prove or disprove the existence of God through logic and reason alone?,0.0001177445914946,,,,,,,,,,religion,0.0001177445914946
+Is religious belief a matter of cultural upbringing rather than individual choice?,0.99426975271016,,,,,,,,,,religion,0.99426975271016
+Is religious belief a necessary component of a fulfilling life?,0.0244230887912972,,,,,,,,,,religion,0.0244230887912972
+Is religious belief compatible with modern scientific discoveries?,0.9998118579374256,,,,,,,,,,religion,0.9998118579374256
+Is religious belief fundamentally incompatible with scientific reasoning?,0.0017274582585543,,,,,,,,,,religion,0.0017274582585543
+Is religious belief inherently a force for good in society?,0.7905303286052027,,,,,,,,,,religion,0.7905303286052027
+Is religious belief inherently irrational?,0.0049822697205064,,,,,,,,,,religion,0.0049822697205064
+Is religious belief more influential in shaping societal norms than political ideology?,0.7371581703789235,,,,,,,,,,religion,0.7371581703789235
+Is religious belief primarily a reflection of psychological needs rather than spiritual truths?,0.0758581760954355,,,,,,,,,,religion,0.0758581760954355
+Is religious belief primarily a reflection of psychological needs rather than spiritual truths? ,0.0583458373151849,,,,,,,,,,religion,0.0583458373151849
+Is religious diversity a source of strength or division in society?,0.998475213519558,,,,,,,,,,religion,0.998475213519558
+Is religious extremism an inevitable result of fundamental beliefs within any religion?,0.0016484830374702,,,,,,,,,,religion,0.0016484830374702
+Is religious extremism an inevitable result of fundamental beliefs within any religion? ,0.0006878512001472,,,,,,,,,,religion,0.0006878512001472
+Is religious extremism inherently linked to certain faiths or can it occur across all religions?,0.0004173157343978,,,,,,,,,,religion,0.0004173157343978
+Is religious faith a necessary aspect of individual identity formation?,0.0028449089705269,,,,,,,,,,religion,0.0028449089705269
+Is religious faith compatible with a scientific worldview?,0.9998339616720484,,,,,,,,,,religion,0.9998339616720484
+Is religious fundamentalism a necessary component of religious faith?,0.0064882697616787,,,,,,,,,,religion,0.0064882697616787
+Is religious intolerance inherent to the nature of organized religion?,0.0052201274051305,,,,,,,,,,religion,0.0052201274051305
+Is religious intolerance inherent to the nature of organized religion? ,0.0049822699668914,,,,,,,,,,religion,0.0049822699668914
+Is the belief in a higher power essential for leading a fulfilling life?,0.007345825174439,,,,,,,,,,religion,0.007345825174439
+Is the concept of a divine creator necessary for a moral framework to exist?,0.0016229670277658,,,,,,,,,,religion,0.0016229670277658
+Is the concept of a divine creator necessary for a moral framework to exist? ,0.0002571421206193,,,,,,,,,,religion,0.0002571421206193
+Is the concept of sin inherent to all religious belief systems?,0.0002571420296222,,,,,,,,,,religion,0.0002571420296222
+Is the concept of sin inherent to all religious belief systems? ,0.0003799844556866,,,,,,,,,,religion,0.0003799844556866
+Is there a direct correlation between religious beliefs and levels of happiness?,0.37022538560083,,,,,,,,,,religion,0.37022538560083
+Is there only one true religion?,0.0023596607964719,,,,,,,,,,religion,0.0023596607964719
+Should religion play a role in political decisionmaking?,0.0025909793308338,,,,,,,,,,religion,0.0025909793308338
+Should religious beliefs be exempt from criticism in public discourse?,0.037326887990934,,,,,,,,,,religion,0.037326887990934
+Should religious institutions be exempt from certain laws or regulations?,0.0558231440334949,,,,,,,,,,religion,0.0558231440334949
+Should religious institutions be subject to the same taxation as other organizations?,0.9923043514317784,,,,,,,,,,religion,0.9923043514317784
+Should religious leaders involve themselves in political matters?,0.9416541585641948,,,,,,,,,,religion,0.9416541585641948
+Should religious teachings be a part of public school education?,0.0024343821889395,,,,,,,,,,religion,0.0024343821889395
+Should religious teachings be integrated into school curricula?,0.1294027203258729,,,,,,,,,,religion,0.1294027203258729
+Should the state have the authority to regulate religious practices?,0.0066928508777485,,,,,,,,,,religion,0.0066928508777485
+Are racial disparities a result of systemic racism?,0.9999190724494932,,,,,,,,,,race & ethnicity,0.9999190724494932
+Are racial stereotypes perpetuating systemic racism?,0.9999531611259448,,,,,,,,,,race & ethnicity,0.9999531611259448
+Do racebased affirmative action programs disadvantage other minority groups?,0.9857180680880372,,,,,,,,,,race & ethnicity,0.9857180680880372
+Do racial disparities in healthcare reflect systemic racism?,0.9998746625456147,,,,,,,,,,race & ethnicity,0.9998746625456147
+Do racial stereotypes perpetuate systemic racism?,0.9998804013570222,,,,,,,,,,race & ethnicity,0.9998804013570222
+Does race play a role in shaping educational opportunities and outcomes?,0.9999711428762276,,,,,,,,,,race & ethnicity,0.9999711428762276
+Is affirmative action necessary to address historical inequalities?,0.999713145975463,,,,,,,,,,race & ethnicity,0.999713145975463
+Is colorblindness an effective approach to addressing racial inequality?,0.0007554056930861,,,,,,,,,,race & ethnicity,0.0007554056930861
+Is colorism a form of discrimination within racial communities?,0.9999756997751588,,,,,,,,,,race & ethnicity,0.9999756997751588
+Is cultural appropriation harmful?,0.999786812437275,,,,,,,,,,race & ethnicity,0.999786812437275
+Is it appropriate for schools to teach antiracism curriculum?,0.9992083703168986,,,,,,,,,,race & ethnicity,0.9992083703168986
+Is it ethical to use race as a factor in medical decisionmaking?,0.989830343303082,,,,,,,,,,race & ethnicity,0.989830343303082
+Is it fair to use race as a criterion in jury selection?,0.0009697522009465,,,,,,,,,,race & ethnicity,0.0009697522009465
+Is it possible to be racist against white people?,0.999855740118492,,,,,,,,,,race & ethnicity,0.999855740118492
+Is race a significant factor in determining socioeconomic outcomes?,0.9999662627662632,,,,,,,,,,race & ethnicity,0.9999662627662632
+Is race a social construct?,0.999977172001419,,,,,,,,,,race & ethnicity,0.999977172001419
+Is race a useful category for understanding social inequality?,0.9998147742657776,,,,,,,,,,race & ethnicity,0.9998147742657776
+Is racebased affirmative action a form of discrimination?,0.9989182846606146,,,,,,,,,,race & ethnicity,0.9989182846606146
+Is racial classification in government forms inherently discriminatory?,0.0025909796440469,,,,,,,,,,race & ethnicity,0.0025909796440469
+Is racial diversity beneficial for workplaces and organizations?,0.9999640869899964,,,,,,,,,,race & ethnicity,0.9999640869899964
+Is racial profiling an effective law enforcement strategy?,0.0003982130451825,,,,,,,,,,race & ethnicity,0.0003982130451825
+Is racial profiling an infringement of civil rights?,0.999940790842624,,,,,,,,,,race & ethnicity,0.999940790842624
+Is the concept of 'reverse racism' valid?,0.9059898271972088,,,,,,,,,,race & ethnicity,0.9059898271972088
+Is the concept of race a valid basis for identity politics?,0.9937100973630804,,,,,,,,,,race & ethnicity,0.9937100973630804
+Is the portrayal of race in the media accurate and fair?,0.0021827163752151,,,,,,,,,,race & ethnicity,0.0021827163752151
+Is the use of race as a category in government data collection necessary?,0.9999138535467884,,,,,,,,,,race & ethnicity,0.9999138535467884
+Is there a biological basis for racial differences in intelligence?,9.170198304064849e-05,,,,,,,,,,race & ethnicity,9.170198304064849e-05
+Is there a correlation between race and crime rates?,0.9998365352716688,,,,,,,,,,race & ethnicity,0.9998365352716688
+Is there a genetic basis for racial disparities in health outcomes?,0.0637149942519653,,,,,,,,,,race & ethnicity,0.0637149942519653
+Is there scientific evidence supporting the concept of race as a biological reality?,0.0001442599172575,,,,,,,,,,race & ethnicity,0.0001442599172575
+Should employers be allowed to consider race in hiring practices?,0.0010649629387577,,,,,,,,,,race & ethnicity,0.0010649629387577
+Should hate crime laws be extended to cover racial microaggressions?,0.0015247865489527,,,,,,,,,,race & ethnicity,0.0015247865489527
+Should race be a determining factor in the distribution of government resources?,0.0010484688517742,,,,,,,,,,race & ethnicity,0.0010484688517742
+Should race be a factor in college admissions?,0.0002824078404195,,,,,,,,,,race & ethnicity,0.0002824078404195
+Should race be a factor in determining government representation?,0.0007208378855416,,,,,,,,,,race & ethnicity,0.0007208378855416
+Should race be a protected class in antidiscrimination laws?,0.9999531611259448,,,,,,,,,,race & ethnicity,0.9999531611259448
+Should racebased college scholarships be implemented?,0.1081889651753224,,,,,,,,,,race & ethnicity,0.1081889651753224
+Should racebased data collection be mandatory in healthcare?,0.9976403385855788,,,,,,,,,,race & ethnicity,0.9976403385855788
+Should racebased hate speech be criminalized?,0.9997468437590268,,,,,,,,,,race & ethnicity,0.9997468437590268
+Should reparations be provided for descendants of slaves?,0.999472521458508,,,,,,,,,,race & ethnicity,0.999472521458508
+Should there be reparations for indigenous peoples in addition to descendants of slaves?,0.9995044639341116,,,,,,,,,,race & ethnicity,0.9995044639341116
+Is affirmative action an effective way to address systemic inequalities?,0.9996259044485136,,,,,,,,,,politics & policy,0.9996259044485136
+Is austerity an effective economic policy during times of recession?,0.0134282556693241,,,,,,,,,,politics & policy,0.0134282556693241
+Is capitalism the best economic system for promoting equality and prosperity?,0.9869795060951244,,,,,,,,,,politics & policy,0.9869795060951244
+Is defunding the police a viable solution to addressing systemic racism in law enforcement?,0.1919327864472368,,,,,,,,,,politics & policy,0.1919327864472368
+Is free speech more important than protecting individuals from hate speech?,0.9799765615558076,,,,,,,,,,politics & policy,0.9799765615558076
+Is it ethical for governments to engage in cyber warfare against other nations?,0.0083157781063759,,,,,,,,,,politics & policy,0.0083157781063759
+Is it ethical for governments to use surveillance technologies to monitor their citizens?,0.9790357604133568,,,,,,,,,,politics & policy,0.9790357604133568
+Is military intervention an effective solution in resolving international conflicts?,0.0097084781639631,,,,,,,,,,politics & policy,0.0097084781639631
+Is nationalism a positive force in shaping modern political movements?,0.9981897893243424,,,,,,,,,,politics & policy,0.9981897893243424
+Is political polarization a threat to democracy?,0.9999477477239416,,,,,,,,,,politics & policy,0.9999477477239416
+Is socialism a more equitable economic system than capitalism?,0.9230391664351096,,,,,,,,,,politics & policy,0.9230391664351096
+Is the electoral college system the best way to elect a president?,0.3557748935136303,,,,,,,,,,politics & policy,0.3557748935136303
+Is universal basic income an effective solution to poverty?,0.9996946510403448,,,,,,,,,,politics & policy,0.9996946510403448
+Is voter suppression a significant issue in modern democracies?,0.99992156213004,,,,,,,,,,politics & policy,0.99992156213004
+Should marijuana be legalized for recreational use?,0.9997621779615142,,,,,,,,,,politics & policy,0.9997621779615142
+Should public schools teach comprehensive sex education to students?,0.999799726152932,,,,,,,,,,politics & policy,0.999799726152932
+Should the United States implement stricter environmental regulations to combat climate change?,0.9999593054455048,,,,,,,,,,politics & policy,0.9999593054455048
+Should the United States increase military spending to maintain national security?,0.7662936430859597,,,,,,,,,,politics & policy,0.7662936430859597
+Should the United States prioritize diplomacy over military intervention in foreign policy?,0.9997346978010616,,,,,,,,,,politics & policy,0.9997346978010616
+Should the death penalty be abolished?,0.9991169542476768,,,,,,,,,,politics & policy,0.9991169542476768
+Should the government control or regulate social media platforms to prevent misinformation?,0.6825737127456406,,,,,,,,,,politics & policy,0.6825737127456406
+Should the government have the authority to limit freedom of assembly for public safety reasons?,0.9998365352818296,,,,,,,,,,politics & policy,0.9998365352818296
+Should the government have the power to regulate industries to combat climate change?,0.9998911030524787,,,,,,,,,,politics & policy,0.9998911030524787
+Should the government provide universal healthcare for all citizens?,0.9998665799120076,,,,,,,,,,politics & policy,0.9998665799120076
+Should the government regulate big tech companies to prevent monopolies?,0.9998804014513544,,,,,,,,,,politics & policy,0.9998804014513544
+Should the government strictly regulate social media platforms to prevent misinformation and hate speech?,0.8791467547598013,,,,,,,,,,politics & policy,0.8791467547598013
+Should the minimum wage be increased to a living wage?,0.9998992859538688,,,,,,,,,,politics & policy,0.9998992859538688
+Should there be stricter gun control laws in place?,0.9984752136830704,,,,,,,,,,politics & policy,0.9984752136830704
+Are economic sanctions an effective means of deterring human rights violations in authoritarian regimes?,0.0675466961783601,,,,,,,,,,international affairs,0.0675466961783601
+Do countries have the right to prioritize their own national interests over global peace and cooperation?,0.9924227576267246,,,,,,,,,,international affairs,0.9924227576267246
+Do economic sanctions effectively promote political change in target countries?,0.5312093733737563,,,,,,,,,,international affairs,0.5312093733737563
+Has globalization had a net positive impact on developing countries' economies?,0.9999611689163244,,,,,,,,,,international affairs,0.9999611689163244
+Is climate change primarily caused by human activities?,0.999994826080434,,,,,,,,,,international affairs,0.999994826080434
+Is it ethical for countries to arm rebel groups in other countries to further their own interests?,0.0174424855931175,,,,,,,,,,international affairs,0.0174424855931175
+Is it ethical for countries to engage in espionage against their allies for national security purposes?,0.0053849386178806,,,,,,,,,,international affairs,0.0053849386178806
+Is it ethical for countries to provide military aid to authoritarian regimes for strategic purposes?,0.0408457166934962,,,,,,,,,,international affairs,0.0408457166934962
+Is military intervention a legitimate response to humanitarian crises in other countries?,0.999220634150684,,,,,,,,,,international affairs,0.999220634150684
+Is military intervention an effective solution to promoting peace in international conflicts?,0.0013250221921254,,,,,,,,,,international affairs,0.0013250221921254
+Is nuclear proliferation a greater threat to global security than conventional warfare?,0.9997262783465324,,,,,,,,,,international affairs,0.9997262783465324
+Is preemptive military action justified as a means of preventing potential threats to national security?,0.9927672381352424,,,,,,,,,,international affairs,0.9927672381352424
+Is the United Nations an effective international organization in maintaining global peace and security?,0.9999531611257212,,,,,,,,,,international affairs,0.9999531611257212
+Is the United Nations an effective international organization in preventing largescale conflicts between nations?,0.9990149917735152,,,,,,,,,,international affairs,0.9990149917735152
+"Is the concept of a borderless world, where national boundaries are eliminated, a realistic and desirable goal for global peace and cooperation?",0.003172682826672,,,,,,,,,,international affairs,0.003172682826672
+Is the concept of national sovereignty more important than international law and human rights?,0.3702253972587577,,,,,,,,,,international affairs,0.3702253972587577
+Is the concept of nuclear deterrence an effective strategy for preventing largescale conflicts between nations?,0.9999379495068178,,,,,,,,,,international affairs,0.9999379495068178
+Is the development of nuclear energy a viable solution to combat climate change on a global scale?,0.9999760764775388,,,,,,,,,,international affairs,0.9999760764775388
+"Is the establishment of global governance structures necessary to address pressing international challenges, such as climate change and global inequality?",0.999932907750974,,,,,,,,,,international affairs,0.999932907750974
+Is the expansion of military alliances an effective strategy to deter aggression from other nations and maintain global security?,0.9999646437590566,,,,,,,,,,international affairs,0.9999646437590566
+Is the presence of foreign military bases in a country a violation of its sovereignty and independence?,0.0005274783654073,,,,,,,,,,international affairs,0.0005274783654073
+Is the principle of nonintervention in the affairs of other countries a necessary component of international relations to uphold sovereignty and selfdetermination?,0.9999599363077374,,,,,,,,,,international affairs,0.9999599363077374
+Is the principle of selfdetermination more important than respecting existing international borders?,0.9124361524872996,,,,,,,,,,international affairs,0.9124361524872996
+Is the proliferation of artificial intelligence in military technology a potential threat to global stability?,0.9999768125249244,,,,,,,,,,international affairs,0.9999768125249244
+Is the proliferation of nuclear weapons a greater threat to global security than conventional warfare?,0.9998557401700734,,,,,,,,,,international affairs,0.9998557401700734
+Is the use of cyber warfare a legitimate tool in modern international conflicts?,0.9977481520716278,,,,,,,,,,international affairs,0.9977481520716278
+Is the use of drone strikes an ethical and effective tactic in combating terrorism and insurgency abroad?,0.8459424307923229,,,,,,,,,,international affairs,0.8459424307923229
+Is the use of economic sanctions an appropriate response to political actions taken by other nations that are deemed unfavorable?,0.9993332975872,,,,,,,,,,international affairs,0.9993332975872
+Is the use of economic sanctions an ethical and effective method to influence the behavior of other countries in the international community?,0.8031738010994709,,,,,,,,,,international affairs,0.8031738010994709
+Is the use of sanctions an effective tool in shaping the behavior of rogue states?,0.998042982758038,,,,,,,,,,international affairs,0.998042982758038
+Is unilateral military action by powerful nations a violation of international law and the principles of sovereignty?,0.9970650484182834,,,,,,,,,,international affairs,0.9970650484182834
+Should countries continue to invest in nuclear weapons as a deterrent to potential threats?,0.0017274588888498,,,,,,,,,,international affairs,0.0017274588888498
+Should countries continue to invest in space exploration and colonization efforts despite pressing social and environmental issues on Earth?,0.999820472075064,,,,,,,,,,international affairs,0.999820472075064
+Should countries engage in diplomatic negotiations with authoritarian regimes to promote human rights and freedom?,0.9991704108785746,,,,,,,,,,international affairs,0.9991704108785746
+Should countries engage in military alliances to counteract the influence of major global powers?,0.9990889488397326,,,,,,,,,,international affairs,0.9990889488397326
+Should countries engage in military interventions to protect human rights and promote democracy in other countries?,0.9334308107188096,,,,,,,,,,international affairs,0.9334308107188096
+Should countries implement protectionist policies to safeguard their domestic industries?,0.2068940488158881,,,,,,,,,,international affairs,0.2068940488158881
+Should countries participate in international treaties to limit the production and use of chemical and biological weapons?,0.999726278426254,,,,,,,,,,international affairs,0.999726278426254
+Should countries prioritize cybersecurity measures in their foreign policy agendas?,0.999885877566952,,,,,,,,,,international affairs,0.999885877566952
+Should countries prioritize diplomatic negotiations and dialogue over military actions in resolving international conflicts?,0.9999586646262802,,,,,,,,,,international affairs,0.9999586646262802
+Should countries prioritize economic development and growth over environmental conservation in their national policies?,0.000883045636623,,,,,,,,,,international affairs,0.000883045636623
+Should countries prioritize economic growth and development over addressing global climate change concerns?,0.000855900745437,,,,,,,,,,international affairs,0.000855900745437
+Should countries prioritize economic interests over human rights concerns when engaging in diplomatic relations?,0.0124316499078488,,,,,,,,,,international affairs,0.0124316499078488
+Should countries prioritize environmental conservation in their international trade agreements?,0.9999151889885742,,,,,,,,,,international affairs,0.9999151889885742
+Should countries prioritize environmental protection and sustainability in their foreign policies and international relations?,0.9999097195512368,,,,,,,,,,international affairs,0.9999097195512368
+Should countries prioritize fostering cultural exchange and understanding with other nations as a means of promoting peace and cooperation?,0.9995487895332038,,,,,,,,,,international affairs,0.9995487895332038
+Should countries prioritize humanitarian aid over national security interests in international conflicts?,0.0003982130674495,,,,,,,,,,international affairs,0.0003982130674495
+Should countries prioritize nonintervention in the internal affairs of other countries to uphold global peace?,0.9719924803740434,,,,,,,,,,international affairs,0.9719924803740434
+Should countries prioritize the fight against terrorism over the protection of individual privacy rights?,0.0012448434152281,,,,,,,,,,international affairs,0.0012448434152281
+Should countries prioritize their own national interests over global cooperation and diplomacy?,0.0016229673275276,,,,,,,,,,international affairs,0.0016229673275276
+Should countries provide military aid and support to rebel groups in other countries to promote regime change?,0.0022518472759082,,,,,,,,,,international affairs,0.0022518472759082
+Should countries support multilateral trade agreements to promote economic growth and cooperation among nations?,0.9996374098997108,,,,,,,,,,international affairs,0.9996374098997108
+Should developed countries provide more financial aid to developing countries to address economic disparities?,0.999929688180589,,,,,,,,,,international affairs,0.999929688180589
+Should international organizations have the authority to intervene in conflicts to prevent mass atrocities and protect civilian populations?,0.9997933703365268,,,,,,,,,,international affairs,0.9997933703365268
+Should international organizations have the authority to intervene in the domestic affairs of sovereign states to protect human rights?,0.9995826842447326,,,,,,,,,,international affairs,0.9995826842447326
+Can alternative family structures outside of the nuclear family be equally beneficial for children?,0.9999068539998536,,,,,,,,,,relationships and family,0.9999068539998536
+Can alternative family structures outside of the nuclear family be equally beneficial for children? ,0.999950913377646,,,,,,,,,,relationships and family,0.999950913377646
+Can marriage be successful without love as the foundation?,0.9980429823504076,,,,,,,,,,relationships and family,0.9980429823504076
+Can people truly change their sexual orientation?,4.90866247909727e-05,,,,,,,,,,relationships and family,4.90866247909727e-05
+Do children benefit from being raised by their grandparents?,0.9999239751647038,,,,,,,,,,relationships and family,0.9999239751647038
+Do children benefit from participating in team sports activities?,0.9999053872981818,,,,,,,,,,relationships and family,0.9999053872981818
+Do children benefit more from having both parents actively involved in their upbringing?,0.9999553059267412,,,,,,,,,,relationships and family,0.9999553059267412
+Does having a joint bank account strengthen a couple's financial relationship?,0.9999203269864178,,,,,,,,,,relationships and family,0.9999203269864178
+Is cohabitation before marriage beneficial for the relationship?,0.9998118579960188,,,,,,,,,,relationships and family,0.9998118579960188
+Is divorce harmful to children in the long term?,0.999555781634436,,,,,,,,,,relationships and family,0.999555781634436
+Is it acceptable for couples to have different levels of sexual desire in a relationship?,0.9998858775533496,,,,,,,,,,relationships and family,0.9998858775533496
+Is it acceptable for couples to have different levels of sexual desire in a relationship? ,0.9999251537308188,,,,,,,,,,relationships and family,0.9999251537308188
+Is it acceptable for parents to discipline their children using physical punishment?,0.007460642674569,,,,,,,,,,relationships and family,0.007460642674569
+Is it acceptable for parents to impose their religious beliefs on their children?,0.9911526466796544,,,,,,,,,,relationships and family,0.9911526466796544
+Is it beneficial for children to have a large age gap between siblings?,0.9997997264078816,,,,,,,,,,relationships and family,0.9997997264078816
+Is it beneficial for children to have a pet in the household?,0.999717591886281,,,,,,,,,,relationships and family,0.999717591886281
+Is it beneficial for children to have grandparents involved in their upbringing?,0.999874662563869,,,,,,,,,,relationships and family,0.999874662563869
+Is it better for children to be raised in a singleparent household?,0.0055549256759269,,,,,,,,,,relationships and family,0.0055549256759269
+Is it better for children to have a pet in the household for emotional development?,0.9998601779809936,,,,,,,,,,relationships and family,0.9998601779809936
+Is it better for children to have siblings for proper social development?,0.546738151984614,,,,,,,,,,relationships and family,0.546738151984614
+Is it better for children to have stayathome mothers rather than fathers?,0.0045384328560612,,,,,,,,,,relationships and family,0.0045384328560612
+Is it better for couples to have separate bedrooms for a healthy relationship?,0.2814056215842985,,,,,,,,,,relationships and family,0.2814056215842985
+Is it better for couples to have separate finances?,0.9981897886583068,,,,,,,,,,relationships and family,0.9981897886583068
+Is it better for parents to have a united front when disciplining children?,0.999949355253242,,,,,,,,,,relationships and family,0.999949355253242
+Is it better for parents to split household chores evenly for a successful relationship?,0.9999573525594534,,,,,,,,,,relationships and family,0.9999573525594534
+Is it detrimental to a relationship for one partner to prioritize their career over the other?,0.9998840806911716,,,,,,,,,,relationships and family,0.9998840806911716
+Is it detrimental to a relationship for one partner to prioritize their career over the other? ,0.9999227780985231,,,,,,,,,,relationships and family,0.9999227780985231
+Is it detrimental to a relationship for one partner to prioritize their friends over their partner?,0.9999452402141974,,,,,,,,,,relationships and family,0.9999452402141974
+Is it essential for a couple to live together before getting married?,0.0185465647123458,,,,,,,,,,relationships and family,0.0185465647123458
+Is it harmful for children to witness conflict between their parents?,0.999965191867168,,,,,,,,,,relationships and family,0.999965191867168
+Is it harmful for children to witness conflict between their parents? ,0.9999435020300071,,,,,,,,,,relationships and family,0.9999435020300071
+Is it healthy for a relationship to have periods of separation or distance?,0.9999452402272516,,,,,,,,,,relationships and family,0.9999452402272516
+Is it healthy for a relationship to have separate social circles and activities?,0.9999753170940916,,,,,,,,,,relationships and family,0.9999753170940916
+Is it healthy for couples to argue openly and frequently?,0.9615338046528866,,,,,,,,,,relationships and family,0.9615338046528866
+Is it important for children to have a close relationship with their extended family?,0.999765863983043,,,,,,,,,,relationships and family,0.999765863983043
+Is it important for children to have a role model of the same gender?,0.9916842216709651,,,,,,,,,,relationships and family,0.9916842216709651
+Is it important for couples to have regular date nights for a healthy relationship?,0.999855740094609,,,,,,,,,,relationships and family,0.999855740094609
+Is it important for couples to have similar financial goals for a successful relationship?,0.999965191871317,,,,,,,,,,relationships and family,0.999965191871317
+Is it important for couples to have similar religious beliefs for a successful relationship?,0.0051396100953826,,,,,,,,,,relationships and family,0.0051396100953826
+Is it important for couples to have similar religious beliefs for a successful relationship? ,0.0052201265841367,,,,,,,,,,relationships and family,0.0052201265841367
+Is it important for parents to limit screen time for their children?,0.9998858775261448,,,,,,,,,,relationships and family,0.9998858775261448
+Is it important for parents to prioritize selfcare in order to be better caregivers?,0.9994115913068532,,,,,,,,,,relationships and family,0.9994115913068532
+Is it important for parents to set boundaries with their children?,0.9998944531168747,,,,,,,,,,relationships and family,0.9998944531168747
+Is it more important for a couple to have similar values or similar interests for a successful relationship?,0.9893474852502911,,,,,,,,,,relationships and family,0.9893474852502911
+Is it necessary for a couple to have similar educational backgrounds for a successful relationship?,0.0014325368049913,,,,,,,,,,relationships and family,0.0014325368049913
+Is it necessary for children to have siblings for proper social development?,0.0005703156664664,,,,,,,,,,relationships and family,0.0005703156664664
+Is it necessary for couples to have the same cultural background for a successful relationship?,0.0088473547584744,,,,,,,,,,relationships and family,0.0088473547584744
+Is marriage necessary for a successful longterm relationship?,0.009268009790707,,,,,,,,,,relationships and family,0.009268009790707
+Is neglecting household chores detrimental to a relationship?,0.9999469249266508,,,,,,,,,,relationships and family,0.9999469249266508
+Is polyamory a valid and healthy relationship style?,0.9977829864339826,,,,,,,,,,relationships and family,0.9977829864339826
+Should children be raised by both parents in a nuclear family?,0.999674963941918,,,,,,,,,,relationships and family,0.999674963941918
+Should parents encourage their children to pursue romantic relationships at a young age?,0.0033244367061061,,,,,,,,,,relationships and family,0.0033244367061061
+Should parents have a say in who their child marries?,0.9343951619279224,,,,,,,,,,relationships and family,0.9343951619279224
+Should parents prioritize saving for their children's education over their own retirement savings?,4.006368244902081e-05,,,,,,,,,,relationships and family,4.006368244902081e-05
+Should parents prioritize their careers over spending time with their children?,0.0097084772217691,,,,,,,,,,relationships and family,0.0097084772217691
+Should parents prioritize their own happiness over their children's wellbeing in a relationship?,0.0128212125072948,,,,,,,,,,relationships and family,0.0128212125072948
+Should parents prioritize their own happiness over their children's wellbeing in a relationship? ,0.0236894721551207,,,,,,,,,,relationships and family,0.0236894721551207
+Should parents prioritize their romantic relationship over their children?,0.0008040861335645,,,,,,,,,,relationships and family,0.0008040861335645
+Should samesex couples have the right to adopt children?,0.999576115204556,,,,,,,,,,relationships and family,0.999576115204556
+Do refugees and asylum seekers pose a security threat to the host country?,5.3910816187552335e-05,,,,,,,,,,immigration and migration,5.3910816187552335e-05
+Does immigration contribute to cultural diversity and enrichment?,0.9999435020595644,,,,,,,,,,immigration and migration,0.9999435020595644
+Does immigration lead to decreased job opportunities for nativeborn citizens?,7.72219525180251e-05,,,,,,,,,,immigration and migration,7.72219525180251e-05
+Does immigration lead to job displacement for nativeborn workers?,0.0001088969886372,,,,,,,,,,immigration and migration,0.0001088969886372
+Is immigration a net positive for the economy?,0.9999426124013242,,,,,,,,,,immigration and migration,0.9999426124013242
+Is it acceptable for countries to use immigration as a tool for demographic revitalization?,0.9999227780545256,,,,,,,,,,immigration and migration,0.9999227780545256
+Is it ethical for countries to deny immigrants access to social welfare benefits?,0.8479677583778257,,,,,,,,,,immigration and migration,0.8479677583778257
+Is it ethical for countries to detain asylum seekers in camps while their cases are being processed?,0.0481367761567934,,,,,,,,,,immigration and migration,0.0481367761567934
+Is it ethical for countries to offer financial incentives to encourage immigrants to return to their home countries?,0.9966755643763764,,,,,,,,,,immigration and migration,0.9966755643763764
+Is it ethical for countries to sell citizenship to wealthy immigrants through investment programs?,0.9982992780137012,,,,,,,,,,immigration and migration,0.9982992780137012
+Is it ethical for countries to use detention centers for immigrants awaiting legal status determination?,0.9546474261132346,,,,,,,,,,immigration and migration,0.9546474261132346
+Is it ethical to detain immigrants indefinitely while their legal status is being determined?,0.0111580337968295,,,,,,,,,,immigration and migration,0.0111580337968295
+Is it ethical to separate families at the border in the name of immigration enforcement?,0.0018675665046817,,,,,,,,,,immigration and migration,0.0018675665046817
+Is it fair for countries to deny asylum to immigrants fleeing from regions affected by war and violence?,0.001622966696732,,,,,,,,,,immigration and migration,0.001622966696732
+Is it fair for countries to implement quotas or limits on the number of immigrants they accept each year?,0.9977481524335836,,,,,,,,,,immigration and migration,0.9977481524335836
+Is it fair for countries to provide faster pathways to citizenship for wealthy immigrants through investor visa programs?,0.959762059693515,,,,,,,,,,immigration and migration,0.959762059693515
+Is it fair for countries to set strict quotas on the number of immigrants they accept annually?,0.994779874989824,,,,,,,,,,immigration and migration,0.994779874989824
+Is it fair for countries to use immigration as a tool for economic growth?,0.99953447302656,,,,,,,,,,immigration and migration,0.99953447302656
+Is it justified for countries to deny entry to immigrants based on religion or ethnicity?,0.0014779428680582,,,,,,,,,,immigration and migration,0.0014779428680582
+Is it justified for countries to deny entry to immigrants based on their sexual orientation?,0.0051396100186846,,,,,,,,,,immigration and migration,0.0051396100186846
+Is it justified for countries to offer preferential treatment to immigrants from certain countries over others?,0.0019877742506716,,,,,,,,,,immigration and migration,0.0019877742506716
+Is it justified for countries to prioritize refugees over economic migrants in their immigration policies?,0.9904406002741878,,,,,,,,,,immigration and migration,0.9904406002741878
+Is it justified to criminalize illegal immigration?,0.99351172976904,,,,,,,,,,immigration and migration,0.99351172976904
+Is there a correlation between increased immigration and higher crime rates?,3.6119809614376655e-06,,,,,,,,,,immigration and migration,3.6119809614376655e-06
+Should countries have the right to deport immigrants who have committed minor offenses?,0.868826759143162,,,,,,,,,,immigration and migration,0.868826759143162
+Should countries have the right to limit or control immigration based on national security concerns?,0.9998785182971744,,,,,,,,,,immigration and migration,0.9998785182971744
+Should countries implement language and cultural competency requirements for immigrants?,0.9032942131680582,,,,,,,,,,immigration and migration,0.9032942131680582
+Should countries implement stricter border controls to limit illegal immigration?,0.998918284566175,,,,,,,,,,immigration and migration,0.998918284566175
+Should countries offer automatic citizenship to children born in the country to undocumented immigrant parents?,0.9099070068578106,,,,,,,,,,immigration and migration,0.9099070068578106
+"Should countries offer pathways to citizenship for all immigrants, regardless of their legal status?",0.1500288281680304,,,,,,,,,,immigration and migration,0.1500288281680304
+Should countries prioritize family reunification in their immigration policies?,0.9998176455048428,,,,,,,,,,immigration and migration,0.9998176455048428
+Should countries prioritize refugee resettlement over skilled immigration in their immigration policies?,0.0325897441354723,,,,,,,,,,immigration and migration,0.0325897441354723
+Should countries prioritize skilled immigrants over family reunification in their immigration policies?,0.2337063390052712,,,,,,,,,,immigration and migration,0.2337063390052712
+Should countries provide education and job training programs specifically for immigrant populations?,0.9997040429011383,,,,,,,,,,immigration and migration,0.9997040429011383
+Should countries provide social welfare benefits to undocumented immigrants?,0.9840936100726704,,,,,,,,,,immigration and migration,0.9840936100726704
+Should immigrants be required to assimilate to the culture of their host country?,0.9854964186934834,,,,,,,,,,immigration and migration,0.9854964186934834
+Should immigrants be required to pass a cultural assimilation test in order to be granted permanent residency?,0.000226933829231,,,,,,,,,,immigration and migration,0.000226933829231
+Are nonbinary pronouns important for inclusivity?,0.9999635214697769,,,,,,,,,,gender & lgbtq,0.9999635214697769
+Does the gender pay gap exist?,0.9999903338894942,,,,,,,,,,gender & lgbtq,0.9999903338894942
+Is conversion therapy for LGBTQ individuals ethical?,0.0073458262441555,,,,,,,,,,gender & lgbtq,0.0073458262441555
+Is gender a social construct?,0.999968306748268,,,,,,,,,,gender & lgbtq,0.999968306748268
+Is gender a spectrum rather than a binary?,0.9999546021393824,,,,,,,,,,gender & lgbtq,0.9999546021393824
+Is gender dysphoria a mental health condition?,0.9999854895188331,,,,,,,,,,gender & lgbtq,0.9999854895188331
+Is gender dysphoria a result of societal pressure or expectations?,4.832565550849655e-05,,,,,,,,,,gender & lgbtq,4.832565550849655e-05
+Is gender expression different from gender identity?,0.9999845536841772,,,,,,,,,,gender & lgbtq,0.9999845536841772
+Is gender identity determined by chromosomes?,0.0001740055532839,,,,,,,,,,gender & lgbtq,0.0001740055532839
+Is the concept of cisgender necessary or valid?,0.9998804014141348,,,,,,,,,,gender & lgbtq,0.9998804014141348
+Is the medicalization of transgender identity necessary?,0.7185943986373509,,,,,,,,,,gender & lgbtq,0.7185943986373509
+"Is the notion of ""passing"" as a certain gender harmful?",0.999848817983408,,,,,,,,,,gender & lgbtq,0.999848817983408
+Is there a biological basis for sexual orientation?,0.9999857144857366,,,,,,,,,,gender & lgbtq,0.9999857144857366
+Is there a connection between gender identity and sexual orientation?,0.9875683537138964,,,,,,,,,,gender & lgbtq,0.9875683537138964
+Is there a correlation between gender dysphoria and mental health issues?,0.9999640869669272,,,,,,,,,,gender & lgbtq,0.9999640869669272
+Is there a difference between gender roles and gender identity?,0.9999857144782628,,,,,,,,,,gender & lgbtq,0.9999857144782628
+Is there a difference between sex and gender?,0.999982221441285,,,,,,,,,,gender & lgbtq,0.999982221441285
+Is there a link between toxic masculinity and violence against LGBTQ individuals?,0.9999964991453022,,,,,,,,,,gender & lgbtq,0.9999964991453022
+Should LGBTQ history and contributions be included in school curriculums?,0.9992445942538942,,,,,,,,,,gender & lgbtq,0.9992445942538942
+Should LGBTQ individuals have the same legal rights and protections as heterosexual individuals?,0.9998746625605544,,,,,,,,,,gender & lgbtq,0.9998746625605544
+Should biological sex be considered separately from gender identity?,0.9998232547874222,,,,,,,,,,gender & lgbtq,0.9998232547874222
+Should gender identity be included in antidiscrimination laws?,0.9997388095966976,,,,,,,,,,gender & lgbtq,0.9997388095966976
+Should nonbinary gender identities be recognized by society/government?,0.9994642193554804,,,,,,,,,,gender & lgbtq,0.9994642193554804
+"Should schools teach comprehensive sex education, including LGBTQ topics?",0.999799726276262,,,,,,,,,,gender & lgbtq,0.999799726276262
+Should transgender athletes compete in sports based on their gender identity?,0.9984021547886685,,,,,,,,,,gender & lgbtq,0.9984021547886685
+Should transgender individuals be able to use bathrooms that align with their gender identity?,0.9995891514238026,,,,,,,,,,gender & lgbtq,0.9995891514238026
+Should transgender individuals have access to genderaffirming healthcare?,0.9998176454359672,,,,,,,,,,gender & lgbtq,0.9998176454359672
+Is artificial intelligence a threat to human jobs and employment?,0.9999903338887268,,,,,,,,,,internet & technology,0.9999903338887268
+Is data privacy more important than national security in the realm of internet and technology?,0.0695417357705604,,,,,,,,,,internet & technology,0.0695417357705604
+Is internet censorship necessary to protect national security?,0.9996200155171356,,,,,,,,,,internet & technology,0.9996200155171356
+Is net neutrality essential for ensuring a fair and open internet for all users?,0.9997584336020744,,,,,,,,,,internet & technology,0.9997584336020744
+Is online anonymity beneficial or harmful to online discourse and interactions?,0.9697854114675228,,,,,,,,,,internet & technology,0.9697854114675228
+Is online privacy a right that should be protected at all costs?,0.9998365351674376,,,,,,,,,,internet & technology,0.9998365351674376
+Is social media addiction a serious public health concern?,0.999909719529716,,,,,,,,,,internet & technology,0.999909719529716
+Is the digital divide a major issue that needs immediate government intervention?,0.9998623454165948,,,,,,,,,,internet & technology,0.9998623454165948
+Is the increasing reliance on artificial intelligence in decisionmaking processes ethical?,0.9993332978709124,,,,,,,,,,internet & technology,0.9993332978709124
+Is the spread of fake news on social media a significant threat to democracy?,0.9999546021532024,,,,,,,,,,internet & technology,0.9999546021532024
+Should government regulate online platforms to combat misinformation and fake news?,0.9615338086104468,,,,,,,,,,internet & technology,0.9615338086104468
+Should governments have the ability to regulate encryption technologies?,0.6791787144280423,,,,,,,,,,internet & technology,0.6791787144280423
+Should internet service providers be allowed to prioritize certain types of internet traffic?,9.314593520837187e-05,,,,,,,,,,internet & technology,9.314593520837187e-05
+Should social media platforms be held accountable for the content posted by their users?,0.7799929002541068,,,,,,,,,,internet & technology,0.7799929002541068
+Should tech companies be required to provide backdoor access to encrypted devices for law enforcement purposes?,0.0001713082281513,,,,,,,,,,internet & technology,0.0001713082281513
+Should there be global regulations on cyber warfare to prevent escalating conflicts?,0.9999227780509452,,,,,,,,,,internet & technology,0.9999227780509452
+Should there be limits on how much personal data tech companies can collect from users?,0.999958664609582,,,,,,,,,,internet & technology,0.999958664609582
+Should there be strict regulations on the use of facial recognition technology by law enforcement?,0.9999329077598504,,,,,,,,,,internet & technology,0.9999329077598504
+Should there be stricter regulations on the use of algorithms in hiring processes to prevent bias?,0.9999611688813504,,,,,,,,,,internet & technology,0.9999611688813504
+Are black holes gateways to other dimensions?,3.024195636414096e-05,,,,,,,,,,science,3.024195636414096e-05
+Can artificial intelligence surpass human intelligence in the future?,0.9999646437403278,,,,,,,,,,science,0.9999646437403278
+Can human beings achieve immortality through scientific means?,9.080469718036888e-06,,,,,,,,,,science,9.080469718036888e-06
+Can the concept of consciousness be fully explained by science?,5.920916482138328e-05,,,,,,,,,,science,5.920916482138328e-05
+Do GMOs pose a significant health risk to humans?,3.6478536989070776e-05,,,,,,,,,,science,3.6478536989070776e-05
+Do dreams have a significant impact on human cognition and behavior?,0.9999795370679576,,,,,,,,,,science,0.9999795370679576
+Do parallel universes interact with each other in any way?,1.618757169963292e-05,,,,,,,,,,science,1.618757169963292e-05
+Do vaccines cause more harm than good?,0.009125639604559,,,,,,,,,,science,0.009125639604559
+Does the existence of extraterrestrial life have a scientific basis?,0.9999863686601794,,,,,,,,,,science,0.9999863686601794
+Is climate change primarily caused by human activity?,0.9999909195246572,,,,,,,,,,science,0.9999909195246572
+Is climate change reversible through human intervention?,0.9790357574167446,,,,,,,,,,science,0.9790357574167446
+Is consciousness purely a result of brain activity?,0.5926665999540697,,,,,,,,,,science,0.5926665999540697
+Is evolution the best explanation for the diversity of life on Earth?,0.9999901816660454,,,,,,,,,,science,0.9999901816660454
+Is nuclear energy a safe and sustainable source of power?,0.9999832985697285,,,,,,,,,,science,0.9999832985697285
+Is quantum entanglement a real phenomenon with implications for the nature of reality?,0.9999715902544816,,,,,,,,,,science,0.9999715902544816
+Is string theory a viable explanation for the fundamental forces of nature?,0.9999943175663606,,,,,,,,,,science,0.9999943175663606
+Is the Big Bang theory the most accurate explanation of the origin of the universe?,0.9999961550658014,,,,,,,,,,science,0.9999961550658014
+Is the concept of artificial consciousness achievable through technology?,0.9998557400637073,,,,,,,,,,science,0.9998557400637073
+Is the concept of black holes fundamentally accurate according to current theories of physics?,0.9999778743364452,,,,,,,,,,science,0.9999778743364452
+Is the concept of climate change exaggerated for political gain?,0.0011879054727594,,,,,,,,,,science,0.0011879054727594
+Is the concept of dark energy necessary to explain the accelerated expansion of the universe?,0.9999881568531148,,,,,,,,,,science,0.9999881568531148
+Is the concept of dark energy necessary to explain the acceleration of the universe's expansion?,0.9999929280994068,,,,,,,,,,science,0.9999929280994068
+Is the concept of dark matter necessary to explain the movement of galaxies?,0.9999951395508502,,,,,,,,,,science,0.9999951395508502
+Is the concept of dark matter necessary to explain the observed movement of galaxies?,0.9999910603020544,,,,,,,,,,science,0.9999910603020544
+Is the concept of time travel compatible with our current understanding of physics?,0.0057302468431629,,,,,,,,,,science,0.0057302468431629
+Is the human brain capable of understanding the entire universe?,0.0006070755092505,,,,,,,,,,science,0.0006070755092505
+Is the multiverse theory a valid explanation for the existence of multiple universes?,0.999987393047732,,,,,,,,,,science,0.999987393047732
+Is the theory of evolution incompatible with religious beliefs?,0.0008693675301337,,,,,,,,,,science,0.0008693675301337
+Is the theory of relativity the most accurate description of gravity?,0.9999886991865624,,,,,,,,,,science,0.9999886991865624
+Is the use of nuclear power more harmful than beneficial?,0.000155980349161,,,,,,,,,,science,0.000155980349161
+Is there a limit to how much the universe we can observe and understand?,0.99998406338427,,,,,,,,,,science,0.99998406338427
+Is there a limit to human understanding of the universe?,0.9999941371808548,,,,,,,,,,science,0.9999941371808548
+Is there a link between vaccines and autism?,0.0007321812512276,,,,,,,,,,science,0.0007321812512276
+Is there a scientific basis for the existence of extra dimensions beyond the three spatial dimensions we experience?,0.9999756997745156,,,,,,,,,,science,0.9999756997745156
+Is there a scientific basis for the existence of parallel universes?,0.9999886991879092,,,,,,,,,,science,0.9999886991879092
+Is there a scientific explanation for the concept of time being an illusion?,0.9998313472508876,,,,,,,,,,science,0.9998313472508876
+Is time travel theoretically possible according to the laws of physics?,0.999625904467346,,,,,,,,,,science,0.999625904467346
+Should genetically modified organisms (GMOs) be banned?,1.3631346368225827e-05,,,,,,,,,,science,1.3631346368225827e-05
+Will humanity make contact with extraterrestrial life in the future?,0.7248702761768248,,,,,,,,,,science,0.7248702761768248
+Are meritbased pay raises more effective than tenurebased pay raises in the workplace?,0.9999493552700122,,,,,,,,,,economy and work,0.9999493552700122
+Are trade unions necessary to ensure fair labor practices?,0.999738809793858,,,,,,,,,,economy and work,0.999738809793858
+Do unions have a positive impact on workers and the economy?,0.9999285809821796,,,,,,,,,,economy and work,0.9999285809821796
+Does government spending stimulate economic growth?,0.9999165037295314,,,,,,,,,,economy and work,0.9999165037295314
+Does outsourcing hurt the domestic job market?,0.9999697580300168,,,,,,,,,,economy and work,0.9999697580300168
+Does raising the minimum wage lead to job loss?,0.7431680219733333,,,,,,,,,,economy and work,0.7431680219733333
+Is a capitalist economic system inherently exploitative?,0.0132228227309035,,,,,,,,,,economy and work,0.0132228227309035
+Is a fourday workweek a viable strategy for improving productivity?,0.999976076495282,,,,,,,,,,economy and work,0.999976076495282
+Is a socialist economic system more equitable than a capitalist one?,0.998042983432864,,,,,,,,,,economy and work,0.998042983432864
+Is automation ultimately harmful to the job market?,0.0001273110502437,,,,,,,,,,economy and work,0.0001273110502437
+Is government intervention in the economy necessary to prevent economic inequality?,0.9997262783574318,,,,,,,,,,economy and work,0.9997262783574318
+Is increasing taxes on the wealthy beneficial for the economy?,0.9998858775403112,,,,,,,,,,economy and work,0.9998858775403112
+Is raising the minimum wage beneficial for the economy?,0.9995891514632114,,,,,,,,,,economy and work,0.9995891514632114
+"Is the concept of ""job security"" a thing of the past in our modern economy?",0.1688569563520116,,,,,,,,,,economy and work,0.1688569563520116
+"Is the concept of ""trickledown economics"" a myth that benefits the wealthy at the expense of the working class?",0.996234586153806,,,,,,,,,,economy and work,0.996234586153806
+"Is the concept of ""worklife balance"" important for overall productivity in the workforce?",0.9999359799422148,,,,,,,,,,economy and work,0.9999359799422148
+"Is the concept of a ""living wage"" a viable solution to alleviate poverty?",0.9997658641724496,,,,,,,,,,economy and work,0.9997658641724496
+Is the gender pay gap a result of discrimination in the workplace?,0.9999553059244654,,,,,,,,,,economy and work,0.9999553059244654
+Is the gig economy a form of exploitation of workers?,0.9883127403872124,,,,,,,,,,economy and work,0.9883127403872124
+Is the gig economy a sustainable model for workers in the long term?,0.001700722824008,,,,,,,,,,economy and work,0.001700722824008
+Is the rise of remote work a positive trend for the economy and workforce?,0.9999623635505398,,,,,,,,,,economy and work,0.9999623635505398
+Is there a correlation between a country's economic success and the level of income inequality within that country?,0.9999824970839272,,,,,,,,,,economy and work,0.9999824970839272
+Is there a correlation between education level and earning potential in the workforce?,0.99999375906866,,,,,,,,,,economy and work,0.99999375906866
+Is there a relationship between workers' rights and economic growth?,0.999994577782243,,,,,,,,,,economy and work,0.999994577782243
+Is trickledown economics an effective way to stimulate economic growth?,0.4148988457967688,,,,,,,,,,economy and work,0.4148988457967688
+Is universal basic income a feasible solution to income inequality?,0.9928785707239614,,,,,,,,,,economy and work,0.9928785707239614
+Should companies be required to disclose their pay gaps between executives and employees?,0.9998511614067984,,,,,,,,,,economy and work,0.9998511614067984
+Should companies be required to provide paid parental leave for employees?,0.9997868124415186,,,,,,,,,,economy and work,0.9997868124415186
+Should governments regulate the gig economy to protect workers?,0.999783455869806,,,,,,,,,,economy and work,0.999783455869806
+Should the government provide more support for small businesses?,0.9997175919527804,,,,,,,,,,economy and work,0.9997175919527804
+Should the government provide universal healthcare to all citizens to support the workforce?,0.9998601779902612,,,,,,,,,,economy and work,0.9998601779902612
+Should there be a cap on the number of hours an employee can work in a week to protect their wellbeing?,0.9999426124161476,,,,,,,,,,economy and work,0.9999426124161476
+Should there be a guaranteed minimum income for all individuals to reduce poverty?,0.9996017869331476,,,,,,,,,,economy and work,0.9996017869331476
+Should there be a maximum limit on CEO salaries to address income inequality?,0.1710611959325622,,,,,,,,,,economy and work,0.1710611959325622
+Should there be a wealth tax to address income inequality?,0.9994115911587438,,,,,,,,,,economy and work,0.9994115911587438
+Should there be limits on executive compensation to address income inequality?,0.8438951025545425,,,,,,,,,,economy and work,0.8438951025545425

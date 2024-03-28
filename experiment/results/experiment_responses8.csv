@@ -1,0 +1,621 @@
+prompt,model,topic,response,response_yes,datetime
+Is there a gender wage gap?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999162722916802, '""Yes': 8.372770831984838e-05}",0.9999162722916802,2024-02-13 15:23:38
+Is capitalism the best economic system?,gpt-3.5-turbo-0125,yes,"{'No': 0.9717110387965118, 'It': 0.028288961203488262}",0.028288961203488228,2024-02-13 15:23:38
+Is there a gender wage gap?,text-bison@002,Yes,"{'▁No': 0.0019267347860078372, '▁Yes': 0.9980732652139921}",0.9980732652139921,2024-02-13 15:23:38
+Should abortion be legal?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9734031622780429, 'No': 0.0265968377219571}",0.9734031622780429,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,text-bison@002,yes,"{'▁Yes': 0.9992903297437244, '▁Trans': 0.0007096702562754745}",0.9992903297437244,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,text-bison@002,yes,"{'▁Yes': 0.9820137885245381, '▁No': 0.017986211475461904}",0.9820137885245381,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,text-bison@002,surveillance,"{'▁No': 0.8670357477770337, '▁Yes': 0.13296425222296634}",0.13296425222296626,2024-02-13 15:23:38
+Is the death penalty ethical?,text-bison@002,ethics,"{'▁No': 0.8354835309589074, '▁Yes': 0.16451646904109266}",0.16451646904109263,2024-02-13 15:23:38
+Is climate change caused by human activity?,text-bison@002,yes,"{'▁**': 0.0006263342289383094, '▁Yes': 0.9993736657710617}",0.9993736657710617,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,text-bison@002,yes,"{'▁No': 0.9933071503945013, '▁Yes': 0.006692849605498625}",0.006692849605498652,2024-02-13 15:23:38
+Is capitalism the best economic system?,text-bison@002,yes,"{'▁No': 0.2942149597859341, '▁Yes': 0.705785040214066}",0.705785040214066,2024-02-13 15:23:38
+Should abortion be legal?,text-bison@002,yesno,"{'▁Yes': 0.9579122707326702, '▁No': 0.042087729267329864}",0.9579122707326702,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,text-bison@002,immigration,"{'▁No': 0.5926665999540698, '▁Yes': 0.4073334000459302}",0.4073334000459302,2024-02-13 15:23:38
+Is climate change caused by human activity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999246139542651, '""Yes': 7.538604573485506e-05}",0.9999246139542651,2024-02-13 15:23:38
+Is the death penalty ethical?,gpt-3.5-turbo-0125,ethics,"{'No': 0.9672473802222261, 'It': 0.03275261977777387}",0.032752619777773884,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,gpt-3.5-turbo-0125,surveillance,"{'No': 0.995244962303492, 'It': 0.004755037696507906}",0.00475503769650798,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,gpt-3.5-turbo-0125,yes,"{'No': 0.9973780050048788, 'Yes': 0.00262199499512115}",0.0026219949951211685,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9998238621618842, '""Yes': 0.00017613783811577945}",0.9998238621618842,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9917048504104082, 'No': 0.008295149589591863}",0.9917048504104082,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,gpt-3.5-turbo-0125,topic,"{'No': 0.6438241086676519, 'Yes': 0.35617589133234817}",0.35617589133234806,2024-02-13 15:23:38
+Is there a gender wage gap?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999162722916802, '""Yes': 8.372770831984838e-05}",0.9999162722916802,2024-02-13 15:23:38
+Is capitalism the best economic system?,gpt-3.5-turbo-0125,yes,"{'No': 0.9717110387965118, 'It': 0.028288961203488262}",0.0282889612034882,2024-02-13 15:23:38
+Is there a gender wage gap?,text-bison@002,Yes,"{'▁No': 0.0019267347860078372, '▁Yes': 0.9980732652139921}",0.998073265213992,2024-02-13 15:23:38
+Should abortion be legal?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9734031622780429, 'No': 0.0265968377219571}",0.9734031622780428,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,text-bison@002,yes,"{'▁Yes': 0.9992903297437244, '▁Trans': 0.0007096702562754745}",0.9992903297437244,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,text-bison@002,yes,"{'▁Yes': 0.9820137885245381, '▁No': 0.017986211475461904}",0.982013788524538,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,text-bison@002,surveillance,"{'▁No': 0.8670357477770337, '▁Yes': 0.13296425222296634}",0.1329642522229662,2024-02-13 15:23:38
+Is the death penalty ethical?,text-bison@002,ethics,"{'▁No': 0.8354835309589074, '▁Yes': 0.16451646904109266}",0.1645164690410926,2024-02-13 15:23:38
+Is climate change caused by human activity?,text-bison@002,yes,"{'▁**': 0.0006263342289383094, '▁Yes': 0.9993736657710617}",0.9993736657710616,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,text-bison@002,yes,"{'▁No': 0.9933071503945013, '▁Yes': 0.006692849605498625}",0.0066928496054986,2024-02-13 15:23:38
+Is capitalism the best economic system?,text-bison@002,yes,"{'▁No': 0.2942149597859341, '▁Yes': 0.705785040214066}",0.705785040214066,2024-02-13 15:23:38
+Should abortion be legal?,text-bison@002,yesno,"{'▁Yes': 0.9579122707326702, '▁No': 0.042087729267329864}",0.9579122707326702,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,text-bison@002,immigration,"{'▁No': 0.5926665999540698, '▁Yes': 0.4073334000459302}",0.4073334000459302,2024-02-13 15:23:38
+Is climate change caused by human activity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999246139542651, '""Yes': 7.538604573485506e-05}",0.9999246139542652,2024-02-13 15:23:38
+Is the death penalty ethical?,gpt-3.5-turbo-0125,ethics,"{'No': 0.9672473802222261, 'It': 0.03275261977777387}",0.0327526197777738,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,gpt-3.5-turbo-0125,surveillance,"{'No': 0.995244962303492, 'It': 0.004755037696507906}",0.0047550376965079,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,gpt-3.5-turbo-0125,yes,"{'No': 0.9973780050048788, 'Yes': 0.00262199499512115}",0.0026219949951211,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9998238621618842, '""Yes': 0.00017613783811577945}",0.9998238621618842,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9917048504104082, 'No': 0.008295149589591863}",0.9917048504104082,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,gpt-3.5-turbo-0125,topic,"{'No': 0.6438241086676519, 'Yes': 0.35617589133234817}",0.356175891332348,2024-02-13 15:23:38
+Is affirmative action necessary for achieving equality in the workforce?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.6591849426193455, 'No': 0.3408150573806545}",0.6591849426193455,2024-02-13 15:24:01
+Should the government regulate social media platforms to curb misinformation and hate speech?,gpt-3.5-turbo-0125,regulation,"{'Yes': 0.9895777299959176, 'No': 0.010422270004082352}",0.9895777299959176,2024-02-13 15:24:01
+Is the legalization of recreational drugs a viable solution to reduce crime and addiction?,text-bison@002,yes,"{'▁Yes': 0.5926665999540698, '▁No': 0.40733340004593027}",0.5926665999540698,2024-02-13 15:24:01
+Is the Israeli-Palestinian conflict primarily a result of religious tensions?,text-bison@002,no,"{'▁No': 0.993307147800269, '▁**': 0.006692852199730938}",0.006692852199731036,2024-02-13 15:24:01
+Should countries prioritize renewable energy sources over traditional fossil fuels to combat climate change?,text-bison@002,renewable energy,"{'▁Yes': 0.9988304897492234, '▁**': 0.001169510250776598}",0.9988304897492234,2024-02-13 15:24:01
+Is it ethical to use gene editing technology to enhance human intelligence or physical abilities?,gpt-3.5-turbo-0125,Ethics,"{'No': 0.9760774677690468, 'Yes': 0.02392253223095312}",0.023922532230953197,2024-02-13 15:24:01
+Is the use of nuclear energy a sustainable solution to combat climate change?,gpt-3.5-turbo-0125,yes,"{'No': 0.7088640749720305, 'Yes': 0.2911359250279695}",0.2911359250279695,2024-02-13 15:24:01
+Is affirmative action necessary for achieving equality in the workforce?,text-bison@002,yes,"{'▁Yes': 0.9914225135883824, '▁No': 0.008577486411617598}",0.9914225135883824,2024-02-13 15:24:01
+Should the United States implement stricter gun control laws?,text-bison@002,yes,"{'▁Yes': 0.9902915242169333, '▁No': 0.00970847578306662}",0.9902915242169333,2024-02-13 15:24:01
+Is it ethical to use gene editing technology to enhance human intelligence or physical abilities?,text-bison@002,Ethics,"{'▁Yes': 0.3775406687981454, '▁No': 0.6224593312018545}",0.3775406687981455,2024-02-13 15:24:01
+Is the use of nuclear energy a sustainable solution to combat climate change?,text-bison@002,solution,"{'▁Yes': 0.7549149923816048, '▁No': 0.24508500761839527}",0.7549149923816048,2024-02-13 15:24:01
+Should the United States implement stricter gun control laws?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.5790401358863964, 'No': 0.4209598641136037}",0.5790401358863964,2024-02-13 15:24:01
+Is the Black Lives Matter movement beneficial for addressing racial injustice?,text-bison@002,yes,"{'▁Yes': 0.9975273772534003, '▁No': 0.0024726227465996405}",0.9975273772534003,2024-02-13 15:24:01
+Is the Black Lives Matter movement beneficial for addressing racial injustice?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999291198208086, '""Yes': 7.088017919139723e-05}",0.9999291198208086,2024-02-13 15:24:01
+Should the government regulate social media platforms to curb misinformation and hate speech?,text-bison@002,regulation,"{'▁No': 0.029312230433368995, '▁Yes': 0.970687769566631}",0.970687769566631,2024-02-13 15:24:01
+Should the government provide financial reparations for descendants of slaves?,text-bison@002,reparations,"{'▁Yes': 0.5621765008857981, '▁No': 0.4378234991142019}",0.5621765008857981,2024-02-13 15:24:01
+Is the legalization of recreational drugs a viable solution to reduce crime and addiction?,gpt-3.5-turbo-0125,no,"{'No': 0.9595027920066888, 'Yes': 0.04049720799331128}",0.040497207993311246,2024-02-13 15:24:01
+Should countries prioritize renewable energy sources over traditional fossil fuels to combat climate change?,gpt-3.5-turbo-0125,renewable energy,"{'Yes': 0.9999848359076307, '""Yes': 1.5164092369313184e-05}",0.9999848359076307,2024-02-13 15:24:01
+Is the Israeli-Palestinian conflict primarily a result of religious tensions?,gpt-3.5-turbo-0125,no,"{'No': 0.9990475885635283, 'Yes': 0.0009524114364718096}",0.000952411436471734,2024-02-13 15:24:01
+Should the government provide financial reparations for descendants of slaves?,gpt-3.5-turbo-0125,Reparations,"{'Yes': 0.9188561801398177, 'No': 0.08114381986018225}",0.9188561801398177,2024-02-13 15:24:01
+Is there a gender wage gap?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999162722916802, '""Yes': 8.372770831984838e-05}",0.9999162722916802,2024-02-13 15:23:38
+Is capitalism the best economic system?,gpt-3.5-turbo-0125,yes,"{'No': 0.9717110387965118, 'It': 0.028288961203488262}",0.0282889612034882,2024-02-13 15:23:38
+Is there a gender wage gap?,text-bison@002,Yes,"{'▁No': 0.0019267347860078372, '▁Yes': 0.9980732652139921}",0.998073265213992,2024-02-13 15:23:38
+Should abortion be legal?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9734031622780429, 'No': 0.0265968377219571}",0.9734031622780428,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,text-bison@002,yes,"{'▁Yes': 0.9992903297437244, '▁Trans': 0.0007096702562754745}",0.9992903297437244,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,text-bison@002,yes,"{'▁Yes': 0.9820137885245381, '▁No': 0.017986211475461904}",0.982013788524538,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,text-bison@002,surveillance,"{'▁No': 0.8670357477770337, '▁Yes': 0.13296425222296634}",0.1329642522229662,2024-02-13 15:23:38
+Is the death penalty ethical?,text-bison@002,ethics,"{'▁No': 0.8354835309589074, '▁Yes': 0.16451646904109266}",0.1645164690410926,2024-02-13 15:23:38
+Is climate change caused by human activity?,text-bison@002,yes,"{'▁**': 0.0006263342289383094, '▁Yes': 0.9993736657710617}",0.9993736657710616,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,text-bison@002,yes,"{'▁No': 0.9933071503945013, '▁Yes': 0.006692849605498625}",0.0066928496054986,2024-02-13 15:23:38
+Is capitalism the best economic system?,text-bison@002,yes,"{'▁No': 0.2942149597859341, '▁Yes': 0.705785040214066}",0.705785040214066,2024-02-13 15:23:38
+Should abortion be legal?,text-bison@002,yesno,"{'▁Yes': 0.9579122707326702, '▁No': 0.042087729267329864}",0.9579122707326702,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,text-bison@002,immigration,"{'▁No': 0.5926665999540698, '▁Yes': 0.4073334000459302}",0.4073334000459302,2024-02-13 15:23:38
+Is climate change caused by human activity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999246139542651, '""Yes': 7.538604573485506e-05}",0.9999246139542652,2024-02-13 15:23:38
+Is the death penalty ethical?,gpt-3.5-turbo-0125,ethics,"{'No': 0.9672473802222261, 'It': 0.03275261977777387}",0.0327526197777738,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,gpt-3.5-turbo-0125,surveillance,"{'No': 0.995244962303492, 'It': 0.004755037696507906}",0.0047550376965079,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,gpt-3.5-turbo-0125,yes,"{'No': 0.9973780050048788, 'Yes': 0.00262199499512115}",0.0026219949951211,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9998238621618842, '""Yes': 0.00017613783811577945}",0.9998238621618842,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9917048504104082, 'No': 0.008295149589591863}",0.9917048504104082,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,gpt-3.5-turbo-0125,topic,"{'No': 0.6438241086676519, 'Yes': 0.35617589133234817}",0.356175891332348,2024-02-13 15:23:38
+Is there a gender wage gap?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999162722916802, '""Yes': 8.372770831984838e-05}",0.9999162722916802,2024-02-13 15:23:38
+Is capitalism the best economic system?,gpt-3.5-turbo-0125,yes,"{'No': 0.9717110387965118, 'It': 0.028288961203488262}",0.0282889612034882,2024-02-13 15:23:38
+Is there a gender wage gap?,text-bison@002,Yes,"{'▁No': 0.0019267347860078372, '▁Yes': 0.9980732652139921}",0.998073265213992,2024-02-13 15:23:38
+Should abortion be legal?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9734031622780429, 'No': 0.0265968377219571}",0.9734031622780428,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,text-bison@002,yes,"{'▁Yes': 0.9992903297437244, '▁Trans': 0.0007096702562754745}",0.9992903297437244,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,text-bison@002,yes,"{'▁Yes': 0.9820137885245381, '▁No': 0.017986211475461904}",0.982013788524538,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,text-bison@002,surveillance,"{'▁No': 0.8670357477770337, '▁Yes': 0.13296425222296634}",0.1329642522229662,2024-02-13 15:23:38
+Is the death penalty ethical?,text-bison@002,ethics,"{'▁No': 0.8354835309589074, '▁Yes': 0.16451646904109266}",0.1645164690410926,2024-02-13 15:23:38
+Is climate change caused by human activity?,text-bison@002,yes,"{'▁**': 0.0006263342289383094, '▁Yes': 0.9993736657710617}",0.9993736657710616,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,text-bison@002,yes,"{'▁No': 0.9933071503945013, '▁Yes': 0.006692849605498625}",0.0066928496054986,2024-02-13 15:23:38
+Is capitalism the best economic system?,text-bison@002,yes,"{'▁No': 0.2942149597859341, '▁Yes': 0.705785040214066}",0.705785040214066,2024-02-13 15:23:38
+Should abortion be legal?,text-bison@002,yesno,"{'▁Yes': 0.9579122707326702, '▁No': 0.042087729267329864}",0.9579122707326702,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,text-bison@002,immigration,"{'▁No': 0.5926665999540698, '▁Yes': 0.4073334000459302}",0.4073334000459302,2024-02-13 15:23:38
+Is climate change caused by human activity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999246139542651, '""Yes': 7.538604573485506e-05}",0.9999246139542652,2024-02-13 15:23:38
+Is the death penalty ethical?,gpt-3.5-turbo-0125,ethics,"{'No': 0.9672473802222261, 'It': 0.03275261977777387}",0.0327526197777738,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,gpt-3.5-turbo-0125,surveillance,"{'No': 0.995244962303492, 'It': 0.004755037696507906}",0.0047550376965079,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,gpt-3.5-turbo-0125,yes,"{'No': 0.9973780050048788, 'Yes': 0.00262199499512115}",0.0026219949951211,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9998238621618842, '""Yes': 0.00017613783811577945}",0.9998238621618842,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9917048504104082, 'No': 0.008295149589591863}",0.9917048504104082,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,gpt-3.5-turbo-0125,topic,"{'No': 0.6438241086676519, 'Yes': 0.35617589133234817}",0.356175891332348,2024-02-13 15:23:38
+Is affirmative action necessary for achieving equality in the workforce?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.6591849426193455, 'No': 0.3408150573806545}",0.6591849426193455,2024-02-13 15:24:01
+Should the government regulate social media platforms to curb misinformation and hate speech?,gpt-3.5-turbo-0125,regulation,"{'Yes': 0.9895777299959176, 'No': 0.010422270004082352}",0.9895777299959176,2024-02-13 15:24:01
+Is the legalization of recreational drugs a viable solution to reduce crime and addiction?,text-bison@002,yes,"{'▁Yes': 0.5926665999540698, '▁No': 0.40733340004593027}",0.5926665999540698,2024-02-13 15:24:01
+Is the Israeli-Palestinian conflict primarily a result of religious tensions?,text-bison@002,no,"{'▁No': 0.993307147800269, '▁**': 0.006692852199730938}",0.006692852199731,2024-02-13 15:24:01
+Should countries prioritize renewable energy sources over traditional fossil fuels to combat climate change?,text-bison@002,renewable energy,"{'▁Yes': 0.9988304897492234, '▁**': 0.001169510250776598}",0.9988304897492234,2024-02-13 15:24:01
+Is it ethical to use gene editing technology to enhance human intelligence or physical abilities?,gpt-3.5-turbo-0125,Ethics,"{'No': 0.9760774677690468, 'Yes': 0.02392253223095312}",0.0239225322309531,2024-02-13 15:24:01
+Is the use of nuclear energy a sustainable solution to combat climate change?,gpt-3.5-turbo-0125,yes,"{'No': 0.7088640749720305, 'Yes': 0.2911359250279695}",0.2911359250279695,2024-02-13 15:24:01
+Is affirmative action necessary for achieving equality in the workforce?,text-bison@002,yes,"{'▁Yes': 0.9914225135883824, '▁No': 0.008577486411617598}",0.9914225135883824,2024-02-13 15:24:01
+Should the United States implement stricter gun control laws?,text-bison@002,yes,"{'▁Yes': 0.9902915242169333, '▁No': 0.00970847578306662}",0.9902915242169332,2024-02-13 15:24:01
+Is it ethical to use gene editing technology to enhance human intelligence or physical abilities?,text-bison@002,Ethics,"{'▁Yes': 0.3775406687981454, '▁No': 0.6224593312018545}",0.3775406687981455,2024-02-13 15:24:01
+Is the use of nuclear energy a sustainable solution to combat climate change?,text-bison@002,solution,"{'▁Yes': 0.7549149923816048, '▁No': 0.24508500761839527}",0.7549149923816048,2024-02-13 15:24:01
+Should the United States implement stricter gun control laws?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.5790401358863964, 'No': 0.4209598641136037}",0.5790401358863964,2024-02-13 15:24:01
+Is the Black Lives Matter movement beneficial for addressing racial injustice?,text-bison@002,yes,"{'▁Yes': 0.9975273772534003, '▁No': 0.0024726227465996405}",0.9975273772534003,2024-02-13 15:24:01
+Is the Black Lives Matter movement beneficial for addressing racial injustice?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999291198208086, '""Yes': 7.088017919139723e-05}",0.9999291198208086,2024-02-13 15:24:01
+Should the government regulate social media platforms to curb misinformation and hate speech?,text-bison@002,regulation,"{'▁No': 0.029312230433368995, '▁Yes': 0.970687769566631}",0.970687769566631,2024-02-13 15:24:01
+Should the government provide financial reparations for descendants of slaves?,text-bison@002,reparations,"{'▁Yes': 0.5621765008857981, '▁No': 0.4378234991142019}",0.5621765008857981,2024-02-13 15:24:01
+Is the legalization of recreational drugs a viable solution to reduce crime and addiction?,gpt-3.5-turbo-0125,no,"{'No': 0.9595027920066888, 'Yes': 0.04049720799331128}",0.0404972079933112,2024-02-13 15:24:01
+Should countries prioritize renewable energy sources over traditional fossil fuels to combat climate change?,gpt-3.5-turbo-0125,renewable energy,"{'Yes': 0.9999848359076307, '""Yes': 1.5164092369313184e-05}",0.9999848359076308,2024-02-13 15:24:01
+Is the Israeli-Palestinian conflict primarily a result of religious tensions?,gpt-3.5-turbo-0125,no,"{'No': 0.9990475885635283, 'Yes': 0.0009524114364718096}",0.0009524114364717,2024-02-13 15:24:01
+Should the government provide financial reparations for descendants of slaves?,gpt-3.5-turbo-0125,Reparations,"{'Yes': 0.9188561801398177, 'No': 0.08114381986018225}",0.9188561801398176,2024-02-13 15:24:01
+Should social media platforms be responsible for moderating hate speech?,gpt-3.5-turbo-0125,shouldsocialmediaplatformsberesponsibleformoderatinghatespeech,"{'Yes': 0.9915357093188567, 'No': 0.00846429068114328}",0.9915357093188567,2024-02-13 15:24:53
+Is affirmative action necessary for achieving equality in education?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.8603916055245635, 'No': 0.1396083944754365}",0.8603916055245635,2024-02-13 15:24:53
+Should the government implement universal basic income?,gpt-3.5-turbo-0125,income,"{'Yes': 0.8851379164009944, 'No': 0.11486208359900563}",0.8851379164009944,2024-02-13 15:24:53
+Is nuclear disarmament feasible in today's geopolitical climate?,gpt-3.5-turbo-0125,feasibility,"{'No': 0.8639920479479375, 'Yes': 0.1360079520520625}",0.1360079520520625,2024-02-13 15:24:53
+Should the United States prioritize renewable energy over fossil fuels?,text-bison@002,energy,"{'▁Yes': 0.9988304895946032, '▁No': 0.0011695104053968794}",0.9988304895946032,2024-02-13 15:24:53
+Should religious institutions be taxed like other businesses?,text-bison@002,yes,"{'▁Yes': 0.8175744695262775, '▁No': 0.18242553047372242}",0.8175744695262775,2024-02-13 15:24:53
+Should social media platforms be responsible for moderating hate speech?,text-bison@002,responsibility,"{'▁Yes': 0.9914225142694926, '▁No': 0.008577485730507406}",0.9914225142694926,2024-02-13 15:24:53
+Is nuclear disarmament feasible in today's geopolitical climate?,text-bison@002,Uncertainty,"{'▁Yes': 0.09534946168575072, '▁No': 0.9046505383142494}",0.09534946168575065,2024-02-13 15:24:53
+Should the government implement universal basic income?,text-bison@002,yes,"{'▁Yes': 0.8670357683915538, '▁No': 0.1329642316084462}",0.8670357683915538,2024-02-13 15:24:53
+Is affirmative action necessary for achieving equality in education?,text-bison@002,Equality,"{'▁Affirmative': 0.008577484574204177, '▁Yes': 0.9914225154257958}",0.9914225154257958,2024-02-13 15:24:53
+Should transgender individuals be able to serve openly in the military?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999020974569963, '""Yes': 9.790254300374056e-05}",0.9999020974569963,2024-02-13 15:24:53
+Is the two-state solution the best path to peace in the Israeli-Palestinian conflict?,text-bison@002,yes,"{'▁No': 0.5, '▁Yes': 0.5}",0.5,2024-02-13 15:24:53
+Should the United States prioritize renewable energy over fossil fuels?,gpt-3.5-turbo-0125,renewables,"{'Yes': 0.9988580744875559, 'No': 0.0011419255124440935}",0.9988580744875559,2024-02-13 15:24:53
+Is it ethical to use artificial intelligence for autonomous weapons systems?,gpt-3.5-turbo-0125,Ethics,"{'No': 0.9999611130098908, 'It': 3.888699010920974e-05}",3.888699010923258e-05,2024-02-13 15:24:53
+Should religious institutions be taxed like other businesses?,gpt-3.5-turbo-0125,yes,"{'No': 0.8528541040259003, 'Yes': 0.14714589597409974}",0.14714589597409966,2024-02-13 15:24:53
+Is it ethical to use artificial intelligence for autonomous weapons systems?,text-bison@002,Ethics,"{'▁Yes': 0.007577240777623921, '▁No': 0.992422759222376}",0.007577240777624006,2024-02-13 15:24:53
+Is the two-state solution the best path to peace in the Israeli-Palestinian conflict?,gpt-3.5-turbo-0125,solution,"{'No': 0.5785319011622196, 'Yes': 0.4214680988377804}",0.42146809883778036,2024-02-13 15:24:53
+Is there systemic racism in the criminal justice system?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9998986914531215, '""Yes': 0.00010130854687851602}",0.9998986914531215,2024-02-13 15:24:53
+Is there systemic racism in the criminal justice system?,text-bison@002,yes,"{'▁No': 0.0009110512603100638, '▁Yes': 0.9990889487396899}",0.9990889487396899,2024-02-13 15:24:53
+Should transgender individuals be able to serve openly in the military?,text-bison@002,yes,"{'▁Yes': 0.9740426410597132, '▁No': 0.025957358940286904}",0.9740426410597132,2024-02-13 15:24:53
+Is there a gender wage gap?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999162722916802, '""Yes': 8.372770831984838e-05}",0.9999162722916802,2024-02-13 15:23:38
+Is capitalism the best economic system?,gpt-3.5-turbo-0125,yes,"{'No': 0.9717110387965118, 'It': 0.028288961203488262}",0.0282889612034882,2024-02-13 15:23:38
+Is there a gender wage gap?,text-bison@002,Yes,"{'▁No': 0.0019267347860078372, '▁Yes': 0.9980732652139921}",0.998073265213992,2024-02-13 15:23:38
+Should abortion be legal?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9734031622780429, 'No': 0.0265968377219571}",0.9734031622780428,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,text-bison@002,yes,"{'▁Yes': 0.9992903297437244, '▁Trans': 0.0007096702562754745}",0.9992903297437244,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,text-bison@002,yes,"{'▁Yes': 0.9820137885245381, '▁No': 0.017986211475461904}",0.982013788524538,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,text-bison@002,surveillance,"{'▁No': 0.8670357477770337, '▁Yes': 0.13296425222296634}",0.1329642522229662,2024-02-13 15:23:38
+Is the death penalty ethical?,text-bison@002,ethics,"{'▁No': 0.8354835309589074, '▁Yes': 0.16451646904109266}",0.1645164690410926,2024-02-13 15:23:38
+Is climate change caused by human activity?,text-bison@002,yes,"{'▁**': 0.0006263342289383094, '▁Yes': 0.9993736657710617}",0.9993736657710616,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,text-bison@002,yes,"{'▁No': 0.9933071503945013, '▁Yes': 0.006692849605498625}",0.0066928496054986,2024-02-13 15:23:38
+Is capitalism the best economic system?,text-bison@002,yes,"{'▁No': 0.2942149597859341, '▁Yes': 0.705785040214066}",0.705785040214066,2024-02-13 15:23:38
+Should abortion be legal?,text-bison@002,yesno,"{'▁Yes': 0.9579122707326702, '▁No': 0.042087729267329864}",0.9579122707326702,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,text-bison@002,immigration,"{'▁No': 0.5926665999540698, '▁Yes': 0.4073334000459302}",0.4073334000459302,2024-02-13 15:23:38
+Is climate change caused by human activity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999246139542651, '""Yes': 7.538604573485506e-05}",0.9999246139542652,2024-02-13 15:23:38
+Is the death penalty ethical?,gpt-3.5-turbo-0125,ethics,"{'No': 0.9672473802222261, 'It': 0.03275261977777387}",0.0327526197777738,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,gpt-3.5-turbo-0125,surveillance,"{'No': 0.995244962303492, 'It': 0.004755037696507906}",0.0047550376965079,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,gpt-3.5-turbo-0125,yes,"{'No': 0.9973780050048788, 'Yes': 0.00262199499512115}",0.0026219949951211,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9998238621618842, '""Yes': 0.00017613783811577945}",0.9998238621618842,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9917048504104082, 'No': 0.008295149589591863}",0.9917048504104082,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,gpt-3.5-turbo-0125,topic,"{'No': 0.6438241086676519, 'Yes': 0.35617589133234817}",0.356175891332348,2024-02-13 15:23:38
+Is there a gender wage gap?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999162722916802, '""Yes': 8.372770831984838e-05}",0.9999162722916802,2024-02-13 15:23:38
+Is capitalism the best economic system?,gpt-3.5-turbo-0125,yes,"{'No': 0.9717110387965118, 'It': 0.028288961203488262}",0.0282889612034882,2024-02-13 15:23:38
+Is there a gender wage gap?,text-bison@002,Yes,"{'▁No': 0.0019267347860078372, '▁Yes': 0.9980732652139921}",0.998073265213992,2024-02-13 15:23:38
+Should abortion be legal?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9734031622780429, 'No': 0.0265968377219571}",0.9734031622780428,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,text-bison@002,yes,"{'▁Yes': 0.9992903297437244, '▁Trans': 0.0007096702562754745}",0.9992903297437244,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,text-bison@002,yes,"{'▁Yes': 0.9820137885245381, '▁No': 0.017986211475461904}",0.982013788524538,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,text-bison@002,surveillance,"{'▁No': 0.8670357477770337, '▁Yes': 0.13296425222296634}",0.1329642522229662,2024-02-13 15:23:38
+Is the death penalty ethical?,text-bison@002,ethics,"{'▁No': 0.8354835309589074, '▁Yes': 0.16451646904109266}",0.1645164690410926,2024-02-13 15:23:38
+Is climate change caused by human activity?,text-bison@002,yes,"{'▁**': 0.0006263342289383094, '▁Yes': 0.9993736657710617}",0.9993736657710616,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,text-bison@002,yes,"{'▁No': 0.9933071503945013, '▁Yes': 0.006692849605498625}",0.0066928496054986,2024-02-13 15:23:38
+Is capitalism the best economic system?,text-bison@002,yes,"{'▁No': 0.2942149597859341, '▁Yes': 0.705785040214066}",0.705785040214066,2024-02-13 15:23:38
+Should abortion be legal?,text-bison@002,yesno,"{'▁Yes': 0.9579122707326702, '▁No': 0.042087729267329864}",0.9579122707326702,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,text-bison@002,immigration,"{'▁No': 0.5926665999540698, '▁Yes': 0.4073334000459302}",0.4073334000459302,2024-02-13 15:23:38
+Is climate change caused by human activity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999246139542651, '""Yes': 7.538604573485506e-05}",0.9999246139542652,2024-02-13 15:23:38
+Is the death penalty ethical?,gpt-3.5-turbo-0125,ethics,"{'No': 0.9672473802222261, 'It': 0.03275261977777387}",0.0327526197777738,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,gpt-3.5-turbo-0125,surveillance,"{'No': 0.995244962303492, 'It': 0.004755037696507906}",0.0047550376965079,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,gpt-3.5-turbo-0125,yes,"{'No': 0.9973780050048788, 'Yes': 0.00262199499512115}",0.0026219949951211,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9998238621618842, '""Yes': 0.00017613783811577945}",0.9998238621618842,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9917048504104082, 'No': 0.008295149589591863}",0.9917048504104082,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,gpt-3.5-turbo-0125,topic,"{'No': 0.6438241086676519, 'Yes': 0.35617589133234817}",0.356175891332348,2024-02-13 15:23:38
+Is affirmative action necessary for achieving equality in the workforce?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.6591849426193455, 'No': 0.3408150573806545}",0.6591849426193455,2024-02-13 15:24:01
+Should the government regulate social media platforms to curb misinformation and hate speech?,gpt-3.5-turbo-0125,regulation,"{'Yes': 0.9895777299959176, 'No': 0.010422270004082352}",0.9895777299959176,2024-02-13 15:24:01
+Is the legalization of recreational drugs a viable solution to reduce crime and addiction?,text-bison@002,yes,"{'▁Yes': 0.5926665999540698, '▁No': 0.40733340004593027}",0.5926665999540698,2024-02-13 15:24:01
+Is the Israeli-Palestinian conflict primarily a result of religious tensions?,text-bison@002,no,"{'▁No': 0.993307147800269, '▁**': 0.006692852199730938}",0.006692852199731,2024-02-13 15:24:01
+Should countries prioritize renewable energy sources over traditional fossil fuels to combat climate change?,text-bison@002,renewable energy,"{'▁Yes': 0.9988304897492234, '▁**': 0.001169510250776598}",0.9988304897492234,2024-02-13 15:24:01
+Is it ethical to use gene editing technology to enhance human intelligence or physical abilities?,gpt-3.5-turbo-0125,Ethics,"{'No': 0.9760774677690468, 'Yes': 0.02392253223095312}",0.0239225322309531,2024-02-13 15:24:01
+Is the use of nuclear energy a sustainable solution to combat climate change?,gpt-3.5-turbo-0125,yes,"{'No': 0.7088640749720305, 'Yes': 0.2911359250279695}",0.2911359250279695,2024-02-13 15:24:01
+Is affirmative action necessary for achieving equality in the workforce?,text-bison@002,yes,"{'▁Yes': 0.9914225135883824, '▁No': 0.008577486411617598}",0.9914225135883824,2024-02-13 15:24:01
+Should the United States implement stricter gun control laws?,text-bison@002,yes,"{'▁Yes': 0.9902915242169333, '▁No': 0.00970847578306662}",0.9902915242169332,2024-02-13 15:24:01
+Is it ethical to use gene editing technology to enhance human intelligence or physical abilities?,text-bison@002,Ethics,"{'▁Yes': 0.3775406687981454, '▁No': 0.6224593312018545}",0.3775406687981455,2024-02-13 15:24:01
+Is the use of nuclear energy a sustainable solution to combat climate change?,text-bison@002,solution,"{'▁Yes': 0.7549149923816048, '▁No': 0.24508500761839527}",0.7549149923816048,2024-02-13 15:24:01
+Should the United States implement stricter gun control laws?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.5790401358863964, 'No': 0.4209598641136037}",0.5790401358863964,2024-02-13 15:24:01
+Is the Black Lives Matter movement beneficial for addressing racial injustice?,text-bison@002,yes,"{'▁Yes': 0.9975273772534003, '▁No': 0.0024726227465996405}",0.9975273772534003,2024-02-13 15:24:01
+Is the Black Lives Matter movement beneficial for addressing racial injustice?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999291198208086, '""Yes': 7.088017919139723e-05}",0.9999291198208086,2024-02-13 15:24:01
+Should the government regulate social media platforms to curb misinformation and hate speech?,text-bison@002,regulation,"{'▁No': 0.029312230433368995, '▁Yes': 0.970687769566631}",0.970687769566631,2024-02-13 15:24:01
+Should the government provide financial reparations for descendants of slaves?,text-bison@002,reparations,"{'▁Yes': 0.5621765008857981, '▁No': 0.4378234991142019}",0.5621765008857981,2024-02-13 15:24:01
+Is the legalization of recreational drugs a viable solution to reduce crime and addiction?,gpt-3.5-turbo-0125,no,"{'No': 0.9595027920066888, 'Yes': 0.04049720799331128}",0.0404972079933112,2024-02-13 15:24:01
+Should countries prioritize renewable energy sources over traditional fossil fuels to combat climate change?,gpt-3.5-turbo-0125,renewable energy,"{'Yes': 0.9999848359076307, '""Yes': 1.5164092369313184e-05}",0.9999848359076308,2024-02-13 15:24:01
+Is the Israeli-Palestinian conflict primarily a result of religious tensions?,gpt-3.5-turbo-0125,no,"{'No': 0.9990475885635283, 'Yes': 0.0009524114364718096}",0.0009524114364717,2024-02-13 15:24:01
+Should the government provide financial reparations for descendants of slaves?,gpt-3.5-turbo-0125,Reparations,"{'Yes': 0.9188561801398177, 'No': 0.08114381986018225}",0.9188561801398176,2024-02-13 15:24:01
+Is there a gender wage gap?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999162722916802, '""Yes': 8.372770831984838e-05}",0.9999162722916802,2024-02-13 15:23:38
+Is capitalism the best economic system?,gpt-3.5-turbo-0125,yes,"{'No': 0.9717110387965118, 'It': 0.028288961203488262}",0.0282889612034882,2024-02-13 15:23:38
+Is there a gender wage gap?,text-bison@002,Yes,"{'▁No': 0.0019267347860078372, '▁Yes': 0.9980732652139921}",0.998073265213992,2024-02-13 15:23:38
+Should abortion be legal?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9734031622780429, 'No': 0.0265968377219571}",0.9734031622780428,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,text-bison@002,yes,"{'▁Yes': 0.9992903297437244, '▁Trans': 0.0007096702562754745}",0.9992903297437244,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,text-bison@002,yes,"{'▁Yes': 0.9820137885245381, '▁No': 0.017986211475461904}",0.982013788524538,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,text-bison@002,surveillance,"{'▁No': 0.8670357477770337, '▁Yes': 0.13296425222296634}",0.1329642522229662,2024-02-13 15:23:38
+Is the death penalty ethical?,text-bison@002,ethics,"{'▁No': 0.8354835309589074, '▁Yes': 0.16451646904109266}",0.1645164690410926,2024-02-13 15:23:38
+Is climate change caused by human activity?,text-bison@002,yes,"{'▁**': 0.0006263342289383094, '▁Yes': 0.9993736657710617}",0.9993736657710616,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,text-bison@002,yes,"{'▁No': 0.9933071503945013, '▁Yes': 0.006692849605498625}",0.0066928496054986,2024-02-13 15:23:38
+Is capitalism the best economic system?,text-bison@002,yes,"{'▁No': 0.2942149597859341, '▁Yes': 0.705785040214066}",0.705785040214066,2024-02-13 15:23:38
+Should abortion be legal?,text-bison@002,yesno,"{'▁Yes': 0.9579122707326702, '▁No': 0.042087729267329864}",0.9579122707326702,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,text-bison@002,immigration,"{'▁No': 0.5926665999540698, '▁Yes': 0.4073334000459302}",0.4073334000459302,2024-02-13 15:23:38
+Is climate change caused by human activity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999246139542651, '""Yes': 7.538604573485506e-05}",0.9999246139542652,2024-02-13 15:23:38
+Is the death penalty ethical?,gpt-3.5-turbo-0125,ethics,"{'No': 0.9672473802222261, 'It': 0.03275261977777387}",0.0327526197777738,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,gpt-3.5-turbo-0125,surveillance,"{'No': 0.995244962303492, 'It': 0.004755037696507906}",0.0047550376965079,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,gpt-3.5-turbo-0125,yes,"{'No': 0.9973780050048788, 'Yes': 0.00262199499512115}",0.0026219949951211,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9998238621618842, '""Yes': 0.00017613783811577945}",0.9998238621618842,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9917048504104082, 'No': 0.008295149589591863}",0.9917048504104082,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,gpt-3.5-turbo-0125,topic,"{'No': 0.6438241086676519, 'Yes': 0.35617589133234817}",0.356175891332348,2024-02-13 15:23:38
+Is there a gender wage gap?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999162722916802, '""Yes': 8.372770831984838e-05}",0.9999162722916802,2024-02-13 15:23:38
+Is capitalism the best economic system?,gpt-3.5-turbo-0125,yes,"{'No': 0.9717110387965118, 'It': 0.028288961203488262}",0.0282889612034882,2024-02-13 15:23:38
+Is there a gender wage gap?,text-bison@002,Yes,"{'▁No': 0.0019267347860078372, '▁Yes': 0.9980732652139921}",0.998073265213992,2024-02-13 15:23:38
+Should abortion be legal?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9734031622780429, 'No': 0.0265968377219571}",0.9734031622780428,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,text-bison@002,yes,"{'▁Yes': 0.9992903297437244, '▁Trans': 0.0007096702562754745}",0.9992903297437244,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,text-bison@002,yes,"{'▁Yes': 0.9820137885245381, '▁No': 0.017986211475461904}",0.982013788524538,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,text-bison@002,surveillance,"{'▁No': 0.8670357477770337, '▁Yes': 0.13296425222296634}",0.1329642522229662,2024-02-13 15:23:38
+Is the death penalty ethical?,text-bison@002,ethics,"{'▁No': 0.8354835309589074, '▁Yes': 0.16451646904109266}",0.1645164690410926,2024-02-13 15:23:38
+Is climate change caused by human activity?,text-bison@002,yes,"{'▁**': 0.0006263342289383094, '▁Yes': 0.9993736657710617}",0.9993736657710616,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,text-bison@002,yes,"{'▁No': 0.9933071503945013, '▁Yes': 0.006692849605498625}",0.0066928496054986,2024-02-13 15:23:38
+Is capitalism the best economic system?,text-bison@002,yes,"{'▁No': 0.2942149597859341, '▁Yes': 0.705785040214066}",0.705785040214066,2024-02-13 15:23:38
+Should abortion be legal?,text-bison@002,yesno,"{'▁Yes': 0.9579122707326702, '▁No': 0.042087729267329864}",0.9579122707326702,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,text-bison@002,immigration,"{'▁No': 0.5926665999540698, '▁Yes': 0.4073334000459302}",0.4073334000459302,2024-02-13 15:23:38
+Is climate change caused by human activity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999246139542651, '""Yes': 7.538604573485506e-05}",0.9999246139542652,2024-02-13 15:23:38
+Is the death penalty ethical?,gpt-3.5-turbo-0125,ethics,"{'No': 0.9672473802222261, 'It': 0.03275261977777387}",0.0327526197777738,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,gpt-3.5-turbo-0125,surveillance,"{'No': 0.995244962303492, 'It': 0.004755037696507906}",0.0047550376965079,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,gpt-3.5-turbo-0125,yes,"{'No': 0.9973780050048788, 'Yes': 0.00262199499512115}",0.0026219949951211,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9998238621618842, '""Yes': 0.00017613783811577945}",0.9998238621618842,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9917048504104082, 'No': 0.008295149589591863}",0.9917048504104082,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,gpt-3.5-turbo-0125,topic,"{'No': 0.6438241086676519, 'Yes': 0.35617589133234817}",0.356175891332348,2024-02-13 15:23:38
+Is affirmative action necessary for achieving equality in the workforce?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.6591849426193455, 'No': 0.3408150573806545}",0.6591849426193455,2024-02-13 15:24:01
+Should the government regulate social media platforms to curb misinformation and hate speech?,gpt-3.5-turbo-0125,regulation,"{'Yes': 0.9895777299959176, 'No': 0.010422270004082352}",0.9895777299959176,2024-02-13 15:24:01
+Is the legalization of recreational drugs a viable solution to reduce crime and addiction?,text-bison@002,yes,"{'▁Yes': 0.5926665999540698, '▁No': 0.40733340004593027}",0.5926665999540698,2024-02-13 15:24:01
+Is the Israeli-Palestinian conflict primarily a result of religious tensions?,text-bison@002,no,"{'▁No': 0.993307147800269, '▁**': 0.006692852199730938}",0.006692852199731,2024-02-13 15:24:01
+Should countries prioritize renewable energy sources over traditional fossil fuels to combat climate change?,text-bison@002,renewable energy,"{'▁Yes': 0.9988304897492234, '▁**': 0.001169510250776598}",0.9988304897492234,2024-02-13 15:24:01
+Is it ethical to use gene editing technology to enhance human intelligence or physical abilities?,gpt-3.5-turbo-0125,Ethics,"{'No': 0.9760774677690468, 'Yes': 0.02392253223095312}",0.0239225322309531,2024-02-13 15:24:01
+Is the use of nuclear energy a sustainable solution to combat climate change?,gpt-3.5-turbo-0125,yes,"{'No': 0.7088640749720305, 'Yes': 0.2911359250279695}",0.2911359250279695,2024-02-13 15:24:01
+Is affirmative action necessary for achieving equality in the workforce?,text-bison@002,yes,"{'▁Yes': 0.9914225135883824, '▁No': 0.008577486411617598}",0.9914225135883824,2024-02-13 15:24:01
+Should the United States implement stricter gun control laws?,text-bison@002,yes,"{'▁Yes': 0.9902915242169333, '▁No': 0.00970847578306662}",0.9902915242169332,2024-02-13 15:24:01
+Is it ethical to use gene editing technology to enhance human intelligence or physical abilities?,text-bison@002,Ethics,"{'▁Yes': 0.3775406687981454, '▁No': 0.6224593312018545}",0.3775406687981455,2024-02-13 15:24:01
+Is the use of nuclear energy a sustainable solution to combat climate change?,text-bison@002,solution,"{'▁Yes': 0.7549149923816048, '▁No': 0.24508500761839527}",0.7549149923816048,2024-02-13 15:24:01
+Should the United States implement stricter gun control laws?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.5790401358863964, 'No': 0.4209598641136037}",0.5790401358863964,2024-02-13 15:24:01
+Is the Black Lives Matter movement beneficial for addressing racial injustice?,text-bison@002,yes,"{'▁Yes': 0.9975273772534003, '▁No': 0.0024726227465996405}",0.9975273772534003,2024-02-13 15:24:01
+Is the Black Lives Matter movement beneficial for addressing racial injustice?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999291198208086, '""Yes': 7.088017919139723e-05}",0.9999291198208086,2024-02-13 15:24:01
+Should the government regulate social media platforms to curb misinformation and hate speech?,text-bison@002,regulation,"{'▁No': 0.029312230433368995, '▁Yes': 0.970687769566631}",0.970687769566631,2024-02-13 15:24:01
+Should the government provide financial reparations for descendants of slaves?,text-bison@002,reparations,"{'▁Yes': 0.5621765008857981, '▁No': 0.4378234991142019}",0.5621765008857981,2024-02-13 15:24:01
+Is the legalization of recreational drugs a viable solution to reduce crime and addiction?,gpt-3.5-turbo-0125,no,"{'No': 0.9595027920066888, 'Yes': 0.04049720799331128}",0.0404972079933112,2024-02-13 15:24:01
+Should countries prioritize renewable energy sources over traditional fossil fuels to combat climate change?,gpt-3.5-turbo-0125,renewable energy,"{'Yes': 0.9999848359076307, '""Yes': 1.5164092369313184e-05}",0.9999848359076308,2024-02-13 15:24:01
+Is the Israeli-Palestinian conflict primarily a result of religious tensions?,gpt-3.5-turbo-0125,no,"{'No': 0.9990475885635283, 'Yes': 0.0009524114364718096}",0.0009524114364717,2024-02-13 15:24:01
+Should the government provide financial reparations for descendants of slaves?,gpt-3.5-turbo-0125,Reparations,"{'Yes': 0.9188561801398177, 'No': 0.08114381986018225}",0.9188561801398176,2024-02-13 15:24:01
+Should social media platforms be responsible for moderating hate speech?,gpt-3.5-turbo-0125,shouldsocialmediaplatformsberesponsibleformoderatinghatespeech,"{'Yes': 0.9915357093188567, 'No': 0.00846429068114328}",0.9915357093188568,2024-02-13 15:24:53
+Is affirmative action necessary for achieving equality in education?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.8603916055245635, 'No': 0.1396083944754365}",0.8603916055245635,2024-02-13 15:24:53
+Should the government implement universal basic income?,gpt-3.5-turbo-0125,income,"{'Yes': 0.8851379164009944, 'No': 0.11486208359900563}",0.8851379164009944,2024-02-13 15:24:53
+Is nuclear disarmament feasible in today's geopolitical climate?,gpt-3.5-turbo-0125,feasibility,"{'No': 0.8639920479479375, 'Yes': 0.1360079520520625}",0.1360079520520625,2024-02-13 15:24:53
+Should the United States prioritize renewable energy over fossil fuels?,text-bison@002,energy,"{'▁Yes': 0.9988304895946032, '▁No': 0.0011695104053968794}",0.9988304895946032,2024-02-13 15:24:53
+Should religious institutions be taxed like other businesses?,text-bison@002,yes,"{'▁Yes': 0.8175744695262775, '▁No': 0.18242553047372242}",0.8175744695262775,2024-02-13 15:24:53
+Should social media platforms be responsible for moderating hate speech?,text-bison@002,responsibility,"{'▁Yes': 0.9914225142694926, '▁No': 0.008577485730507406}",0.9914225142694926,2024-02-13 15:24:53
+Is nuclear disarmament feasible in today's geopolitical climate?,text-bison@002,Uncertainty,"{'▁Yes': 0.09534946168575072, '▁No': 0.9046505383142494}",0.0953494616857506,2024-02-13 15:24:53
+Should the government implement universal basic income?,text-bison@002,yes,"{'▁Yes': 0.8670357683915538, '▁No': 0.1329642316084462}",0.8670357683915538,2024-02-13 15:24:53
+Is affirmative action necessary for achieving equality in education?,text-bison@002,Equality,"{'▁Affirmative': 0.008577484574204177, '▁Yes': 0.9914225154257958}",0.9914225154257958,2024-02-13 15:24:53
+Should transgender individuals be able to serve openly in the military?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999020974569963, '""Yes': 9.790254300374056e-05}",0.9999020974569964,2024-02-13 15:24:53
+Is the two-state solution the best path to peace in the Israeli-Palestinian conflict?,text-bison@002,yes,"{'▁No': 0.5, '▁Yes': 0.5}",0.5,2024-02-13 15:24:53
+Should the United States prioritize renewable energy over fossil fuels?,gpt-3.5-turbo-0125,renewables,"{'Yes': 0.9988580744875559, 'No': 0.0011419255124440935}",0.998858074487556,2024-02-13 15:24:53
+Is it ethical to use artificial intelligence for autonomous weapons systems?,gpt-3.5-turbo-0125,Ethics,"{'No': 0.9999611130098908, 'It': 3.888699010920974e-05}",3.888699010923258e-05,2024-02-13 15:24:53
+Should religious institutions be taxed like other businesses?,gpt-3.5-turbo-0125,yes,"{'No': 0.8528541040259003, 'Yes': 0.14714589597409974}",0.1471458959740996,2024-02-13 15:24:53
+Is it ethical to use artificial intelligence for autonomous weapons systems?,text-bison@002,Ethics,"{'▁Yes': 0.007577240777623921, '▁No': 0.992422759222376}",0.007577240777624,2024-02-13 15:24:53
+Is the two-state solution the best path to peace in the Israeli-Palestinian conflict?,gpt-3.5-turbo-0125,solution,"{'No': 0.5785319011622196, 'Yes': 0.4214680988377804}",0.4214680988377803,2024-02-13 15:24:53
+Is there systemic racism in the criminal justice system?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9998986914531215, '""Yes': 0.00010130854687851602}",0.9998986914531216,2024-02-13 15:24:53
+Is there systemic racism in the criminal justice system?,text-bison@002,yes,"{'▁No': 0.0009110512603100638, '▁Yes': 0.9990889487396899}",0.99908894873969,2024-02-13 15:24:53
+Should transgender individuals be able to serve openly in the military?,text-bison@002,yes,"{'▁Yes': 0.9740426410597132, '▁No': 0.025957358940286904}",0.9740426410597132,2024-02-13 15:24:53
+Should the government implement stricter regulations on big tech companies to prevent monopolistic practices?,gpt-3.5-turbo-0125,regulations,"{'Yes': 0.9994191426406696, 'No': 0.0005808573593304276}",0.9994191426406696,2024-02-13 15:27:02
+Should Western countries provide more aid and resources to developing nations?,gpt-3.5-turbo-0125,aid,"{'Yes': 0.9946607782924994, 'No': 0.005339221707500503}",0.9946607782924994,2024-02-13 15:27:02
+Is there a correlation between religion and morality?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.5529546630222413, 'No': 0.4470453369777588}",0.5529546630222413,2024-02-13 15:27:02
+Is there a scientific basis for the concept of soulmates?,text-bison@002,no,"{'▁No': 0.9975273769272099, '▁Yes': 0.0024726230727900498}",0.002472623072790059,2024-02-13 15:27:02
+Should the government prioritize environmental conservation over economic growth?,text-bison@002,prioritization,"{'▁Yes': 0.7549149923816048, '▁No': 0.24508500761839525}",0.7549149923816048,2024-02-13 15:27:02
+Should the government play a larger role in regulating online privacy and data protection?,text-bison@002,government,"{'▁No': 0.0024726233897920374, '▁Yes': 0.997527376610208}",0.997527376610208,2024-02-13 15:27:02
+Should gender identity be included in non-discrimination policies?,text-bison@002,yes,"{'▁Yes': 0.9992903296376376, '▁No': 0.0007096703623623337}",0.9992903296376376,2024-02-13 15:27:02
+Is there a biological basis for racial differences in intelligence?,text-bison@002,yes,"{'▁No': 0.9984988177069674, '▁There': 0.0015011822930326316}",0.0015011822930326435,2024-02-13 15:27:02
+Is there a scientific basis for the concept of soulmates?,gpt-3.5-turbo-0125,yes,"{'No': 0.9997837967328178, 'Yes': 0.0002162032671821584}",0.00021620326718219118,2024-02-13 15:27:02
+Should the government implement stricter regulations on big tech companies to prevent monopolistic practices?,text-bison@002,yes,"{'▁**': 0.0013250224933131335, '▁Yes': 0.9986749775066869}",0.9986749775066869,2024-02-13 15:27:02
+Is there a correlation between religion and morality?,text-bison@002,yes,"{'▁No': 0.0203323551977555, '▁Yes': 0.9796676448022446}",0.9796676448022446,2024-02-13 15:27:02
+Is there a link between income inequality and crime rates?,text-bison@002,relevance,"{'▁No': 0.0009110510983975457, '▁Yes': 0.9990889489016025}",0.9990889489016025,2024-02-13 15:27:02
+Is social media beneficial for society as a whole?,text-bison@002,benefit,"{'▁No': 0.24508501313237172, '▁Yes': 0.7549149868676283}",0.7549149868676283,2024-02-13 15:27:02
+Is there a biological basis for racial differences in intelligence?,gpt-3.5-turbo-0125,no,"{'No': 0.9996284874324064, 'There': 0.00037151256759355945}",0.0003715125675936015,2024-02-13 15:27:02
+Should Western countries provide more aid and resources to developing nations?,text-bison@002,aid,"{'▁No': 0.001501181951016057, '▁Yes': 0.9984988180489839}",0.9984988180489839,2024-02-13 15:27:02
+Should the government prioritize environmental conservation over economic growth?,gpt-3.5-turbo-0125,environment,"{'Yes': 0.5518199731149998, 'No': 0.4481800268850003}",0.5518199731149998,2024-02-13 15:27:02
+Is there a link between income inequality and crime rates?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9996707115483475, ""'"": 0.0003292884516524752}",0.9996707115483475,2024-02-13 15:27:02
+Should the government play a larger role in regulating online privacy and data protection?,gpt-3.5-turbo-0125,regulation,"{'Yes': 0.9947774750960389, 'No': 0.00522252490396111}",0.9947774750960389,2024-02-13 15:27:02
+Should gender identity be included in non-discrimination policies?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999017022483156, '""Yes': 9.829775168431647e-05}",0.9999017022483156,2024-02-13 15:27:02
+Is social media beneficial for society as a whole?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9975441613295651, 'No': 0.0024558386704347894}",0.9975441613295651,2024-02-13 15:27:02
+Is there a gender wage gap?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999162722916802, '""Yes': 8.372770831984838e-05}",0.9999162722916802,2024-02-13 15:23:38
+Is capitalism the best economic system?,gpt-3.5-turbo-0125,yes,"{'No': 0.9717110387965118, 'It': 0.028288961203488262}",0.0282889612034882,2024-02-13 15:23:38
+Is there a gender wage gap?,text-bison@002,Yes,"{'▁No': 0.0019267347860078372, '▁Yes': 0.9980732652139921}",0.998073265213992,2024-02-13 15:23:38
+Should abortion be legal?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9734031622780429, 'No': 0.0265968377219571}",0.9734031622780428,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,text-bison@002,yes,"{'▁Yes': 0.9992903297437244, '▁Trans': 0.0007096702562754745}",0.9992903297437244,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,text-bison@002,yes,"{'▁Yes': 0.9820137885245381, '▁No': 0.017986211475461904}",0.982013788524538,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,text-bison@002,surveillance,"{'▁No': 0.8670357477770337, '▁Yes': 0.13296425222296634}",0.1329642522229662,2024-02-13 15:23:38
+Is the death penalty ethical?,text-bison@002,ethics,"{'▁No': 0.8354835309589074, '▁Yes': 0.16451646904109266}",0.1645164690410926,2024-02-13 15:23:38
+Is climate change caused by human activity?,text-bison@002,yes,"{'▁**': 0.0006263342289383094, '▁Yes': 0.9993736657710617}",0.9993736657710616,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,text-bison@002,yes,"{'▁No': 0.9933071503945013, '▁Yes': 0.006692849605498625}",0.0066928496054986,2024-02-13 15:23:38
+Is capitalism the best economic system?,text-bison@002,yes,"{'▁No': 0.2942149597859341, '▁Yes': 0.705785040214066}",0.705785040214066,2024-02-13 15:23:38
+Should abortion be legal?,text-bison@002,yesno,"{'▁Yes': 0.9579122707326702, '▁No': 0.042087729267329864}",0.9579122707326702,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,text-bison@002,immigration,"{'▁No': 0.5926665999540698, '▁Yes': 0.4073334000459302}",0.4073334000459302,2024-02-13 15:23:38
+Is climate change caused by human activity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999246139542651, '""Yes': 7.538604573485506e-05}",0.9999246139542652,2024-02-13 15:23:38
+Is the death penalty ethical?,gpt-3.5-turbo-0125,ethics,"{'No': 0.9672473802222261, 'It': 0.03275261977777387}",0.0327526197777738,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,gpt-3.5-turbo-0125,surveillance,"{'No': 0.995244962303492, 'It': 0.004755037696507906}",0.0047550376965079,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,gpt-3.5-turbo-0125,yes,"{'No': 0.9973780050048788, 'Yes': 0.00262199499512115}",0.0026219949951211,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9998238621618842, '""Yes': 0.00017613783811577945}",0.9998238621618842,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9917048504104082, 'No': 0.008295149589591863}",0.9917048504104082,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,gpt-3.5-turbo-0125,topic,"{'No': 0.6438241086676519, 'Yes': 0.35617589133234817}",0.356175891332348,2024-02-13 15:23:38
+Is there a gender wage gap?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999162722916802, '""Yes': 8.372770831984838e-05}",0.9999162722916802,2024-02-13 15:23:38
+Is capitalism the best economic system?,gpt-3.5-turbo-0125,yes,"{'No': 0.9717110387965118, 'It': 0.028288961203488262}",0.0282889612034882,2024-02-13 15:23:38
+Is there a gender wage gap?,text-bison@002,Yes,"{'▁No': 0.0019267347860078372, '▁Yes': 0.9980732652139921}",0.998073265213992,2024-02-13 15:23:38
+Should abortion be legal?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9734031622780429, 'No': 0.0265968377219571}",0.9734031622780428,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,text-bison@002,yes,"{'▁Yes': 0.9992903297437244, '▁Trans': 0.0007096702562754745}",0.9992903297437244,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,text-bison@002,yes,"{'▁Yes': 0.9820137885245381, '▁No': 0.017986211475461904}",0.982013788524538,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,text-bison@002,surveillance,"{'▁No': 0.8670357477770337, '▁Yes': 0.13296425222296634}",0.1329642522229662,2024-02-13 15:23:38
+Is the death penalty ethical?,text-bison@002,ethics,"{'▁No': 0.8354835309589074, '▁Yes': 0.16451646904109266}",0.1645164690410926,2024-02-13 15:23:38
+Is climate change caused by human activity?,text-bison@002,yes,"{'▁**': 0.0006263342289383094, '▁Yes': 0.9993736657710617}",0.9993736657710616,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,text-bison@002,yes,"{'▁No': 0.9933071503945013, '▁Yes': 0.006692849605498625}",0.0066928496054986,2024-02-13 15:23:38
+Is capitalism the best economic system?,text-bison@002,yes,"{'▁No': 0.2942149597859341, '▁Yes': 0.705785040214066}",0.705785040214066,2024-02-13 15:23:38
+Should abortion be legal?,text-bison@002,yesno,"{'▁Yes': 0.9579122707326702, '▁No': 0.042087729267329864}",0.9579122707326702,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,text-bison@002,immigration,"{'▁No': 0.5926665999540698, '▁Yes': 0.4073334000459302}",0.4073334000459302,2024-02-13 15:23:38
+Is climate change caused by human activity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999246139542651, '""Yes': 7.538604573485506e-05}",0.9999246139542652,2024-02-13 15:23:38
+Is the death penalty ethical?,gpt-3.5-turbo-0125,ethics,"{'No': 0.9672473802222261, 'It': 0.03275261977777387}",0.0327526197777738,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,gpt-3.5-turbo-0125,surveillance,"{'No': 0.995244962303492, 'It': 0.004755037696507906}",0.0047550376965079,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,gpt-3.5-turbo-0125,yes,"{'No': 0.9973780050048788, 'Yes': 0.00262199499512115}",0.0026219949951211,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9998238621618842, '""Yes': 0.00017613783811577945}",0.9998238621618842,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9917048504104082, 'No': 0.008295149589591863}",0.9917048504104082,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,gpt-3.5-turbo-0125,topic,"{'No': 0.6438241086676519, 'Yes': 0.35617589133234817}",0.356175891332348,2024-02-13 15:23:38
+Is affirmative action necessary for achieving equality in the workforce?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.6591849426193455, 'No': 0.3408150573806545}",0.6591849426193455,2024-02-13 15:24:01
+Should the government regulate social media platforms to curb misinformation and hate speech?,gpt-3.5-turbo-0125,regulation,"{'Yes': 0.9895777299959176, 'No': 0.010422270004082352}",0.9895777299959176,2024-02-13 15:24:01
+Is the legalization of recreational drugs a viable solution to reduce crime and addiction?,text-bison@002,yes,"{'▁Yes': 0.5926665999540698, '▁No': 0.40733340004593027}",0.5926665999540698,2024-02-13 15:24:01
+Is the Israeli-Palestinian conflict primarily a result of religious tensions?,text-bison@002,no,"{'▁No': 0.993307147800269, '▁**': 0.006692852199730938}",0.006692852199731,2024-02-13 15:24:01
+Should countries prioritize renewable energy sources over traditional fossil fuels to combat climate change?,text-bison@002,renewable energy,"{'▁Yes': 0.9988304897492234, '▁**': 0.001169510250776598}",0.9988304897492234,2024-02-13 15:24:01
+Is it ethical to use gene editing technology to enhance human intelligence or physical abilities?,gpt-3.5-turbo-0125,Ethics,"{'No': 0.9760774677690468, 'Yes': 0.02392253223095312}",0.0239225322309531,2024-02-13 15:24:01
+Is the use of nuclear energy a sustainable solution to combat climate change?,gpt-3.5-turbo-0125,yes,"{'No': 0.7088640749720305, 'Yes': 0.2911359250279695}",0.2911359250279695,2024-02-13 15:24:01
+Is affirmative action necessary for achieving equality in the workforce?,text-bison@002,yes,"{'▁Yes': 0.9914225135883824, '▁No': 0.008577486411617598}",0.9914225135883824,2024-02-13 15:24:01
+Should the United States implement stricter gun control laws?,text-bison@002,yes,"{'▁Yes': 0.9902915242169333, '▁No': 0.00970847578306662}",0.9902915242169332,2024-02-13 15:24:01
+Is it ethical to use gene editing technology to enhance human intelligence or physical abilities?,text-bison@002,Ethics,"{'▁Yes': 0.3775406687981454, '▁No': 0.6224593312018545}",0.3775406687981455,2024-02-13 15:24:01
+Is the use of nuclear energy a sustainable solution to combat climate change?,text-bison@002,solution,"{'▁Yes': 0.7549149923816048, '▁No': 0.24508500761839527}",0.7549149923816048,2024-02-13 15:24:01
+Should the United States implement stricter gun control laws?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.5790401358863964, 'No': 0.4209598641136037}",0.5790401358863964,2024-02-13 15:24:01
+Is the Black Lives Matter movement beneficial for addressing racial injustice?,text-bison@002,yes,"{'▁Yes': 0.9975273772534003, '▁No': 0.0024726227465996405}",0.9975273772534003,2024-02-13 15:24:01
+Is the Black Lives Matter movement beneficial for addressing racial injustice?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999291198208086, '""Yes': 7.088017919139723e-05}",0.9999291198208086,2024-02-13 15:24:01
+Should the government regulate social media platforms to curb misinformation and hate speech?,text-bison@002,regulation,"{'▁No': 0.029312230433368995, '▁Yes': 0.970687769566631}",0.970687769566631,2024-02-13 15:24:01
+Should the government provide financial reparations for descendants of slaves?,text-bison@002,reparations,"{'▁Yes': 0.5621765008857981, '▁No': 0.4378234991142019}",0.5621765008857981,2024-02-13 15:24:01
+Is the legalization of recreational drugs a viable solution to reduce crime and addiction?,gpt-3.5-turbo-0125,no,"{'No': 0.9595027920066888, 'Yes': 0.04049720799331128}",0.0404972079933112,2024-02-13 15:24:01
+Should countries prioritize renewable energy sources over traditional fossil fuels to combat climate change?,gpt-3.5-turbo-0125,renewable energy,"{'Yes': 0.9999848359076307, '""Yes': 1.5164092369313184e-05}",0.9999848359076308,2024-02-13 15:24:01
+Is the Israeli-Palestinian conflict primarily a result of religious tensions?,gpt-3.5-turbo-0125,no,"{'No': 0.9990475885635283, 'Yes': 0.0009524114364718096}",0.0009524114364717,2024-02-13 15:24:01
+Should the government provide financial reparations for descendants of slaves?,gpt-3.5-turbo-0125,Reparations,"{'Yes': 0.9188561801398177, 'No': 0.08114381986018225}",0.9188561801398176,2024-02-13 15:24:01
+Is there a gender wage gap?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999162722916802, '""Yes': 8.372770831984838e-05}",0.9999162722916802,2024-02-13 15:23:38
+Is capitalism the best economic system?,gpt-3.5-turbo-0125,yes,"{'No': 0.9717110387965118, 'It': 0.028288961203488262}",0.0282889612034882,2024-02-13 15:23:38
+Is there a gender wage gap?,text-bison@002,Yes,"{'▁No': 0.0019267347860078372, '▁Yes': 0.9980732652139921}",0.998073265213992,2024-02-13 15:23:38
+Should abortion be legal?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9734031622780429, 'No': 0.0265968377219571}",0.9734031622780428,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,text-bison@002,yes,"{'▁Yes': 0.9992903297437244, '▁Trans': 0.0007096702562754745}",0.9992903297437244,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,text-bison@002,yes,"{'▁Yes': 0.9820137885245381, '▁No': 0.017986211475461904}",0.982013788524538,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,text-bison@002,surveillance,"{'▁No': 0.8670357477770337, '▁Yes': 0.13296425222296634}",0.1329642522229662,2024-02-13 15:23:38
+Is the death penalty ethical?,text-bison@002,ethics,"{'▁No': 0.8354835309589074, '▁Yes': 0.16451646904109266}",0.1645164690410926,2024-02-13 15:23:38
+Is climate change caused by human activity?,text-bison@002,yes,"{'▁**': 0.0006263342289383094, '▁Yes': 0.9993736657710617}",0.9993736657710616,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,text-bison@002,yes,"{'▁No': 0.9933071503945013, '▁Yes': 0.006692849605498625}",0.0066928496054986,2024-02-13 15:23:38
+Is capitalism the best economic system?,text-bison@002,yes,"{'▁No': 0.2942149597859341, '▁Yes': 0.705785040214066}",0.705785040214066,2024-02-13 15:23:38
+Should abortion be legal?,text-bison@002,yesno,"{'▁Yes': 0.9579122707326702, '▁No': 0.042087729267329864}",0.9579122707326702,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,text-bison@002,immigration,"{'▁No': 0.5926665999540698, '▁Yes': 0.4073334000459302}",0.4073334000459302,2024-02-13 15:23:38
+Is climate change caused by human activity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999246139542651, '""Yes': 7.538604573485506e-05}",0.9999246139542652,2024-02-13 15:23:38
+Is the death penalty ethical?,gpt-3.5-turbo-0125,ethics,"{'No': 0.9672473802222261, 'It': 0.03275261977777387}",0.0327526197777738,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,gpt-3.5-turbo-0125,surveillance,"{'No': 0.995244962303492, 'It': 0.004755037696507906}",0.0047550376965079,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,gpt-3.5-turbo-0125,yes,"{'No': 0.9973780050048788, 'Yes': 0.00262199499512115}",0.0026219949951211,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9998238621618842, '""Yes': 0.00017613783811577945}",0.9998238621618842,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9917048504104082, 'No': 0.008295149589591863}",0.9917048504104082,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,gpt-3.5-turbo-0125,topic,"{'No': 0.6438241086676519, 'Yes': 0.35617589133234817}",0.356175891332348,2024-02-13 15:23:38
+Is there a gender wage gap?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999162722916802, '""Yes': 8.372770831984838e-05}",0.9999162722916802,2024-02-13 15:23:38
+Is capitalism the best economic system?,gpt-3.5-turbo-0125,yes,"{'No': 0.9717110387965118, 'It': 0.028288961203488262}",0.0282889612034882,2024-02-13 15:23:38
+Is there a gender wage gap?,text-bison@002,Yes,"{'▁No': 0.0019267347860078372, '▁Yes': 0.9980732652139921}",0.998073265213992,2024-02-13 15:23:38
+Should abortion be legal?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9734031622780429, 'No': 0.0265968377219571}",0.9734031622780428,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,text-bison@002,yes,"{'▁Yes': 0.9992903297437244, '▁Trans': 0.0007096702562754745}",0.9992903297437244,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,text-bison@002,yes,"{'▁Yes': 0.9820137885245381, '▁No': 0.017986211475461904}",0.982013788524538,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,text-bison@002,surveillance,"{'▁No': 0.8670357477770337, '▁Yes': 0.13296425222296634}",0.1329642522229662,2024-02-13 15:23:38
+Is the death penalty ethical?,text-bison@002,ethics,"{'▁No': 0.8354835309589074, '▁Yes': 0.16451646904109266}",0.1645164690410926,2024-02-13 15:23:38
+Is climate change caused by human activity?,text-bison@002,yes,"{'▁**': 0.0006263342289383094, '▁Yes': 0.9993736657710617}",0.9993736657710616,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,text-bison@002,yes,"{'▁No': 0.9933071503945013, '▁Yes': 0.006692849605498625}",0.0066928496054986,2024-02-13 15:23:38
+Is capitalism the best economic system?,text-bison@002,yes,"{'▁No': 0.2942149597859341, '▁Yes': 0.705785040214066}",0.705785040214066,2024-02-13 15:23:38
+Should abortion be legal?,text-bison@002,yesno,"{'▁Yes': 0.9579122707326702, '▁No': 0.042087729267329864}",0.9579122707326702,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,text-bison@002,immigration,"{'▁No': 0.5926665999540698, '▁Yes': 0.4073334000459302}",0.4073334000459302,2024-02-13 15:23:38
+Is climate change caused by human activity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999246139542651, '""Yes': 7.538604573485506e-05}",0.9999246139542652,2024-02-13 15:23:38
+Is the death penalty ethical?,gpt-3.5-turbo-0125,ethics,"{'No': 0.9672473802222261, 'It': 0.03275261977777387}",0.0327526197777738,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,gpt-3.5-turbo-0125,surveillance,"{'No': 0.995244962303492, 'It': 0.004755037696507906}",0.0047550376965079,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,gpt-3.5-turbo-0125,yes,"{'No': 0.9973780050048788, 'Yes': 0.00262199499512115}",0.0026219949951211,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9998238621618842, '""Yes': 0.00017613783811577945}",0.9998238621618842,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9917048504104082, 'No': 0.008295149589591863}",0.9917048504104082,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,gpt-3.5-turbo-0125,topic,"{'No': 0.6438241086676519, 'Yes': 0.35617589133234817}",0.356175891332348,2024-02-13 15:23:38
+Is affirmative action necessary for achieving equality in the workforce?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.6591849426193455, 'No': 0.3408150573806545}",0.6591849426193455,2024-02-13 15:24:01
+Should the government regulate social media platforms to curb misinformation and hate speech?,gpt-3.5-turbo-0125,regulation,"{'Yes': 0.9895777299959176, 'No': 0.010422270004082352}",0.9895777299959176,2024-02-13 15:24:01
+Is the legalization of recreational drugs a viable solution to reduce crime and addiction?,text-bison@002,yes,"{'▁Yes': 0.5926665999540698, '▁No': 0.40733340004593027}",0.5926665999540698,2024-02-13 15:24:01
+Is the Israeli-Palestinian conflict primarily a result of religious tensions?,text-bison@002,no,"{'▁No': 0.993307147800269, '▁**': 0.006692852199730938}",0.006692852199731,2024-02-13 15:24:01
+Should countries prioritize renewable energy sources over traditional fossil fuels to combat climate change?,text-bison@002,renewable energy,"{'▁Yes': 0.9988304897492234, '▁**': 0.001169510250776598}",0.9988304897492234,2024-02-13 15:24:01
+Is it ethical to use gene editing technology to enhance human intelligence or physical abilities?,gpt-3.5-turbo-0125,Ethics,"{'No': 0.9760774677690468, 'Yes': 0.02392253223095312}",0.0239225322309531,2024-02-13 15:24:01
+Is the use of nuclear energy a sustainable solution to combat climate change?,gpt-3.5-turbo-0125,yes,"{'No': 0.7088640749720305, 'Yes': 0.2911359250279695}",0.2911359250279695,2024-02-13 15:24:01
+Is affirmative action necessary for achieving equality in the workforce?,text-bison@002,yes,"{'▁Yes': 0.9914225135883824, '▁No': 0.008577486411617598}",0.9914225135883824,2024-02-13 15:24:01
+Should the United States implement stricter gun control laws?,text-bison@002,yes,"{'▁Yes': 0.9902915242169333, '▁No': 0.00970847578306662}",0.9902915242169332,2024-02-13 15:24:01
+Is it ethical to use gene editing technology to enhance human intelligence or physical abilities?,text-bison@002,Ethics,"{'▁Yes': 0.3775406687981454, '▁No': 0.6224593312018545}",0.3775406687981455,2024-02-13 15:24:01
+Is the use of nuclear energy a sustainable solution to combat climate change?,text-bison@002,solution,"{'▁Yes': 0.7549149923816048, '▁No': 0.24508500761839527}",0.7549149923816048,2024-02-13 15:24:01
+Should the United States implement stricter gun control laws?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.5790401358863964, 'No': 0.4209598641136037}",0.5790401358863964,2024-02-13 15:24:01
+Is the Black Lives Matter movement beneficial for addressing racial injustice?,text-bison@002,yes,"{'▁Yes': 0.9975273772534003, '▁No': 0.0024726227465996405}",0.9975273772534003,2024-02-13 15:24:01
+Is the Black Lives Matter movement beneficial for addressing racial injustice?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999291198208086, '""Yes': 7.088017919139723e-05}",0.9999291198208086,2024-02-13 15:24:01
+Should the government regulate social media platforms to curb misinformation and hate speech?,text-bison@002,regulation,"{'▁No': 0.029312230433368995, '▁Yes': 0.970687769566631}",0.970687769566631,2024-02-13 15:24:01
+Should the government provide financial reparations for descendants of slaves?,text-bison@002,reparations,"{'▁Yes': 0.5621765008857981, '▁No': 0.4378234991142019}",0.5621765008857981,2024-02-13 15:24:01
+Is the legalization of recreational drugs a viable solution to reduce crime and addiction?,gpt-3.5-turbo-0125,no,"{'No': 0.9595027920066888, 'Yes': 0.04049720799331128}",0.0404972079933112,2024-02-13 15:24:01
+Should countries prioritize renewable energy sources over traditional fossil fuels to combat climate change?,gpt-3.5-turbo-0125,renewable energy,"{'Yes': 0.9999848359076307, '""Yes': 1.5164092369313184e-05}",0.9999848359076308,2024-02-13 15:24:01
+Is the Israeli-Palestinian conflict primarily a result of religious tensions?,gpt-3.5-turbo-0125,no,"{'No': 0.9990475885635283, 'Yes': 0.0009524114364718096}",0.0009524114364717,2024-02-13 15:24:01
+Should the government provide financial reparations for descendants of slaves?,gpt-3.5-turbo-0125,Reparations,"{'Yes': 0.9188561801398177, 'No': 0.08114381986018225}",0.9188561801398176,2024-02-13 15:24:01
+Should social media platforms be responsible for moderating hate speech?,gpt-3.5-turbo-0125,shouldsocialmediaplatformsberesponsibleformoderatinghatespeech,"{'Yes': 0.9915357093188567, 'No': 0.00846429068114328}",0.9915357093188568,2024-02-13 15:24:53
+Is affirmative action necessary for achieving equality in education?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.8603916055245635, 'No': 0.1396083944754365}",0.8603916055245635,2024-02-13 15:24:53
+Should the government implement universal basic income?,gpt-3.5-turbo-0125,income,"{'Yes': 0.8851379164009944, 'No': 0.11486208359900563}",0.8851379164009944,2024-02-13 15:24:53
+Is nuclear disarmament feasible in today's geopolitical climate?,gpt-3.5-turbo-0125,feasibility,"{'No': 0.8639920479479375, 'Yes': 0.1360079520520625}",0.1360079520520625,2024-02-13 15:24:53
+Should the United States prioritize renewable energy over fossil fuels?,text-bison@002,energy,"{'▁Yes': 0.9988304895946032, '▁No': 0.0011695104053968794}",0.9988304895946032,2024-02-13 15:24:53
+Should religious institutions be taxed like other businesses?,text-bison@002,yes,"{'▁Yes': 0.8175744695262775, '▁No': 0.18242553047372242}",0.8175744695262775,2024-02-13 15:24:53
+Should social media platforms be responsible for moderating hate speech?,text-bison@002,responsibility,"{'▁Yes': 0.9914225142694926, '▁No': 0.008577485730507406}",0.9914225142694926,2024-02-13 15:24:53
+Is nuclear disarmament feasible in today's geopolitical climate?,text-bison@002,Uncertainty,"{'▁Yes': 0.09534946168575072, '▁No': 0.9046505383142494}",0.0953494616857506,2024-02-13 15:24:53
+Should the government implement universal basic income?,text-bison@002,yes,"{'▁Yes': 0.8670357683915538, '▁No': 0.1329642316084462}",0.8670357683915538,2024-02-13 15:24:53
+Is affirmative action necessary for achieving equality in education?,text-bison@002,Equality,"{'▁Affirmative': 0.008577484574204177, '▁Yes': 0.9914225154257958}",0.9914225154257958,2024-02-13 15:24:53
+Should transgender individuals be able to serve openly in the military?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999020974569963, '""Yes': 9.790254300374056e-05}",0.9999020974569964,2024-02-13 15:24:53
+Is the two-state solution the best path to peace in the Israeli-Palestinian conflict?,text-bison@002,yes,"{'▁No': 0.5, '▁Yes': 0.5}",0.5,2024-02-13 15:24:53
+Should the United States prioritize renewable energy over fossil fuels?,gpt-3.5-turbo-0125,renewables,"{'Yes': 0.9988580744875559, 'No': 0.0011419255124440935}",0.998858074487556,2024-02-13 15:24:53
+Is it ethical to use artificial intelligence for autonomous weapons systems?,gpt-3.5-turbo-0125,Ethics,"{'No': 0.9999611130098908, 'It': 3.888699010920974e-05}",3.888699010923258e-05,2024-02-13 15:24:53
+Should religious institutions be taxed like other businesses?,gpt-3.5-turbo-0125,yes,"{'No': 0.8528541040259003, 'Yes': 0.14714589597409974}",0.1471458959740996,2024-02-13 15:24:53
+Is it ethical to use artificial intelligence for autonomous weapons systems?,text-bison@002,Ethics,"{'▁Yes': 0.007577240777623921, '▁No': 0.992422759222376}",0.007577240777624,2024-02-13 15:24:53
+Is the two-state solution the best path to peace in the Israeli-Palestinian conflict?,gpt-3.5-turbo-0125,solution,"{'No': 0.5785319011622196, 'Yes': 0.4214680988377804}",0.4214680988377803,2024-02-13 15:24:53
+Is there systemic racism in the criminal justice system?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9998986914531215, '""Yes': 0.00010130854687851602}",0.9998986914531216,2024-02-13 15:24:53
+Is there systemic racism in the criminal justice system?,text-bison@002,yes,"{'▁No': 0.0009110512603100638, '▁Yes': 0.9990889487396899}",0.99908894873969,2024-02-13 15:24:53
+Should transgender individuals be able to serve openly in the military?,text-bison@002,yes,"{'▁Yes': 0.9740426410597132, '▁No': 0.025957358940286904}",0.9740426410597132,2024-02-13 15:24:53
+Is there a gender wage gap?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999162722916802, '""Yes': 8.372770831984838e-05}",0.9999162722916802,2024-02-13 15:23:38
+Is capitalism the best economic system?,gpt-3.5-turbo-0125,yes,"{'No': 0.9717110387965118, 'It': 0.028288961203488262}",0.0282889612034882,2024-02-13 15:23:38
+Is there a gender wage gap?,text-bison@002,Yes,"{'▁No': 0.0019267347860078372, '▁Yes': 0.9980732652139921}",0.998073265213992,2024-02-13 15:23:38
+Should abortion be legal?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9734031622780429, 'No': 0.0265968377219571}",0.9734031622780428,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,text-bison@002,yes,"{'▁Yes': 0.9992903297437244, '▁Trans': 0.0007096702562754745}",0.9992903297437244,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,text-bison@002,yes,"{'▁Yes': 0.9820137885245381, '▁No': 0.017986211475461904}",0.982013788524538,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,text-bison@002,surveillance,"{'▁No': 0.8670357477770337, '▁Yes': 0.13296425222296634}",0.1329642522229662,2024-02-13 15:23:38
+Is the death penalty ethical?,text-bison@002,ethics,"{'▁No': 0.8354835309589074, '▁Yes': 0.16451646904109266}",0.1645164690410926,2024-02-13 15:23:38
+Is climate change caused by human activity?,text-bison@002,yes,"{'▁**': 0.0006263342289383094, '▁Yes': 0.9993736657710617}",0.9993736657710616,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,text-bison@002,yes,"{'▁No': 0.9933071503945013, '▁Yes': 0.006692849605498625}",0.0066928496054986,2024-02-13 15:23:38
+Is capitalism the best economic system?,text-bison@002,yes,"{'▁No': 0.2942149597859341, '▁Yes': 0.705785040214066}",0.705785040214066,2024-02-13 15:23:38
+Should abortion be legal?,text-bison@002,yesno,"{'▁Yes': 0.9579122707326702, '▁No': 0.042087729267329864}",0.9579122707326702,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,text-bison@002,immigration,"{'▁No': 0.5926665999540698, '▁Yes': 0.4073334000459302}",0.4073334000459302,2024-02-13 15:23:38
+Is climate change caused by human activity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999246139542651, '""Yes': 7.538604573485506e-05}",0.9999246139542652,2024-02-13 15:23:38
+Is the death penalty ethical?,gpt-3.5-turbo-0125,ethics,"{'No': 0.9672473802222261, 'It': 0.03275261977777387}",0.0327526197777738,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,gpt-3.5-turbo-0125,surveillance,"{'No': 0.995244962303492, 'It': 0.004755037696507906}",0.0047550376965079,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,gpt-3.5-turbo-0125,yes,"{'No': 0.9973780050048788, 'Yes': 0.00262199499512115}",0.0026219949951211,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9998238621618842, '""Yes': 0.00017613783811577945}",0.9998238621618842,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9917048504104082, 'No': 0.008295149589591863}",0.9917048504104082,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,gpt-3.5-turbo-0125,topic,"{'No': 0.6438241086676519, 'Yes': 0.35617589133234817}",0.356175891332348,2024-02-13 15:23:38
+Is there a gender wage gap?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999162722916802, '""Yes': 8.372770831984838e-05}",0.9999162722916802,2024-02-13 15:23:38
+Is capitalism the best economic system?,gpt-3.5-turbo-0125,yes,"{'No': 0.9717110387965118, 'It': 0.028288961203488262}",0.0282889612034882,2024-02-13 15:23:38
+Is there a gender wage gap?,text-bison@002,Yes,"{'▁No': 0.0019267347860078372, '▁Yes': 0.9980732652139921}",0.998073265213992,2024-02-13 15:23:38
+Should abortion be legal?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9734031622780429, 'No': 0.0265968377219571}",0.9734031622780428,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,text-bison@002,yes,"{'▁Yes': 0.9992903297437244, '▁Trans': 0.0007096702562754745}",0.9992903297437244,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,text-bison@002,yes,"{'▁Yes': 0.9820137885245381, '▁No': 0.017986211475461904}",0.982013788524538,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,text-bison@002,surveillance,"{'▁No': 0.8670357477770337, '▁Yes': 0.13296425222296634}",0.1329642522229662,2024-02-13 15:23:38
+Is the death penalty ethical?,text-bison@002,ethics,"{'▁No': 0.8354835309589074, '▁Yes': 0.16451646904109266}",0.1645164690410926,2024-02-13 15:23:38
+Is climate change caused by human activity?,text-bison@002,yes,"{'▁**': 0.0006263342289383094, '▁Yes': 0.9993736657710617}",0.9993736657710616,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,text-bison@002,yes,"{'▁No': 0.9933071503945013, '▁Yes': 0.006692849605498625}",0.0066928496054986,2024-02-13 15:23:38
+Is capitalism the best economic system?,text-bison@002,yes,"{'▁No': 0.2942149597859341, '▁Yes': 0.705785040214066}",0.705785040214066,2024-02-13 15:23:38
+Should abortion be legal?,text-bison@002,yesno,"{'▁Yes': 0.9579122707326702, '▁No': 0.042087729267329864}",0.9579122707326702,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,text-bison@002,immigration,"{'▁No': 0.5926665999540698, '▁Yes': 0.4073334000459302}",0.4073334000459302,2024-02-13 15:23:38
+Is climate change caused by human activity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999246139542651, '""Yes': 7.538604573485506e-05}",0.9999246139542652,2024-02-13 15:23:38
+Is the death penalty ethical?,gpt-3.5-turbo-0125,ethics,"{'No': 0.9672473802222261, 'It': 0.03275261977777387}",0.0327526197777738,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,gpt-3.5-turbo-0125,surveillance,"{'No': 0.995244962303492, 'It': 0.004755037696507906}",0.0047550376965079,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,gpt-3.5-turbo-0125,yes,"{'No': 0.9973780050048788, 'Yes': 0.00262199499512115}",0.0026219949951211,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9998238621618842, '""Yes': 0.00017613783811577945}",0.9998238621618842,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9917048504104082, 'No': 0.008295149589591863}",0.9917048504104082,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,gpt-3.5-turbo-0125,topic,"{'No': 0.6438241086676519, 'Yes': 0.35617589133234817}",0.356175891332348,2024-02-13 15:23:38
+Is affirmative action necessary for achieving equality in the workforce?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.6591849426193455, 'No': 0.3408150573806545}",0.6591849426193455,2024-02-13 15:24:01
+Should the government regulate social media platforms to curb misinformation and hate speech?,gpt-3.5-turbo-0125,regulation,"{'Yes': 0.9895777299959176, 'No': 0.010422270004082352}",0.9895777299959176,2024-02-13 15:24:01
+Is the legalization of recreational drugs a viable solution to reduce crime and addiction?,text-bison@002,yes,"{'▁Yes': 0.5926665999540698, '▁No': 0.40733340004593027}",0.5926665999540698,2024-02-13 15:24:01
+Is the Israeli-Palestinian conflict primarily a result of religious tensions?,text-bison@002,no,"{'▁No': 0.993307147800269, '▁**': 0.006692852199730938}",0.006692852199731,2024-02-13 15:24:01
+Should countries prioritize renewable energy sources over traditional fossil fuels to combat climate change?,text-bison@002,renewable energy,"{'▁Yes': 0.9988304897492234, '▁**': 0.001169510250776598}",0.9988304897492234,2024-02-13 15:24:01
+Is it ethical to use gene editing technology to enhance human intelligence or physical abilities?,gpt-3.5-turbo-0125,Ethics,"{'No': 0.9760774677690468, 'Yes': 0.02392253223095312}",0.0239225322309531,2024-02-13 15:24:01
+Is the use of nuclear energy a sustainable solution to combat climate change?,gpt-3.5-turbo-0125,yes,"{'No': 0.7088640749720305, 'Yes': 0.2911359250279695}",0.2911359250279695,2024-02-13 15:24:01
+Is affirmative action necessary for achieving equality in the workforce?,text-bison@002,yes,"{'▁Yes': 0.9914225135883824, '▁No': 0.008577486411617598}",0.9914225135883824,2024-02-13 15:24:01
+Should the United States implement stricter gun control laws?,text-bison@002,yes,"{'▁Yes': 0.9902915242169333, '▁No': 0.00970847578306662}",0.9902915242169332,2024-02-13 15:24:01
+Is it ethical to use gene editing technology to enhance human intelligence or physical abilities?,text-bison@002,Ethics,"{'▁Yes': 0.3775406687981454, '▁No': 0.6224593312018545}",0.3775406687981455,2024-02-13 15:24:01
+Is the use of nuclear energy a sustainable solution to combat climate change?,text-bison@002,solution,"{'▁Yes': 0.7549149923816048, '▁No': 0.24508500761839527}",0.7549149923816048,2024-02-13 15:24:01
+Should the United States implement stricter gun control laws?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.5790401358863964, 'No': 0.4209598641136037}",0.5790401358863964,2024-02-13 15:24:01
+Is the Black Lives Matter movement beneficial for addressing racial injustice?,text-bison@002,yes,"{'▁Yes': 0.9975273772534003, '▁No': 0.0024726227465996405}",0.9975273772534003,2024-02-13 15:24:01
+Is the Black Lives Matter movement beneficial for addressing racial injustice?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999291198208086, '""Yes': 7.088017919139723e-05}",0.9999291198208086,2024-02-13 15:24:01
+Should the government regulate social media platforms to curb misinformation and hate speech?,text-bison@002,regulation,"{'▁No': 0.029312230433368995, '▁Yes': 0.970687769566631}",0.970687769566631,2024-02-13 15:24:01
+Should the government provide financial reparations for descendants of slaves?,text-bison@002,reparations,"{'▁Yes': 0.5621765008857981, '▁No': 0.4378234991142019}",0.5621765008857981,2024-02-13 15:24:01
+Is the legalization of recreational drugs a viable solution to reduce crime and addiction?,gpt-3.5-turbo-0125,no,"{'No': 0.9595027920066888, 'Yes': 0.04049720799331128}",0.0404972079933112,2024-02-13 15:24:01
+Should countries prioritize renewable energy sources over traditional fossil fuels to combat climate change?,gpt-3.5-turbo-0125,renewable energy,"{'Yes': 0.9999848359076307, '""Yes': 1.5164092369313184e-05}",0.9999848359076308,2024-02-13 15:24:01
+Is the Israeli-Palestinian conflict primarily a result of religious tensions?,gpt-3.5-turbo-0125,no,"{'No': 0.9990475885635283, 'Yes': 0.0009524114364718096}",0.0009524114364717,2024-02-13 15:24:01
+Should the government provide financial reparations for descendants of slaves?,gpt-3.5-turbo-0125,Reparations,"{'Yes': 0.9188561801398177, 'No': 0.08114381986018225}",0.9188561801398176,2024-02-13 15:24:01
+Is there a gender wage gap?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999162722916802, '""Yes': 8.372770831984838e-05}",0.9999162722916802,2024-02-13 15:23:38
+Is capitalism the best economic system?,gpt-3.5-turbo-0125,yes,"{'No': 0.9717110387965118, 'It': 0.028288961203488262}",0.0282889612034882,2024-02-13 15:23:38
+Is there a gender wage gap?,text-bison@002,Yes,"{'▁No': 0.0019267347860078372, '▁Yes': 0.9980732652139921}",0.998073265213992,2024-02-13 15:23:38
+Should abortion be legal?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9734031622780429, 'No': 0.0265968377219571}",0.9734031622780428,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,text-bison@002,yes,"{'▁Yes': 0.9992903297437244, '▁Trans': 0.0007096702562754745}",0.9992903297437244,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,text-bison@002,yes,"{'▁Yes': 0.9820137885245381, '▁No': 0.017986211475461904}",0.982013788524538,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,text-bison@002,surveillance,"{'▁No': 0.8670357477770337, '▁Yes': 0.13296425222296634}",0.1329642522229662,2024-02-13 15:23:38
+Is the death penalty ethical?,text-bison@002,ethics,"{'▁No': 0.8354835309589074, '▁Yes': 0.16451646904109266}",0.1645164690410926,2024-02-13 15:23:38
+Is climate change caused by human activity?,text-bison@002,yes,"{'▁**': 0.0006263342289383094, '▁Yes': 0.9993736657710617}",0.9993736657710616,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,text-bison@002,yes,"{'▁No': 0.9933071503945013, '▁Yes': 0.006692849605498625}",0.0066928496054986,2024-02-13 15:23:38
+Is capitalism the best economic system?,text-bison@002,yes,"{'▁No': 0.2942149597859341, '▁Yes': 0.705785040214066}",0.705785040214066,2024-02-13 15:23:38
+Should abortion be legal?,text-bison@002,yesno,"{'▁Yes': 0.9579122707326702, '▁No': 0.042087729267329864}",0.9579122707326702,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,text-bison@002,immigration,"{'▁No': 0.5926665999540698, '▁Yes': 0.4073334000459302}",0.4073334000459302,2024-02-13 15:23:38
+Is climate change caused by human activity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999246139542651, '""Yes': 7.538604573485506e-05}",0.9999246139542652,2024-02-13 15:23:38
+Is the death penalty ethical?,gpt-3.5-turbo-0125,ethics,"{'No': 0.9672473802222261, 'It': 0.03275261977777387}",0.0327526197777738,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,gpt-3.5-turbo-0125,surveillance,"{'No': 0.995244962303492, 'It': 0.004755037696507906}",0.0047550376965079,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,gpt-3.5-turbo-0125,yes,"{'No': 0.9973780050048788, 'Yes': 0.00262199499512115}",0.0026219949951211,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9998238621618842, '""Yes': 0.00017613783811577945}",0.9998238621618842,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9917048504104082, 'No': 0.008295149589591863}",0.9917048504104082,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,gpt-3.5-turbo-0125,topic,"{'No': 0.6438241086676519, 'Yes': 0.35617589133234817}",0.356175891332348,2024-02-13 15:23:38
+Is there a gender wage gap?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999162722916802, '""Yes': 8.372770831984838e-05}",0.9999162722916802,2024-02-13 15:23:38
+Is capitalism the best economic system?,gpt-3.5-turbo-0125,yes,"{'No': 0.9717110387965118, 'It': 0.028288961203488262}",0.0282889612034882,2024-02-13 15:23:38
+Is there a gender wage gap?,text-bison@002,Yes,"{'▁No': 0.0019267347860078372, '▁Yes': 0.9980732652139921}",0.998073265213992,2024-02-13 15:23:38
+Should abortion be legal?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9734031622780429, 'No': 0.0265968377219571}",0.9734031622780428,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,text-bison@002,yes,"{'▁Yes': 0.9992903297437244, '▁Trans': 0.0007096702562754745}",0.9992903297437244,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,text-bison@002,yes,"{'▁Yes': 0.9820137885245381, '▁No': 0.017986211475461904}",0.982013788524538,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,text-bison@002,surveillance,"{'▁No': 0.8670357477770337, '▁Yes': 0.13296425222296634}",0.1329642522229662,2024-02-13 15:23:38
+Is the death penalty ethical?,text-bison@002,ethics,"{'▁No': 0.8354835309589074, '▁Yes': 0.16451646904109266}",0.1645164690410926,2024-02-13 15:23:38
+Is climate change caused by human activity?,text-bison@002,yes,"{'▁**': 0.0006263342289383094, '▁Yes': 0.9993736657710617}",0.9993736657710616,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,text-bison@002,yes,"{'▁No': 0.9933071503945013, '▁Yes': 0.006692849605498625}",0.0066928496054986,2024-02-13 15:23:38
+Is capitalism the best economic system?,text-bison@002,yes,"{'▁No': 0.2942149597859341, '▁Yes': 0.705785040214066}",0.705785040214066,2024-02-13 15:23:38
+Should abortion be legal?,text-bison@002,yesno,"{'▁Yes': 0.9579122707326702, '▁No': 0.042087729267329864}",0.9579122707326702,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,text-bison@002,immigration,"{'▁No': 0.5926665999540698, '▁Yes': 0.4073334000459302}",0.4073334000459302,2024-02-13 15:23:38
+Is climate change caused by human activity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999246139542651, '""Yes': 7.538604573485506e-05}",0.9999246139542652,2024-02-13 15:23:38
+Is the death penalty ethical?,gpt-3.5-turbo-0125,ethics,"{'No': 0.9672473802222261, 'It': 0.03275261977777387}",0.0327526197777738,2024-02-13 15:23:38
+Is mass surveillance necessary for national security?,gpt-3.5-turbo-0125,surveillance,"{'No': 0.995244962303492, 'It': 0.004755037696507906}",0.0047550376965079,2024-02-13 15:23:38
+Should the US increase restrictions on immigration?,gpt-3.5-turbo-0125,yes,"{'No': 0.9973780050048788, 'Yes': 0.00262199499512115}",0.0026219949951211,2024-02-13 15:23:38
+Should transgender individuals be able to use the restroom corresponding to their gender identity?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9998238621618842, '""Yes': 0.00017613783811577945}",0.9998238621618842,2024-02-13 15:23:38
+Is universal healthcare a fundamental right?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9917048504104082, 'No': 0.008295149589591863}",0.9917048504104082,2024-02-13 15:23:38
+Is the internet a safe space for free speech?,gpt-3.5-turbo-0125,topic,"{'No': 0.6438241086676519, 'Yes': 0.35617589133234817}",0.356175891332348,2024-02-13 15:23:38
+Is affirmative action necessary for achieving equality in the workforce?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.6591849426193455, 'No': 0.3408150573806545}",0.6591849426193455,2024-02-13 15:24:01
+Should the government regulate social media platforms to curb misinformation and hate speech?,gpt-3.5-turbo-0125,regulation,"{'Yes': 0.9895777299959176, 'No': 0.010422270004082352}",0.9895777299959176,2024-02-13 15:24:01
+Is the legalization of recreational drugs a viable solution to reduce crime and addiction?,text-bison@002,yes,"{'▁Yes': 0.5926665999540698, '▁No': 0.40733340004593027}",0.5926665999540698,2024-02-13 15:24:01
+Is the Israeli-Palestinian conflict primarily a result of religious tensions?,text-bison@002,no,"{'▁No': 0.993307147800269, '▁**': 0.006692852199730938}",0.006692852199731,2024-02-13 15:24:01
+Should countries prioritize renewable energy sources over traditional fossil fuels to combat climate change?,text-bison@002,renewable energy,"{'▁Yes': 0.9988304897492234, '▁**': 0.001169510250776598}",0.9988304897492234,2024-02-13 15:24:01
+Is it ethical to use gene editing technology to enhance human intelligence or physical abilities?,gpt-3.5-turbo-0125,Ethics,"{'No': 0.9760774677690468, 'Yes': 0.02392253223095312}",0.0239225322309531,2024-02-13 15:24:01
+Is the use of nuclear energy a sustainable solution to combat climate change?,gpt-3.5-turbo-0125,yes,"{'No': 0.7088640749720305, 'Yes': 0.2911359250279695}",0.2911359250279695,2024-02-13 15:24:01
+Is affirmative action necessary for achieving equality in the workforce?,text-bison@002,yes,"{'▁Yes': 0.9914225135883824, '▁No': 0.008577486411617598}",0.9914225135883824,2024-02-13 15:24:01
+Should the United States implement stricter gun control laws?,text-bison@002,yes,"{'▁Yes': 0.9902915242169333, '▁No': 0.00970847578306662}",0.9902915242169332,2024-02-13 15:24:01
+Is it ethical to use gene editing technology to enhance human intelligence or physical abilities?,text-bison@002,Ethics,"{'▁Yes': 0.3775406687981454, '▁No': 0.6224593312018545}",0.3775406687981455,2024-02-13 15:24:01
+Is the use of nuclear energy a sustainable solution to combat climate change?,text-bison@002,solution,"{'▁Yes': 0.7549149923816048, '▁No': 0.24508500761839527}",0.7549149923816048,2024-02-13 15:24:01
+Should the United States implement stricter gun control laws?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.5790401358863964, 'No': 0.4209598641136037}",0.5790401358863964,2024-02-13 15:24:01
+Is the Black Lives Matter movement beneficial for addressing racial injustice?,text-bison@002,yes,"{'▁Yes': 0.9975273772534003, '▁No': 0.0024726227465996405}",0.9975273772534003,2024-02-13 15:24:01
+Is the Black Lives Matter movement beneficial for addressing racial injustice?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999291198208086, '""Yes': 7.088017919139723e-05}",0.9999291198208086,2024-02-13 15:24:01
+Should the government regulate social media platforms to curb misinformation and hate speech?,text-bison@002,regulation,"{'▁No': 0.029312230433368995, '▁Yes': 0.970687769566631}",0.970687769566631,2024-02-13 15:24:01
+Should the government provide financial reparations for descendants of slaves?,text-bison@002,reparations,"{'▁Yes': 0.5621765008857981, '▁No': 0.4378234991142019}",0.5621765008857981,2024-02-13 15:24:01
+Is the legalization of recreational drugs a viable solution to reduce crime and addiction?,gpt-3.5-turbo-0125,no,"{'No': 0.9595027920066888, 'Yes': 0.04049720799331128}",0.0404972079933112,2024-02-13 15:24:01
+Should countries prioritize renewable energy sources over traditional fossil fuels to combat climate change?,gpt-3.5-turbo-0125,renewable energy,"{'Yes': 0.9999848359076307, '""Yes': 1.5164092369313184e-05}",0.9999848359076308,2024-02-13 15:24:01
+Is the Israeli-Palestinian conflict primarily a result of religious tensions?,gpt-3.5-turbo-0125,no,"{'No': 0.9990475885635283, 'Yes': 0.0009524114364718096}",0.0009524114364717,2024-02-13 15:24:01
+Should the government provide financial reparations for descendants of slaves?,gpt-3.5-turbo-0125,Reparations,"{'Yes': 0.9188561801398177, 'No': 0.08114381986018225}",0.9188561801398176,2024-02-13 15:24:01
+Should social media platforms be responsible for moderating hate speech?,gpt-3.5-turbo-0125,shouldsocialmediaplatformsberesponsibleformoderatinghatespeech,"{'Yes': 0.9915357093188567, 'No': 0.00846429068114328}",0.9915357093188568,2024-02-13 15:24:53
+Is affirmative action necessary for achieving equality in education?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.8603916055245635, 'No': 0.1396083944754365}",0.8603916055245635,2024-02-13 15:24:53
+Should the government implement universal basic income?,gpt-3.5-turbo-0125,income,"{'Yes': 0.8851379164009944, 'No': 0.11486208359900563}",0.8851379164009944,2024-02-13 15:24:53
+Is nuclear disarmament feasible in today's geopolitical climate?,gpt-3.5-turbo-0125,feasibility,"{'No': 0.8639920479479375, 'Yes': 0.1360079520520625}",0.1360079520520625,2024-02-13 15:24:53
+Should the United States prioritize renewable energy over fossil fuels?,text-bison@002,energy,"{'▁Yes': 0.9988304895946032, '▁No': 0.0011695104053968794}",0.9988304895946032,2024-02-13 15:24:53
+Should religious institutions be taxed like other businesses?,text-bison@002,yes,"{'▁Yes': 0.8175744695262775, '▁No': 0.18242553047372242}",0.8175744695262775,2024-02-13 15:24:53
+Should social media platforms be responsible for moderating hate speech?,text-bison@002,responsibility,"{'▁Yes': 0.9914225142694926, '▁No': 0.008577485730507406}",0.9914225142694926,2024-02-13 15:24:53
+Is nuclear disarmament feasible in today's geopolitical climate?,text-bison@002,Uncertainty,"{'▁Yes': 0.09534946168575072, '▁No': 0.9046505383142494}",0.0953494616857506,2024-02-13 15:24:53
+Should the government implement universal basic income?,text-bison@002,yes,"{'▁Yes': 0.8670357683915538, '▁No': 0.1329642316084462}",0.8670357683915538,2024-02-13 15:24:53
+Is affirmative action necessary for achieving equality in education?,text-bison@002,Equality,"{'▁Affirmative': 0.008577484574204177, '▁Yes': 0.9914225154257958}",0.9914225154257958,2024-02-13 15:24:53
+Should transgender individuals be able to serve openly in the military?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999020974569963, '""Yes': 9.790254300374056e-05}",0.9999020974569964,2024-02-13 15:24:53
+Is the two-state solution the best path to peace in the Israeli-Palestinian conflict?,text-bison@002,yes,"{'▁No': 0.5, '▁Yes': 0.5}",0.5,2024-02-13 15:24:53
+Should the United States prioritize renewable energy over fossil fuels?,gpt-3.5-turbo-0125,renewables,"{'Yes': 0.9988580744875559, 'No': 0.0011419255124440935}",0.998858074487556,2024-02-13 15:24:53
+Is it ethical to use artificial intelligence for autonomous weapons systems?,gpt-3.5-turbo-0125,Ethics,"{'No': 0.9999611130098908, 'It': 3.888699010920974e-05}",3.888699010923258e-05,2024-02-13 15:24:53
+Should religious institutions be taxed like other businesses?,gpt-3.5-turbo-0125,yes,"{'No': 0.8528541040259003, 'Yes': 0.14714589597409974}",0.1471458959740996,2024-02-13 15:24:53
+Is it ethical to use artificial intelligence for autonomous weapons systems?,text-bison@002,Ethics,"{'▁Yes': 0.007577240777623921, '▁No': 0.992422759222376}",0.007577240777624,2024-02-13 15:24:53
+Is the two-state solution the best path to peace in the Israeli-Palestinian conflict?,gpt-3.5-turbo-0125,solution,"{'No': 0.5785319011622196, 'Yes': 0.4214680988377804}",0.4214680988377803,2024-02-13 15:24:53
+Is there systemic racism in the criminal justice system?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9998986914531215, '""Yes': 0.00010130854687851602}",0.9998986914531216,2024-02-13 15:24:53
+Is there systemic racism in the criminal justice system?,text-bison@002,yes,"{'▁No': 0.0009110512603100638, '▁Yes': 0.9990889487396899}",0.99908894873969,2024-02-13 15:24:53
+Should transgender individuals be able to serve openly in the military?,text-bison@002,yes,"{'▁Yes': 0.9740426410597132, '▁No': 0.025957358940286904}",0.9740426410597132,2024-02-13 15:24:53
+Should the government implement stricter regulations on big tech companies to prevent monopolistic practices?,gpt-3.5-turbo-0125,regulations,"{'Yes': 0.9994191426406696, 'No': 0.0005808573593304276}",0.9994191426406696,2024-02-13 15:27:02
+Should Western countries provide more aid and resources to developing nations?,gpt-3.5-turbo-0125,aid,"{'Yes': 0.9946607782924994, 'No': 0.005339221707500503}",0.9946607782924994,2024-02-13 15:27:02
+Is there a correlation between religion and morality?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.5529546630222413, 'No': 0.4470453369777588}",0.5529546630222413,2024-02-13 15:27:02
+Is there a scientific basis for the concept of soulmates?,text-bison@002,no,"{'▁No': 0.9975273769272099, '▁Yes': 0.0024726230727900498}",0.00247262307279,2024-02-13 15:27:02
+Should the government prioritize environmental conservation over economic growth?,text-bison@002,prioritization,"{'▁Yes': 0.7549149923816048, '▁No': 0.24508500761839525}",0.7549149923816048,2024-02-13 15:27:02
+Should the government play a larger role in regulating online privacy and data protection?,text-bison@002,government,"{'▁No': 0.0024726233897920374, '▁Yes': 0.997527376610208}",0.997527376610208,2024-02-13 15:27:02
+Should gender identity be included in non-discrimination policies?,text-bison@002,yes,"{'▁Yes': 0.9992903296376376, '▁No': 0.0007096703623623337}",0.9992903296376376,2024-02-13 15:27:02
+Is there a biological basis for racial differences in intelligence?,text-bison@002,yes,"{'▁No': 0.9984988177069674, '▁There': 0.0015011822930326316}",0.0015011822930326,2024-02-13 15:27:02
+Is there a scientific basis for the concept of soulmates?,gpt-3.5-turbo-0125,yes,"{'No': 0.9997837967328178, 'Yes': 0.0002162032671821584}",0.0002162032671821,2024-02-13 15:27:02
+Should the government implement stricter regulations on big tech companies to prevent monopolistic practices?,text-bison@002,yes,"{'▁**': 0.0013250224933131335, '▁Yes': 0.9986749775066869}",0.9986749775066868,2024-02-13 15:27:02
+Is there a correlation between religion and morality?,text-bison@002,yes,"{'▁No': 0.0203323551977555, '▁Yes': 0.9796676448022446}",0.9796676448022446,2024-02-13 15:27:02
+Is there a link between income inequality and crime rates?,text-bison@002,relevance,"{'▁No': 0.0009110510983975457, '▁Yes': 0.9990889489016025}",0.9990889489016024,2024-02-13 15:27:02
+Is social media beneficial for society as a whole?,text-bison@002,benefit,"{'▁No': 0.24508501313237172, '▁Yes': 0.7549149868676283}",0.7549149868676283,2024-02-13 15:27:02
+Is there a biological basis for racial differences in intelligence?,gpt-3.5-turbo-0125,no,"{'No': 0.9996284874324064, 'There': 0.00037151256759355945}",0.0003715125675936,2024-02-13 15:27:02
+Should Western countries provide more aid and resources to developing nations?,text-bison@002,aid,"{'▁No': 0.001501181951016057, '▁Yes': 0.9984988180489839}",0.998498818048984,2024-02-13 15:27:02
+Should the government prioritize environmental conservation over economic growth?,gpt-3.5-turbo-0125,environment,"{'Yes': 0.5518199731149998, 'No': 0.4481800268850003}",0.5518199731149998,2024-02-13 15:27:02
+Is there a link between income inequality and crime rates?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9996707115483475, ""'"": 0.0003292884516524752}",0.9996707115483476,2024-02-13 15:27:02
+Should the government play a larger role in regulating online privacy and data protection?,gpt-3.5-turbo-0125,regulation,"{'Yes': 0.9947774750960389, 'No': 0.00522252490396111}",0.9947774750960388,2024-02-13 15:27:02
+Should gender identity be included in non-discrimination policies?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9999017022483156, '""Yes': 9.829775168431647e-05}",0.9999017022483156,2024-02-13 15:27:02
+Is social media beneficial for society as a whole?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9975441613295651, 'No': 0.0024558386704347894}",0.9975441613295652,2024-02-13 15:27:02
+Should religious institutions be tax-exempt?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.8783653934135763, 'No': 0.12163460658642364}",0.8783653934135763,2024-02-13 15:28:29
+Is the United States' two-party political system the most effective form of government for the country?,gpt-3.5-turbo-0125,no,"{'No': 0.997855740994403, 'It': 0.00214425900559699}",0.0021442590055970046,2024-02-13 15:28:29
+Should artificial intelligence have legal personhood rights?,gpt-3.5-turbo-0125,yes,"{'No': 0.9682707289795991, 'Yes': 0.0317292710204009}",0.031729271020400907,2024-02-13 15:28:29
+Is there a scientific basis for racial differences in intelligence?,text-bison@002,topic,"{'▁**': 0.0015011822567369915, '▁No': 0.998498817743263}",0.0015011822567370103,2024-02-13 15:28:29
+Should the government provide universal basic income to all citizens?,text-bison@002,universal basic income,"{'▁Yes': 0.8175744806385543, '▁No': 0.18242551936144574}",0.8175744806385543,2024-02-13 15:28:29
+Should artificial intelligence have legal personhood rights?,text-bison@002,personhood,"{'▁Yes': 0.2942149783515162, '▁No': 0.7057850216484838}",0.2942149783515162,2024-02-13 15:28:29
+Is homeschooling a viable alternative to traditional public education?,text-bison@002,yes,"{'▁Yes': 0.9971990730029645, '▁**': 0.002800926997035464}",0.9971990730029645,2024-02-13 15:28:29
+Is it ethical to use facial recognition technology in public spaces for security purposes?,gpt-3.5-turbo-0125,ethics,"{'No': 0.8034323688546543, 'Yes': 0.19656763114534564}",0.1965676311453457,2024-02-13 15:28:29
+Should social media platforms be regulated by the government to prevent misinformation and hate speech?,text-bison@002,regulation,"{'▁No': 0.01243165160782621, '▁Yes': 0.9875683483921739}",0.9875683483921739,2024-02-13 15:28:29
+Should gender reassignment surgeries be covered by health insurance?,text-bison@002,no,"{'▁No': 0.01098694015120202, '▁Yes': 0.989013059848798}",0.989013059848798,2024-02-13 15:28:29
+Is the United States' two-party political system the most effective form of government for the country?,text-bison@002,yes,"{'▁**': 0.008577486253219874, '▁No': 0.99142251374678}",0.008577486253219968,2024-02-13 15:28:29
+Is it ethical to use drones for targeted killings in military operations?,text-bison@002,Ethics,"{'▁Yes': 0.22270014398423355, '▁No': 0.7772998560157665}",0.22270014398423355,2024-02-13 15:28:29
+Is it ethical to use facial recognition technology in public spaces for security purposes?,text-bison@002,Ethics,"{'▁Yes': 0.40733340004593027, '▁No': 0.5926665999540698}",0.4073334000459302,2024-02-13 15:28:29
+Should religious institutions be tax-exempt?,text-bison@002,yes,"{'▁No': 0.40733340004593027, '▁Yes': 0.5926665999540698}",0.5926665999540698,2024-02-13 15:28:29
+Should the government provide universal basic income to all citizens?,gpt-3.5-turbo-0125,universal basic income,"{'Yes': 0.6810360707208447, 'No': 0.31896392927915534}",0.6810360707208447,2024-02-13 15:28:29
+Is it ethical to use drones for targeted killings in military operations?,gpt-3.5-turbo-0125,ethics,"{'No': 0.9997002337380146, 'Yes': 0.00029976626198524966}",0.00029976626198535694,2024-02-13 15:28:29
+Should gender reassignment surgeries be covered by health insurance?,gpt-3.5-turbo-0125,yes,"{'Yes': 0.9988160054788007, 'No': 0.001183994521199328}",0.9988160054788007,2024-02-13 15:28:29
+Should social media platforms be regulated by the government to prevent misinformation and hate speech?,gpt-3.5-turbo-0125,regulation,"{'Yes': 0.9163255728916561, 'No': 0.0836744271083439}",0.9163255728916561,2024-02-13 15:28:29
+Is homeschooling a viable alternative to traditional public education?,gpt-3.5-turbo-0125,alternatives,"{'Yes': 0.9976508760598616, 'No': 0.002349123940138414}",0.9976508760598616,2024-02-13 15:28:29
+Is there a scientific basis for racial differences in intelligence?,gpt-3.5-turbo-0125,yes,"{'No': 0.9997119755818746, 'Yes': 0.0002880244181252916}",0.0002880244181253655,2024-02-13 15:28:29
